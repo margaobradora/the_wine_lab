@@ -1,0 +1,900 @@
+Encabezados,name_w,year_w,price,user_score,type_w,region,alcohol_content,wine_grape,pk_score,pn_score,sk_score
+0,Pago de Carraovejas, 2021,"37,40 €","4,8",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,93 PK,93 PN,91 SK
+1,José Pariente Verdejo, 2022,"10,50 €","4,5",Vino blanco,Rueda,"13,0%",Verdejo,NA,92 PN,NA
+2,Ultreia Saint Jacques, 2021,"11,50 €","4,2",Vino tinto,Bierzo,"13,5%",Mencía,93 PK,92 PN,NA
+3,PSI, 2021,"39,95 €","4,6",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,93-95 PK,94 PN,94 SK
+4,Viña Tondonia Reserva, 2010,"38,90 €","4,5",Vino tinto,Rioja,"13,0%",Tempranillo,94 PK,93 PN,95 SK
+5,Tinto Pesquera Crianza, 2020,"19,30 €","4,5",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,92 PN,93 SK
+6,Aalto, 2021,"38,70 €","4,8",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,94 PK,93 PN,93 SK
+7,La Montesa, 2020,"15,35 €","4,3",Vino tinto,Rioja,"14,0%",Garnacha,93 PK,93 PN,94 SK
+8,Terras Gauda, 2022,"15,75 €","4,6",Vino blanco,Rías Baixas,"12,0%",Albariño,NA,92 PN,NA
+9,Ramón Bilbao Crianza, 2019,"9,95 €","4,4",Vino tinto,Rioja,"14,0%",Tempranillo,NA,91 PN,NA
+10,Finca Luna Beberide, 2021,"8,95 €","4,0",Vino tinto,Bierzo,"13,5%",Mencía,93+ PK,90 PN,94 SK
+11,Corimbo, 2019,"21,90 €","4,4",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,94 PK,92 PN,93 SK
+12,El Castro de Valtuille Mencía Joven, 2022,"6,95 €","4,0",Vino tinto,Bierzo,"13,0%",Mencía,91+ PK,90 PN,NA
+13,Pago de Valdoneje Mencía, 2022,"7,95 €","4,1",Vino tinto,Bierzo,"14,5%",Mencía,92 PK,90 PN,92 SK
+14,Louro, 2022,"18,50 €","4,4",Vino blanco,Valdeorras,"14,0%",Godello,92+ PK,92 PN,NA
+15,Viña Ardanza Reserva, 2016,"28,40 €","4,6",Vino tinto,Rioja,"14,5%",Tempranillo,94+ PK,94 PN,95 SK
+16,Malpaso, 2022,"14,50 €","4,0",Vino tinto,Méntrida,"14,0%",Syrah,94 PK,93 PN,91 SK
+17,Les Cousins L'Inconscient, 2022,"10,95 €","4,3",Vino tinto,Priorat,"14,5%",Cariñena,NA,NA,NA
+18,Pétalos del Bierzo, 2021,"17,50 €","4,3",Vino tinto,Bierzo,"13,5%",Mencía,92-93 PK,92 PN,92 SK
+19,Paixar, 2021,"31,90 €","4,1",Vino tinto,Bierzo,"13,5%",Mencía,97 PK,93 PN,NA
+20,Recaredo Terrers Brut Nature, 2019,"27,50 €","4,6",Cava,Corpinnat,"11,5%",Xarel·lo,93+ PK,94 PN,NA
+21,Gramona Imperial, 2018,"23,20 €","4,7",Cava,Corpinnat,"12,0%",Xarel·lo,91+ PK,NA,NA
+22,Muga Crianza , 2020,"18,95 €","4,5",Vino tinto,Rioja,"14,0%",Tempranillo,NA,NA,NA
+23,Marqués de Murrieta, 2019,"26,50 €","4,5",Vino tinto,Rioja,"14,0%",Tempranillo,94 PK,93 PN,96 SK
+24,Pepe Yllera Roble, 2019,"9,40 €","4,4",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,92 PK,NA,NA
+25,Lindes de Remelluri Viñedos de Labastida, 2020,"17,70 €","4,4",Vino tinto,Rioja,"13,5%",Tempranillo,94 PK,93 PN,93 SK
+26,Ultreia Godello, 2021,"15,50 €","4,3",Vino blanco,Bierzo,"13,5%",Godello,93+ PK,93 PN,NA
+27,O Luar Do Sil, 2022,"12,80 €","4,3",Vino blanco,Valdeorras,"13,0%",Godello,NA,NA,NA
+28,Les Terrasses, 2021,"39,55 €","4,4",Vino tinto,Priorat,"14,5%",Cariñena,94-96 PK,93 PN,93 SK
+29,Juan Gil Etiqueta Plata, 2021,"12,25 €","4,4",Vino tinto,Jumilla,"15,0%",Monastrell,93 PK,93 PN,90 SK
+30,Domaines Lupier El Terroir, 2018,"19,90 €","4,5",Vino tinto,Navarra,"14,5%",Garnacha,95 PK,94 PN,NA
+31,Muga Reserva Selección Especial, 2019,"31,90 €","4,7",Vino tinto,Rioja,"14,0%",Tempranillo,95 PK,94 PN,94 SK
+32,Pruno, 2021,"12,50 €","4,2",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,91 PK,90 PN,90 SK
+33,Victorino, 2020,"43,50 €","4,7",Vino tinto,Toro,"14,5%",Tinta de Toro,94 PK,96 PN,93 SK
+34,Raventós i Blanc de Nit, 2021,"19,15 €","4,5",Cava,Conca del Riu Anoia,"12,0%",Macabeo,92+ PK,90 PN,NA
+35,Rigol Brut Nature,,"4,50 €","4,5",Cava,DO Cava,"11,5%",Parellada,NA,NA,NA
+36,Pago de Carraovejas, 2021,"37,40 €","4,8",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,93 PK,93 PN,91 SK
+37,José Pariente Verdejo, 2022,"10,50 €","4,5",Vino blanco,Rueda,"13,0%",Verdejo,NA,92 PN,NA
+38,Ultreia Saint Jacques, 2021,"11,50 €","4,2",Vino tinto,Bierzo,"13,5%",Mencía,93 PK,92 PN,NA
+39,PSI, 2021,"39,95 €","4,6",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,93-95 PK,94 PN,94 SK
+40,Viña Tondonia Reserva, 2010,"38,90 €","4,5",Vino tinto,Rioja,"13,0%",Tempranillo,94 PK,93 PN,95 SK
+41,Tinto Pesquera Crianza, 2020,"19,30 €","4,5",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,92 PN,93 SK
+42,Aalto, 2021,"38,70 €","4,8",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,94 PK,93 PN,93 SK
+43,La Montesa, 2020,"15,35 €","4,3",Vino tinto,Rioja,"14,0%",Garnacha,93 PK,93 PN,94 SK
+44,Terras Gauda, 2022,"15,75 €","4,6",Vino blanco,Rías Baixas,"12,0%",Albariño,NA,92 PN,NA
+45,Ramón Bilbao Crianza, 2019,"9,95 €","4,4",Vino tinto,Rioja,"14,0%",Tempranillo,NA,91 PN,NA
+46,Finca Luna Beberide, 2021,"8,95 €","4,0",Vino tinto,Bierzo,"13,5%",Mencía,93+ PK,90 PN,94 SK
+47,Corimbo, 2019,"21,90 €","4,4",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,94 PK,92 PN,93 SK
+48,El Castro de Valtuille Mencía Joven, 2022,"6,95 €","4,0",Vino tinto,Bierzo,"13,0%",Mencía,91+ PK,90 PN,NA
+49,Pago de Valdoneje Mencía, 2022,"7,95 €","4,1",Vino tinto,Bierzo,"14,5%",Mencía,92 PK,90 PN,92 SK
+50,Louro, 2022,"18,50 €","4,4",Vino blanco,Valdeorras,"14,0%",Godello,92+ PK,92 PN,NA
+51,Viña Ardanza Reserva, 2016,"28,40 €","4,6",Vino tinto,Rioja,"14,5%",Tempranillo,94+ PK,94 PN,95 SK
+52,Malpaso, 2022,"14,50 €","4,0",Vino tinto,Méntrida,"14,0%",Syrah,94 PK,93 PN,91 SK
+53,Les Cousins L'Inconscient, 2022,"10,95 €","4,3",Vino tinto,Priorat,"14,5%",Cariñena,NA,NA,NA
+54,Pétalos del Bierzo, 2021,"17,50 €","4,3",Vino tinto,Bierzo,"13,5%",Mencía,92-93 PK,92 PN,92 SK
+55,Paixar, 2021,"31,90 €","4,1",Vino tinto,Bierzo,"13,5%",Mencía,97 PK,93 PN,NA
+56,Recaredo Terrers Brut Nature, 2019,"27,50 €","4,6",Cava,Corpinnat,"11,5%",Xarel·lo,93+ PK,94 PN,NA
+57,Gramona Imperial, 2018,"23,20 €","4,7",Cava,Corpinnat,"12,0%",Xarel·lo,91+ PK,NA,NA
+58,Muga Crianza , 2020,"18,95 €","4,5",Vino tinto,Rioja,"14,0%",Tempranillo,NA,NA,NA
+59,Marqués de Murrieta, 2019,"26,50 €","4,5",Vino tinto,Rioja,"14,0%",Tempranillo,94 PK,93 PN,96 SK
+60,Pepe Yllera Roble, 2019,"9,40 €","4,4",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,92 PK,NA,NA
+61,Lindes de Remelluri Viñedos de Labastida, 2020,"17,70 €","4,4",Vino tinto,Rioja,"13,5%",Tempranillo,94 PK,93 PN,93 SK
+62,Ultreia Godello, 2021,"15,50 €","4,3",Vino blanco,Bierzo,"13,5%",Godello,93+ PK,93 PN,NA
+63,O Luar Do Sil, 2022,"12,80 €","4,3",Vino blanco,Valdeorras,"13,0%",Godello,NA,NA,NA
+64,Les Terrasses, 2021,"39,55 €","4,4",Vino tinto,Priorat,"14,5%",Cariñena,94-96 PK,93 PN,93 SK
+65,Juan Gil Etiqueta Plata, 2021,"12,25 €","4,4",Vino tinto,Jumilla,"15,0%",Monastrell,93 PK,93 PN,90 SK
+66,Domaines Lupier El Terroir, 2018,"19,90 €","4,5",Vino tinto,Navarra,"14,5%",Garnacha,95 PK,94 PN,NA
+67,Muga Reserva Selección Especial, 2019,"31,90 €","4,7",Vino tinto,Rioja,"14,0%",Tempranillo,95 PK,94 PN,94 SK
+68,Pruno, 2021,"12,50 €","4,2",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,91 PK,90 PN,90 SK
+69,Victorino, 2020,"43,50 €","4,7",Vino tinto,Toro,"14,5%",Tinta de Toro,94 PK,96 PN,93 SK
+70,Raventós i Blanc de Nit, 2021,"19,15 €","4,5",Cava,Conca del Riu Anoia,"12,0%",Macabeo,92+ PK,90 PN,NA
+71,Rigol Brut Nature,,"4,50 €","4,5",Cava,DO Cava,"11,5%",Parellada,NA,NA,NA
+72,Valldolina Reserva Brut Nature,,"9,95 €","4,3",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+73,Cutio Garnacha, 2020,"8,95 €","3,8",Vino tinto,Cariñena,"14,5%",Garnacha,92+ PK,NA,92 SK
+74,Llopart Reserva Brut Nature, 2019,"14,75 €","4,2",Cava,Corpinnat,"11,5%",Macabeo,91 PK,90 PN,NA
+75,Pago de los Capellanes Crianza, 2021,"26,90 €","4,6",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,92 PK,93 PN,NA
+76,Almirez, 2020,"21,50 €","4,3",Vino tinto,Toro,"14,5%",Tinta de Toro,93 PK,94 PN,91 SK
+77,Mauro, 2021,"35,50 €","4,6",Vino tinto,Castilla y León,"14,5%",Tempranillo,94 PK,92 PN,NA
+78,Matarromera Crianza, 2019,"23,80 €","4,5",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,90 PK,91 PN,NA
+79,Dominio de Atauta, 2020,"28,85 €","4,4",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,94 PK,94 PN,94 SK
+80,Juvé & Camps Reserva de la Familia, 2018,"18,95 €","4,7",Cava,DO Cava,"12,0%",Macabeo,NA,92 PN,91 SK
+81,Carmelo Rodero Crianza, 2021,"24,90 €","4,5",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,91 PK,91 PN,NA
+82,Aalto PS, 2021,"87,95 €","4,8",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,95 PK,94 PN,96 SK
+83,Dominio del Águila Reserva, 2019,"67,80 €","4,9",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,96 PK,96 PN,NA
+84,Camins del Priorat, 2022,"25,45 €","4,5",Vino tinto,Priorat,"14,5%",Garnacha,91 PK,92 PN,92 SK
+85,Honoro Vera Garnacha, 2022,"6,45 €","4,6",Vino tinto,Calatayud,"14,5%",Garnacha,NA,NA,NA
+86,K-Naia, 2022,"7,20 €","4,4",Vino blanco,Rueda,"13,5%",Verdejo,NA,90 PN,NA
+87,Bela, 2021,"11,70 €","3,0",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,92 PK,NA,92 SK
+88,Emilio Moro Finca Resalso, 2022,"9,60 €","4,3",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,90 PN,92 SK
+89,Gessamí, 2023,"12,95 €","4,6",Vino blanco,Penedès,"11,0%",Moscatel de grano menudo,NA,90 PN,NA
+90,Alaya Tierra, 2021,"25,95 €","4,9",Vino tinto,Almansa,"16,0%",Garnacha tintorera,92+ PK,92 PN,91 SK
+91,La Celestina, 2019,"12,90 €","4,3",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,91 PK,91 PN,NA
+92,Sericis Monastrell, 2018,"10,50 €","4,4",Vino tinto,Alicante,"14,0%",Monastrell,NA,NA,NA
+93,Abadía Retuerta Selección Especial, 2019,"32,50 €","4,6",Vino tinto,Abadía Retuerta,"14,5%",Tempranillo,93 PK,94 PN,94 SK
+94,José Pariente Sauvignon Blanc, 2022,"10,50 €","4,5",Vino blanco,Rueda,"13,0%",Sauvignon blanc,NA,91 PN,NA
+95,Viña Zorzal Garnacha Blanca, 2021,"7,50 €","3,8",Vino blanco,Navarra,"14,0%",Garnacha blanca,93 PK,90 PN,NA
+96,La Nieta, 2021,"120,00 €","4,6",Vino tinto,Rioja,"14,5%",Tempranillo,97 PK,95 PN,NA
+97,Recaredo Brut Nature Serral del Vell, 2018,"35,95 €","4,4",Cava,Corpinnat,"12,5%",Xarel·lo,95 PK,94 PN,NA
+98,Carmelo Rodero 9 Meses, 2022,"14,90 €","4,5",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,90 PN,91 SK
+99,La Celestina Vendimia Seleccionada, 2019,"14,50 €","4,5",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,91+ PK,90 PN,NA
+100,Marqués de Riscal Reserva, 2019,"16,90 €","4,4",Vino tinto,Rioja,"14,0%",Tempranillo,NA,94 PN,93 SK
+101,Viña Cubillo, 2016,"15,50 €","4,4",Vino tinto,Rioja,"13,5%",Tempranillo,93 PK,NA,94 SK
+102,Tragolargo, 2022,"7,70 €","3,9",Vino tinto,Alicante,"12,5%",Monastrell,91 PK,NA,NA
+103,Vizcarra, 2020,"16,15 €","3,8",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,92 PK,91 PN,NA
+104,La Atalaya del Camino, 2021,"13,50 €","4,4",Vino tinto,Almansa,"15,0%",Garnacha tintorera,92 PK,NA,NA
+105,Remelluri Reserva, 2015,"26,60 €","4,5",Vino tinto,Rioja,"14,0%",Tempranillo,93+ PK,93 PN,93 SK
+106,Anahí Blanco, 2022,"6,95 €","4,6",Vino blanco,Rioja,"11,0%",Malvasía,NA,NA,NA
+107,Juvé & Camps Brut Rosé,,No se encontró el elemento price,"4,4",Cava,DO Cava,"12,0%",Pinot noir,NA,NA,NA
+108,Familia Oliveda Brut Jove,,"6,40 €","4,6",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+109,Viñas del Vero Gewürztraminer, 2022,"11,50 €","4,4",Vino blanco,Somontano,"13,0%",Gewürztraminer,NA,90 PN,91 SK
+110,Gramona III Lustros, 2015,"34,90 €","4,7",Cava,Corpinnat,"12,0%",Xarel·lo,94 PK,95 PN,NA
+111,Casal de Armán Blanco, 2022,"13,50 €","4,0",Vino blanco,Ribeiro,"13,5%",Treixadura,NA,NA,NA
+112,Emilio Moro, 2020,"20,90 €","4,4",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,91 PK,93 PN,NA
+113,Prima, 2020,"11,95 €","4,4",Vino tinto,Toro,"14,5%",Tinta de Toro,92+ PK,NA,NA
+114,Circe Verdejo, 2022,"9,95 €","4,6",Vino blanco,Rueda,"12,5%",Verdejo,NA,NA,NA
+115,Martín Códax Albariño, 2022,"14,50 €","4,6",Vino blanco,Rías Baixas,"12,5%",Albariño,NA,90 PN,NA
+116,Quintaluna, 2020,"14,90 €","4,3",Vino blanco,Rueda,"14,0%",Verdejo,92 PK,90 PN,NA
+117,Basa Blanco, 2022,"8,55 €","4,5",Vino blanco,Rueda,"13,5%",Verdejo,90 PK,NA,NA
+118,Lindes de Remelluri Viñedos de San Vicente, 2020,"17,70 €","4,4",Vino tinto,Rioja,"13,5%",Tempranillo,92+ PK,92 PN,94 SK
+119,Laya, 2022,"6,45 €","4,2",Vino tinto,Almansa,"14,5%",Garnacha tintorera,90 PK,90 PN,92 SK
+120,Condado de Haza Crianza, 2020,"11,95 €","4,3",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,NA,93 SK
+121,Primero de Fariña, 2023,"6,70 €","4,5",Vino de maceración carbónica,Toro,"14,0%",Tinta de Toro,NA,NA,NA
+122,La Planta, 2022,"9,30 €","4,4",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,90 PK,90 PN,91 SK
+123,Casar de Burbia Godello, 2022,"12,50 €","4,4",Vino blanco,Bierzo,"13,5%",Godello,NA,NA,90 SK
+124,Pago de los Capellanes Reserva, 2020,"40,80 €","4,8",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,91 PK,94 PN,91 SK
+125,Pícaro del Águila Tinto, 2021,"29,95 €","4,4",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,95 PK,NA,NA
+126,Cims de Porrera Vi de Vila, 2019,"16,95 €","4,3",Vino tinto,Priorat,"15,0%",Cariñena,90 PK,NA,NA
+127,Cava Rimarts Martinez Brut Nature Rosé,,"13,95 €","4,6",Cava,DO Cava,"11,5%",Pinot noir,NA,NA,NA
+128,Domaines Lupier La Dama, 2018,"35,95 €","4,5",Vino tinto,Navarra,"14,0%",Garnacha,97 PK,94 PN,NA
+129,El Vínculo Crianza, 2019,"10,90 €","4,5",Vino tinto,La Mancha,"15,5%",Tempranillo,90 PK,NA,90 SK
+130,Cutio Macabeo, 2021,"8,95 €","5,0",Vino blanco,Cariñena,"14,0%",Macabeo,92 PK,NA,92 SK
+131,Vetus, 2019,"17,30 €","4,7",Vino tinto,Toro,"14,5%",Tinta de Toro,92 PK,93 PN,92 SK
+132,Baigorri Crianza, 2019,"12,90 €","4,4",Vino tinto,Rioja,"14,5%",Tempranillo,NA,90 PN,92 SK
+133,Adhuc Tempus Roble, 2021,"7,95 €","4,6",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+134,Altos de Torona Albariño, 2022,"11,50 €","4,4",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,NA,NA
+135,Francisco Barona, 2021,"34,90 €","5,0",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+136,Adernats Reserva Brut Nature,,"8,40 €","4,6",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+137,Roda I, 2018,"51,90 €","4,9",Vino tinto,Rioja,"14,5%",Tempranillo,94 PK,93 PN,94 SK
+138,Carles Andreu Gran Reserva Brut Nature, 2020,"12,90 €","4,5",Cava,DO Cava,"11,5%",Parellada,NA,NA,NA
+139,Ritme, 2020,"14,90 €","4,6",Vino tinto,Priorat,"14,5%",Cariñena,91 PK,NA,NA
+140,Luis Cañas Reserva, 2016,"17,25 €","4,5",Vino tinto,Rioja,"14,5%",Tempranillo,90 PK,92 PN,NA
+141,Venta Las Vacas, 2021,"19,55 €","4,6",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,90+ PK,93 PN,NA
+142,Valduero 2 Maderas, 2019,"25,95 €","4,4",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+143,Bocchoris Brut Nature,,"5,95 €","4,4",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+144,La Niña de Mis Ojos, 2022,"6,90 €","4,3",Vino blanco,Rioja,"12,0%",Sauvignon blanc,NA,NA,NA
+145,Avan Oak, 2022,"6,70 €","4,6",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,NA,NA
+146,Alta Alella Mirgin Rosé Reserva, 2019,"12,95 €","4,4",Cava,DO Cava,"12,0%",Mataró,NA,NA,NA
+147,Llopart Integral Brut Nature, 2021,"16,25 €","4,3",Cava,Corpinnat,"11,5%",Parellada,NA,NA,NA
+148,Carles Andreu Brut Nature Reserva, 2021,"8,95 €","4,6",Cava,DO Cava,"11,5%",Parellada,NA,NA,NA
+149,Familia Valdelana Reserva, 2018,"11,95 €","4,3",Vino tinto,Rioja,"14,5%",Tempranillo,NA,NA,NA
+150,Coto de Hayas Garnacha Centenaria, 2021,"11,95 €","4,5",Vino tinto,Campo de Borja,"14,5%",Garnacha,90 PK,90 PN,NA
+151,Arzuaga Crianza, 2020,"22,95 €","4,6",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,90 PK,90 PN,91 SK
+152,Can Descregut Brut Nature Reserva, 2021,"10,90 €","3,4",Cava,Corpinnat,"11,5%",Xarel·lo,91 PK,NA,NA
+153,Pasos de San Martín, 2019,"18,50 €","4,1",Vino tinto,Navarra,"14,5%",Garnacha,93 PK,95 PN,95 SK
+154,Borsao Zarihs, 2019,"14,65 €","4,1",Vino tinto,Campo de Borja,"15,0%",Syrah,91 PK,NA,NA
+155,Huguet Reserva Brut Nature, 2017,"14,90 €","4,2",Cava,Corpinnat,"12,0%",Parellada,92 PK,NA,NA
+156,Artuke Pies Negros, 2021,"13,70 €","4,4",Vino tinto,Rioja,"14,0%",Tempranillo,92+ PK,92 PN,NA
+157,Valduero Una Cepa, 2018,"33,50 €","5,0",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,92 PK,92 PN,NA
+158,Godeval Godello, 2022,"15,80 €","4,5",Vino blanco,Valdeorras,"13,5%",Godello,90 PK,91 PN,NA
+159,LZ, 2022,"11,95 €","4,1",Vino tinto,Rioja,"14,0%",Tempranillo,92 PK,NA,92 SK
+160,Valparaíso Roble, 2021,"7,90 €","3,0",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,NA,NA
+161,Chivite Las Fincas Rosado, 2022,"12,85 €","4,2",Vino rosado,3 Riberas,"13,5%",Garnacha,NA,91 PN,90 SK
+162,Dehesa la Granja, 2019,"9,50 €","4,5",Vino tinto,Castilla y León,"14,5%",Tempranillo,92 PK,NA,93 SK
+163,Bozeto de Exopto, 2022,"8,70 €","4,1",Vino tinto,Rioja,"14,5%",Garnacha,92 PK,NA,92 SK
+164,Castro Ventosa Valtuille Vino de Villa, 2021,"15,90 €","4,3",Vino tinto,Bierzo,"13,5%",Mencía,94 PK,NA,NA
+165,Bertha Brut Nature Reserva, 2021,"12,80 €","4,3",Cava,DO Cava,"11,5%",Macabeo,NA,NA,90 SK
+166,Lalama, 2020,"19,95 €","4,4",Vino tinto,Ribeira Sacra,"13,0%",Mencía,93+ PK,94 PN,NA
+167,Lapola, 2021,"22,95 €","4,1",Vino blanco,Ribeira Sacra,"13,0%",Doña blanca,93 PK,92 PN,NA
+168,4 Monos GR10, 2021,"12,95 €","3,6",Vino tinto,Vinos de Madrid,"13,5%",Garnacha,93 PK,NA,NA
+169,Ramón Bilbao Reserva, 2016,"14,90 €","4,6",Vino tinto,Rioja,"14,0%",Tempranillo,91+ PK,92 PN,NA
+170,Protos Crianza, 2019,"17,50 €","4,4",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,93 PN,91 SK
+171,La Vizcaína El Rapolao, 2021,"21,90 €","3,9",Vino tinto,Bierzo,"13,5%",Mencía,95 PK,94 PN,NA
+172,Acústic, 2020,"13,20 €","4,3",Vino tinto,Montsant,"14,0%",Samsó,90 PK,92 PN,NA
+173,Flor de Vetus, 2019,"9,95 €","4,2",Vino tinto,Toro,"14,5%",Tinta de Toro,91 PK,92 PN,93 SK
+174,Viña Zorzal Malayeto, 2021,"14,40 €","3,9",Vino tinto,Navarra,"14,0%",Garnacha,94 PK,94 PN,NA
+175,La Petite Agnès, 2021,"12,50 €","4,5",Vino tinto,Priorat,"14,5%",Garnacha,NA,NA,NA
+176,Casar de Burbia Mencía, 2019,"9,95 €","4,0",Vino tinto,Bierzo,"14,5%",Mencía,90 PK,90 PN,91 SK
+177,Protos Verdejo, 2022,"7,50 €","4,4",Vino blanco,Rueda,"13,0%",Verdejo,NA,90 PN,92 SK
+178,Ossian, 2021,"32,50 €","4,8",Vino blanco,Castilla y León,"13,5%",Verdejo,94 PK,93 PN,93 SK
+179,Luna Beberide Mencía, 2023,"5,95 €","4,1",Vino tinto,Bierzo,"12,9%",Mencía,91 PK,91 PN,NA
+180,Raventós i Blanc Blanc de Blancs, 2021,"15,55 €","4,6",Cava,Conca del Riu Anoia,"12,0%",Macabeo,92 PK,NA,NA
+181,Guímaro, 2022,"11,20 €","3,9",Vino tinto,Ribeira Sacra,"13,0%",Mencía,92 PK,NA,NA
+182,Gago, 2019,"19,55 €","3,9",Vino tinto,Toro,"14,0%",Tinta de Toro,92+ PK,92 PN,NA
+183,La Forcallà de Antonia, 2021,"12,90 €","4,1",Vino tinto,Valencia,"14,5%",Forcayat del arco,93 PK,NA,NA
+184,Familia Oliveda Brut Rosat,,"6,40 €","4,7",Cava,DO Cava,"11,5%",Garnacha,NA,NA,NA
+185,Montecastro, 2020,"20,50 €","4,3",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,92 PK,NA,NA
+186,Sembro, 2022,"8,95 €","4,4",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+187,Viña Pomal Crianza, 2020,"8,95 €","3,8",Vino tinto,Rioja,"14,5%",Tempranillo,90 PK,NA,NA
+188,Cunqueiro III Milenium, 2022,"12,95 €","4,3",Vino blanco,Ribeiro,"12,5%",Treixadura,NA,NA,NA
+189,Viñas Elías Mora, 2021,"9,80 €","4,2",Vino tinto,Toro,"14,5%",Tinta de Toro,90 PK,91 PN,NA
+190,Viña Costeira Colección 68, 2022,"9,75 €","4,0",Vino blanco,Ribeiro,"12,5%",Treixadura,NA,NA,NA
+191,Ramón Bilbao Verdejo, 2023,"7,50 €","4,3",Vino blanco,Rueda,"13,0%",Verdejo,NA,90 PN,NA
+192,Avancia Godello, 2022,"26,95 €","4,8",Vino blanco,Valdeorras,"13,5%",Godello,92 PK,93 PN,NA
+193,Godelia Godello, 2022,"10,95 €","4,3",Vino blanco,Bierzo,"13,5%",Godello,NA,NA,90 SK
+194,Cygnus Deneb Brut Nature Reserva - sin sulfitos añadidos,,"11,95 €","4,8",Cava,DO Cava,"11,5%",Xarel·lo,NA,NA,NA
+195,Viña Pedrosa Crianza, 2020,"21,90 €","3,8",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,92 PK,NA,NA
+196,La del Vivo, 2022,"21,50 €","4,6",Vino blanco,Bierzo,"13,5%",Godello,95+ PK,91 PN,NA
+197,Fariña Lágrima, 2021,"8,40 €","4,6",Vino tinto,Toro,"14,0%",Tinta de Toro,NA,91 PN,NA
+198,Godina, 2021,"19,90 €","5,0",Vino tinto,Campo de Borja,"16,0%",Garnacha,90 PK,93 PN,NA
+199,Terrer de la Creu Brut Nature,,"8,40 €","5,0",Cava,DO Cava,"12,0%",Macabeo,NA,NA,NA
+200,Vizcarra Senda del Oro, 2022,"10,35 €","4,2",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,90 PK,90 PN,NA
+201,Albariño Paco & Lola, 2022,"13,95 €","4,4",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,90 PN,NA
+202,Hacienda Monasterio, 2021,"40,50 €","4,7",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,94+ PK,NA,NA
+203,Ilercavònia, 2022,"9,95 €","4,4",Vino blanco,Terra Alta,"13,5%",Garnacha blanca,NA,NA,92 SK
+204,Davide Albariño, 2022,"22,80 €","4,5",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,NA,NA
+205,Evodia, 2021,"7,90 €","4,3",Vino tinto,Calatayud,"14,5%",Garnacha,91+ PK,NA,NA
+206,Leopardi Gran Reserva Vintage, 2017,"25,60 €","4,5",Cava,Corpinnat,"11,5%",Macabeo,92 PK,92 PN,NA
+207,José Pariente Verdejo Fermentado en Barrica, 2022,"18,40 €","4,4",Vino blanco,Rueda,"13,5%",Verdejo,91 PK,91 PN,NA
+208,Casa Castillo La Tendida, 2021,"13,90 €","4,0",Vino tinto,Jumilla,"14,5%",Monastrell,93+ PK,93 PN,NA
+209,Protos 27, 2020,"27,90 €","4,5",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,90 PK,94 PN,93 SK
+210,Melior de Matarromera Roble, 2022,"9,30 €","4,3",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+211,Bermejo Malvasía Seco, 2022,"22,40 €","4,8",Vino blanco,Lanzarote,"13,0%",Malvasía,NA,NA,NA
+212,Dominio de Tares Cepas Viejas, 2018,"16,40 €","4,1",Vino tinto,Bierzo,"14,5%",Mencía,90 PK,91 PN,NA
+213,Beronia Reserva, 2017,"14,90 €","4,4",Vino tinto,Rioja,"12,5%",Tempranillo,NA,NA,NA
+214,PradoRey Origen Roble, 2022,"7,50 €","4,1",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,90 PN,NA
+215,Lanzaga, 2020,"26,90 €","4,2",Vino tinto,Rioja,"14,0%",Tempranillo,94 PK,93 PN,95 SK
+216,Bertha Lounge Rosé, 2022,"12,80 €","5,0",Cava,DO Cava,"12,0%",Garnacha,NA,NA,NA
+217,Jesús Yllera, 2016,"22,75 €","4,0",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,93 PK,NA,NA
+218,El Sequé, 2021,"25,95 €","4,6",Vino tinto,Alicante,"14,5%",Monastrell,93+ PK,NA,93 SK
+219,Valtravieso Crianza, 2020,"16,50 €","4,5",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,90 PK,90 PN,NA
+220,Clos Lojen, 2022,"7,90 €","4,2",Vino tinto,Manchuela,"13,0%",Bobal,93 PK,NA,NA
+221,El Bosque, 2021,"102,00 €","4,3",Vino tinto,Rioja,"14,5%",Tempranillo,97+ PK,97 PN,95 SK
+222,Merum Priorati Inici, 2021,"26,90 €","4,6",Vino tinto,Priorat,"15,0%",Garnacha,NA,90 PN,NA
+223,Marqués de Cáceres Gaudium, 2019,"43,50 €","4,7",Vino tinto,Rioja,"14,0%",Tempranillo,NA,94 PN,95 SK
+224,Ferrer Bobet Vinyes Velles, 2019,"44,95 €","4,7",Vino tinto,Priorat,"14,5%",Cariñena,93 PK,95 PN,94 SK
+225,Tomás Postigo 5º Año, 2018,"56,40 €","5,0",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,NA,NA,NA
+226,Vivanco Crianza, 2020,"9,30 €","4,4",Vino tinto,Rioja,"13,5%",Tempranillo,90 PK,NA,NA
+227,Mauro VS, 2020,"65,80 €","4,9",Vino tinto,Castilla y León,"14,5%",Tempranillo,95 PK,94 PN,NA
+228,Garum, 2021,"12,75 €","4,3",Vino tinto,Cádiz,"14,5%",Merlot,NA,NA,NA
+229,Izadi Crianza, 2020,"10,95 €","4,2",Vino tinto,Rioja,"14,0%",Tempranillo,91 PK,93 PN,NA
+230,Dominio del Bendito El Primer Paso, 2022,"15,40 €","4,2",Vino tinto,Toro,"15,0%",Tinta de Toro,92 PK,NA,NA
+231,Naia, 2022,"9,95 €","4,3",Vino blanco,Rueda,"13,5%",Verdejo,90 PK,91 PN,NA
+232,Coto de Imaz Reserva, 2019,"10,90 €","4,4",Vino tinto,Rioja,"13,5%",Tempranillo,NA,90 PN,92 SK
+233,Arzuaga Reserva, 2019,"41,90 €","4,8",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,90 PK,NA,NA
+234,Mas Candí Brut Nature, 2021,"12,00 €","3,8",Cava,Corpinnat,"12,0%",Xarel·lo,91 PK,NA,NA
+235,Do Ferreiro, 2022,"16,95 €","4,3",Vino blanco,Rías Baixas,"12,5%",Albariño,94 PK,92 PN,NA
+236,Perelada Finca Malaveïna, 2021,"22,40 €","4,6",Vino tinto,Empordà,"14,5%",Merlot,90 PK,93 PN,NA
+237,Sexto Elemento, 2021,"20,95 €","4,9",Vino tinto,Valencia,"15,5%",Bobal,NA,NA,NA
+238,Lustau Palo Cortado Península,,"18,90 €","4,8",Palo cortado,Jerez-Manzanilla,"19,0%",Palomino fino,NA,NA,NA
+239,Contino Reserva, 2019,"29,20 €","4,9",Vino tinto,Rioja,"14,0%",Tempranillo,93 PK,92 PN,96 SK
+240,Txomin Etxaniz, 2022,"11,50 €","4,6",Vino blanco,Getariako Txakolina,"11,5%",Hondarribi zuri,NA,90 PN,NA
+241,12 Volts, 2022,"18,90 €","4,5",Vino tinto,Mallorca,"12,0%",Callet,93 PK,NA,NA
+242,Guímaro Camiño Real, 2021,"15,90 €","4,4",Vino tinto,Ribeira Sacra,"13,5%",Garnacha tintorera,94+ PK,94 PN,NA
+243,Com Tu, 2019,"36,55 €","4,1",Vino tinto,Montsant,"14,5%",Garnacha,94 PK,NA,NA
+244,Terroir Històric Negre, 2021,"19,25 €","4,7",Vino tinto,Priorat,"13,5%",Garnacha,93 PK,NA,93 SK
+245,Roda, 2020,"30,90 €","4,6",Vino tinto,Rioja,"14,5%",Tempranillo,92 PK,93 PN,93 SK
+246,Casa Castillo Monastrell, 2022,"8,95 €","4,1",Vino tinto,Jumilla,"14,5%",Monastrell,92+ PK,92 PN,NA
+247,Tinto Figuero 4 Meses, 2021,"10,95 €","4,5",Vino tinto,Ribera del Duero,"13,5%",Tempranillo,NA,NA,NA
+248,Parxet Brut,,"11,95 €","4,5",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+249,Finca Valpiedra Reserva, 2015,"19,60 €","5,0",Vino tinto,Rioja,"14,0%",Tempranillo,92 PK,93 PN,92 SK
+250,Viña Barredero, 2022,"6,90 €","4,2",Vino blanco,Condado de Huelva,"12,0%",Zalema,NA,NA,NA
+251,Mas Fontallada Brut Nature,,"5,80 €","4,6",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+252,Finca Cucó Negre, 2022,"7,50 €","4,8",Vino tinto,Montsant,"13,5%",Garnacha,NA,NA,NA
+253,Belondrade y Lurton, 2022,"45,90 €","4,9",Vino blanco,Rueda,"14,0%",Verdejo,95 PK,97 PN,NA
+254,Viña Alberdi, 2019,"16,70 €","4,3",Vino tinto,Rioja,"14,5%",Tempranillo,92 PK,92 PN,NA
+255,Peique Ramón Valle, 2021,"8,45 €","4,0",Vino tinto,Bierzo,"14,5%",Mencía,90 PK,90 PN,NA
+256,Artadi Viñas de Gain, 2020,"26,95 €","4,7",Vino tinto,España,"14,5%",Tempranillo,92 PK,94 PN,94 SK
+257,Canals & Munné Insuperable Brut Reserva, 2020,"9,40 €","4,5",Cava,DO Cava,"12,0%",Macabeo,NA,NA,NA
+258,Suertes del Marqués Medianías, 2020,"16,90 €","4,0",Vino tinto,Valle de La Orotava,"13,0%",Listán negro,93 PK,92 PN,NA
+259,Viña Pomal Gran Reserva, 2015,"27,95 €","4,7",Vino tinto,Rioja,"16,2%",Tempranillo,91 PK,92 PN,NA
+260,Palacio de Bornos Verdejo, 2022,"6,40 €","4,5",Vino blanco,Rueda,"13,5%",Verdejo,NA,NA,NA
+261,Pazo Señorans, 2022,"15,50 €","4,3",Vino blanco,Rías Baixas,"12,5%",Albariño,92 PK,NA,NA
+262,Leirana Albariño, 2022,"15,90 €","4,4",Vino blanco,Rías Baixas,"13,0%",Albariño,94 PK,93 PN,92 SK
+263,Muga Rosado, 2022,"9,95 €","4,6",Vino rosado,Rioja,"13,5%",Garnacha,90 PK,91 PN,91 SK
+264,Muriel Fincas de la Villa Crianza, 2020,"7,95 €","4,1",Vino tinto,Rioja,"14,0%",Tempranillo,NA,NA,NA
+265,Granbazán Etiqueta Verde, 2022,"12,90 €","0,0",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,NA,NA
+266,Marqués de Vargas Reserva, 2018,"27,90 €","4,5",Vino tinto,Rioja,"14,0%",Tempranillo,92 PK,92 PN,91 SK
+267,Pazo Cilleiro, 2022,"9,50 €","4,8",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,NA,NA
+268,Alta Alella Mirgin Reserva, 2019,"12,95 €","4,3",Cava,DO Cava,"12,0%",Xarel·lo,NA,NA,NA
+269,Pere Ventura Tresor Brut Rosé,,"18,00 €","4,0",Cava,DO Cava,"11,5%",Trepat,NA,NA,NA
+270,Torre Muga, 2019,"75,90 €","4,2",Vino tinto,Rioja,"14,5%",Tempranillo,95+ PK,94 PN,NA
+271,Viña Sastre Crianza, 2020,"21,95 €","4,4",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,90+ PK,93 PN,NA
+272,Marqués de Burgos Crianza, 2018,"13,75 €","5,0",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,NA,NA
+273,Aria Brut Nature,,"7,45 €","4,5",Cava,DO Cava,"12,0%",Macabeo,NA,NA,NA
+274,Viña Bosconia Reserva, 2012,"24,90 €","4,4",Vino tinto,Rioja,"13,5%",Tempranillo,93 PK,NA,95 SK
+275,La Viña de Ayer Garnacha, 2017,"9,50 €","4,0",Vino tinto,Cebreros,"14,0%",Garnacha,92 PK,NA,NA
+276,Cava Rimarts Brut Reserva 18, 2022,"10,95 €","4,2",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+277,PradoRey Adaro, 2021,"20,95 €","4,5",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,NA,93 SK
+278,Les Brugueres Blanc, 2022,"19,55 €","4,6",Vino blanco,Priorat,"13,5%",Garnacha blanca,91 PK,90 PN,93 SK
+279,Predicat, 2018,"11,95 €","4,6",Vino tinto,Priorat,"14,0%",Garnacha,NA,NA,92 SK
+280,Enate Crianza, 2019,"9,50 €","4,4",Vino tinto,Somontano,"13,5%",Tempranillo,NA,NA,NA
+281,Protocolo Tinto, 2021,"4,65 €","3,9",Vino tinto,Castilla,"14,0%",Tempranillo,NA,NA,NA
+282,Flor de Morca, 2022,"8,75 €","4,2",Vino Tinto,Campo de Borja,"15,5%",Garnacha,NA,NA,NA
+283,Monopole, 2022,"5,95 €","4,3",Vino blanco,Rioja,"13,0%",Viura,91 PK,NA,92 SK
+284,Pago de los Capellanes El Nogal, 2019,"59,40 €","4,6",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,90 PK,93 PN,NA
+285,Loess Inspiration, 2021,"9,95 €","4,5",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,92 PN,NA
+286,Marmellans Negre,,"4,20 €","4,2",Vino tinto,Catalunya,"14,0%",Garnacha,NA,NA,NA
+287,Luzón Sin Sulfitos, 2022,"5,95 €","5,0",Vino tinto,Jumilla,"14,5%",Monastrell,NA,NA,NA
+288,Tajinaste Blanco Afrutado, 2022,"14,50 €","4,6",Vino blanco,Islas Canarias,"11,0%",Listán blanco,NA,NA,NA
+289,Frontonio Microcósmico Macabeo, 2022,"14,25 €","3,0",Vino blanco,Valdejalón,"13,5%",Macabeo,93 PK,93 PN,90 SK
+290,Tesalia Arx, 2021,"19,95 €","4,9",Vino tinto,Cádiz,"14,0%",Syrah,90 PK,NA,NA
+291,Gorka Izagirre Txacoli Blanco, 2022,"9,95 €","4,5",Vino blanco,Bizkaiko Txakolina,"13,0%",Hondarribi zuri,NA,NA,NA
+292,Trus Roble, 2022,"9,95 €","4,8",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,90 PN,NA
+293,Cora de Loxarel, 2022,"8,80 €","4,8",Vino blanco,Penedès,"12,5%",Moscatel de Alejandría,NA,NA,NA
+294,Abracadabra Toro, 2021,"12,50 €","4,7",Vino tinto,Toro,"15,0%",Tinta de Toro,NA,NA,NA
+295,Braó, 2020,"23,05 €","4,5",Vino tinto,Montsant,"14,0%",Garnacha,92 PK,94 PN,NA
+296,Tarima Hill, 2021,"11,40 €","4,3",Vino tinto,Alicante,"15,0%",Monastrell,92 PK,93 PN,NA
+297,Losada, 2020,"12,50 €","4,1",Vino tinto,Bierzo,"14,0%",Mencía,91 PK,91 PN,93 SK
+298,Albariño Mar de Frades, 2022,"18,50 €","4,6",Vino blanco,Rías Baixas,"12,5%",Albariño,NA,NA,NA
+299,12 Lunas, 2020,"10,95 €","4,3",Vino tinto,Somontano,"14,0%",Tempranillo,NA,NA,NA
+300,Enrique Mendoza Finca Xaconero, 2021,"11,75 €","3,0",Vino tinto,Alicante,"14,0%",Monastrell,92 PK,NA,NA
+301,Celeste Roble, 2022,"9,95 €","4,3",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+302,Grillo, 2014,"37,95 €","4,5",Vino tinto,Somontano,"14,5%",Syrah,NA,NA,NA
+303,Campillo Gran Reserva, 2015,"27,90 €","4,0",Vino tinto,Rioja,"13,5%",Tempranillo,90 PK,NA,NA
+304,Canals & Munné Dionysus Brut Nature Eco, 2021,"9,95 €","4,8",Cava,DO Cava,"12,0%",Xarel·lo,NA,NA,NA
+305,Villa de Corullón, 2021,"53,75 €","4,5",Vino tinto,Bierzo,"14,0%",Mencía,95-97 PK,94 PN,95 SK
+306,PradoRey Finca La Mina Rva, 2018,"22,55 €","4,5",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,NA,NA,NA
+307,Torre La Moreira, 2022,"10,95 €","4,9",Vino blanco,Rías Baixas,"11,5%",Albariño,NA,NA,NA
+308,Vallegarcía Viognier, 2020,"24,50 €","4,3",Vino blanco,Castilla,"14,0%",Viognier,92 PK,92 PN,NA
+309,Gramona Vi de Glass Gewürztraminer," 2022 (0,37 L)","18,50 €","4,6",Vino de hielo,Penedès,"9,5%",Gewürztraminer,NA,93 PN,NA
+310,Peique Godello sobre Lías, 2022,"8,95 €","4,5",Vino blanco,Bierzo,"12,5%",Godello,NA,NA,NA
+311,Hacienda López de Haro Crianza, 2020,"7,70 €","4,3",Vino tinto,Rioja,"13,5%",Tempranillo,91 PK,90 PN,NA
+312,Finca Dofí, 2021,"95,90 €","4,7",Vino tinto,Priorat,"14,5%",Garnacha,96-98 PK,96 PN,95 SK
+313,Marqués de Cáceres Verdejo, 2022,"6,50 €","4,3",Vino blanco,Rueda,"13,5%",Verdejo,NA,NA,90 SK
+314,Agnvs Crianza, 2019,"13,90 €","5,0",Vino tinto,Rioja,"14,0%",Tempranillo,NA,NA,NA
+315,Le Naturel, 2022,"8,95 €","4,4",Vino tinto,Navarra,"14,0%",Garnacha,NA,NA,92 SK
+316,Finca San Martín, 2019,"9,60 €","4,1",Vino tinto,Rioja,"14,5%",Tempranillo,91+ PK,91 PN,NA
+317,Allende, 2014,"21,90 €","4,9",Vino tinto,Rioja,"13,5%",Tempranillo,92 PK,NA,NA
+318,Románico, 2021,"10,60 €","4,3",Vino tinto,Toro,"14,5%",Tinta de Toro,92 PK,NA,NA
+319,Rafael Cambra Dos, 2021,"9,95 €","4,3",Vino tinto,Valencia,"14,0%",Cabernet franc,91+ PK,92 PN,NA
+320,Pago Florentino, 2020,"12,90 €","4,5",Vino tinto,Pago Florentino,"14,0%",Cencibel,90 PK,NA,91 SK
+321,Bertha Lounge,,"12,50 €","4,8",Cava,DO Cava,"12,0%",Xarel·lo,NA,NA,NA
+322,Acústic Blanc, 2021,"13,20 €","4,2",Vino blanco,Montsant,"14,0%",Garnacha blanca,91 PK,90 PN,NA
+323,Artigas, 2020,"22,95 €","4,4",Vino tinto,Priorat,"14,5%",Garnacha,92+ PK,NA,NA
+324,Mastinell Brut Real Gran Reserva, 2011,"15,90 €","4,8",Cava,DO Cava,"12,5%",Macabeo,NA,90 PN,NA
+325,Sela, 2021,"17,90 €","4,5",Vino tinto,Rioja,"14,0%",Tempranillo,91 PK,NA,92 SK
+326,Ànima Negra ÀN/2, 2021,"20,90 €","4,6",Vino tinto,España,"13,0%",Callet,91+ PK,NA,NA
+327,Sierra Cantabria Colección Privada, 2021,"38,50 €","4,0",Vino tinto,Rioja,"14,5%",Tempranillo,93 PK,95 PN,NA
+328,Viña Pedrosa Reserva, 2019,"33,95 €","4,5",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,93+ PK,NA,NA
+329,Emilio Moro La Revelía, 2021,"24,90 €","4,0",Vino blanco,Bierzo,"14,0%",Godello,92 PK,NA,93 SK
+330,Viña Salceda Crianza, 2019,"8,55 €","3,8",Vino tinto,Rioja,"13,5%",Tempranillo,NA,92 PN,NA
+331,Blau, 2021,"8,95 €","4,5",Vino tinto,Montsant,"13,0%",Cariñena,NA,90 PN,NA
+332,Almodí, 2022,"9,90 €","4,7",Vino tinto,Terra Alta,"15,5%",Garnacha peluda,NA,NA,90 SK
+333,El Jardín de la Emperatriz Tinto, 2019,"11,95 €","4,5",Vino tinto,Rioja,"14,0%",Tempranillo,91 PK,92 PN,92 SK
+334,Maria Casanovas Glaç Brut Nature,,"14,90 €","4,8",Cava,DO Cava,"11,5%",Pinot noir,NA,NA,NA
+335,López Cristóbal Finca La Colorada Crianza, 2020,"18,50 €","4,4",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,92 PN,NA
+336,Altos de Luzón, 2020,"13,75 €","4,9",Vino tinto,Jumilla,"14,5%",Monastrell,NA,91 PN,90 SK
+337,Canals & Munné Lola Rosé Brut,,"14,50 €","5,0",Cava,DO Cava,"12,0%",Pinot noir,NA,NA,NA
+338,Pago de Carraovejas Cuesta de las Liebres, 2019,"164,95 €","5,0",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,94 PK,96 PN,NA
+339,Losada Godello, 2022,"15,20 €","4,5",Vino blanco,Bierzo,"14,0%",Godello,90 PK,NA,93 SK
+340,Rafael Cambra Uno, 2021,"14,65 €","4,0",Vino tinto,Valencia,"14,5%",Monastrell,94 PK,90 PN,94 SK
+341,Eduardo Peña, 2022,"16,50 €","4,8",Vino blanco,Ribeiro,"13,5%",Treixadura,NA,NA,NA
+342,Huguet Reserva Brut Clàssic, 2016,"14,90 €","5,0",Cava,Corpinnat,"12,5%",Parellada,NA,NA,NA
+343,Las Moradas de San Martín Senda, 2019,"9,75 €","4,0",Vino tinto,Vinos de Madrid,"14,5%",Garnacha,90 PK,90 PN,NA
+344,Por tí, 2020,"25,60 €","5,0",Vino tinto,Jumilla,"15,0%",Monastrell,NA,93 PN,91 SK
+345,Lustau Moscatel Emilín,,"20,90 €","4,3",Vino dulce natural,Jerez-Manzanilla,"17,0%",Moscatel de Alejandría,NA,NA,NA
+346,Finca l'Argatà, 2019,"35,05 €","4,0",Vino tinto,Montsant,"14,5%",Garnacha,94 PK,91 PN,NA
+347,Borsao Cabriola, 2018,"10,90 €","4,5",Vino tinto,Campo de Borja,"15,5%",Garnacha,91 PK,NA,92 SK
+348,Cair Selección La Aguilera, 2019,"17,90 €","5,0",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,91 PN,NA
+349,Bardos Verdejo, 2022,"7,30 €","4,3",Vino blanco,Rueda,"13,0%",Verdejo,NA,NA,NA
+350,El Pedal, 2021,"8,40 €","3,7",Vino tinto,Rioja,"13,0%",Tempranillo,90 PK,91 PN,NA
+351,La Viña de Ayer Albillo Real, 2019,"10,90 €","3,7",Vino naranja,Cebreros,"13,5%",Albillo,92 PK,NA,NA
+352,Meraldis Verdejo, 2020,"21,50 €","0,0",Vino blanco,Rueda,"14,0%",Verdejo,92 PK,NA,NA
+353,Fuentespina 3 Meses Roble, 2022,"6,80 €","4,0",Vino tinto,Ribera del Duero,"13,5%",Tempranillo,NA,NA,NA
+354,La Orquesta, 2019,"14,90 €","4,3",Vino blanco,Castilla y León,"13,0%",Garnacha blanca,93 PK,NA,NA
+355,Alma de Luzón, 2020,"37,95 €","4,0",Vino tinto,Jumilla,"15,5%",Monastrell,NA,93 PN,NA
+356,Matsu El Recio, 2021,"15,95 €","4,3",Vino tinto,Toro,"14,5%",Tinta de Toro,90 PK,90 PN,NA
+357,Blanc Pescador,,"4,50 €","4,3",Vino blanco frizzante,España,"11,5%",Macabeo,NA,NA,NA
+358,Descomunal Verdejo, 2022,"4,20 €","4,1",Vino blanco,Rueda,"13,0%",Verdejo,NA,NA,NA
+359,Borsao Tinto Selección, 2022,"4,95 €","4,1",Vino tinto,Campo de Borja,"14,5%",Garnacha,NA,NA,NA
+360,Algueira Mencía, 2022,"11,95 €","3,9",Vino tinto,Ribeira Sacra,"13,0%",Mencía,NA,NA,NA
+361,Artigas Blanc, 2020,"24,95 €","5,0",Vino blanco,Priorat,"13,5%",Garnacha blanca,91+ PK,93 PN,NA
+362,Madremía, 2021,"10,95 €","4,2",Vino tinto,Toro,"14,5%",Tinta de Toro,92 PK,NA,NA
+363,Mas Collet, 2021,"9,80 €","4,3",Vino tinto,Montsant,"14,5%",Garnacha,NA,NA,91 SK
+364,Bohórquez, 2016,"23,50 €","4,6",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,91 PN,NA
+365,Pere Ventura Vintage, 2016,"34,90 €","5,0",Cava,DO Cava,"12,0%",Xarel·lo,NA,94 PN,NA
+366,Nita, 2021,"13,50 €","4,6",Vino tinto,Priorat,"14,0%",Garnacha,90 PK,NA,NA
+367,Finca Martelo Reserva, 2019,"25,80 €","4,2",Vino tinto,Rioja,"14,5%",Tempranillo,95 PK,94 PN,93 SK
+368,Garmón, 2020,"39,95 €","4,7",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,93+ PK,93 PN,NA
+369,PradoRey Finca Valdelayegua, 2020,"14,50 €","4,5",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+370,Finca La Colina Sauvignon Blanc, 2022,"15,50 €","4,7",Vino blanco,Rueda,"13,0%",Sauvignon blanc,NA,91 PN,NA
+371,Menade Verdejo, 2022,"9,50 €","4,2",Vino blanco,Rueda,"13,0%",Verdejo,NA,90 PN,NA
+372,Agustí Torelló Mata Rosat Trepat, 2021,"13,50 €","4,5",Cava,DO Cava,"11,5%",Trepat,NA,NA,NA
+373,Agustí Torelló Mata Gran Reserva Barrica, 2018,"24,50 €","4,6",Cava,DO Cava,"12,0%",Macabeo,90 PK,90 PN,NA
+374,Anna de Codorníu Brut Nature,,"9,35 €","4,2",Cava,DO Cava,"11,5%",Chardonnay,NA,NA,NA
+375,Godeval Cepas Vellas, 2022,"24,50 €","0,0",Vino blanco,Valdeorras,"13,0%",Godello,90 PK,92 PN,NA
+376,Termes, 2020,"24,50 €","4,5",Vino tinto,Toro,"15,0%",Tinta de Toro,90 PK,93 PN,94 SK
+377,Enate Rosado, 2022,"8,65 €","4,4",Vino rosado,Somontano,"14,0%",Cabernet sauvignon,NA,NA,NA
+378,San Vicente, 2020,"43,90 €","4,7",Vino tinto,Rioja,"14,5%",Tempranillo peludo,94 PK,95 PN,93 SK
+379,Herència Altés L'Estel, 2018,"15,00 €","0,0",Vino tinto,Terra Alta,"15,0%",Garnacha,90+ PK,NA,93 SK
+380,Envidia Cochina, 2021,"24,95 €","5,0",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,NA,NA
+381,Palomo Cojo, 2022,"8,95 €","4,4",Vino blanco,Rueda,"13,0%",Verdejo,NA,NA,NA
+382,U Mes U Ardea Rosé Brut Reserva,,"16,90 €","0,0",Cava,DO Cava,"11,5%",Pinot noir,NA,NA,NA
+383,El Coto Crianza, 2019,"6,95 €","4,6",Vino tinto,Rioja,"13,5%",Tempranillo,NA,90 PN,90 SK
+384,Osborne Pedro Ximenez 1827,,"11,40 €","4,4",Vino dulce,Jerez-Manzanilla,"17,0%",Palomino fino,NA,NA,NA
+385,Protos Reserva, 2017,"29,90 €","4,7",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,90 PK,93 PN,91 SK
+386,Atance Cuvée Nº 1, 2022,"7,45 €","4,3",Vino blanco,Valencia,"13,5%",Merseguera,90 PK,NA,NA
+387,Matsu El Pícaro, 2022,"8,80 €","4,3",Vino tinto,Toro,"14,5%",Tinta de Toro,NA,NA,NA
+388,Gramona Argent, 2019,"35,70 €","5,0",Cava,Corpinnat,"12,0%",Chardonnay,92 PK,93 PN,NA
+389,O Luar Do Sil Sobre Lías, 2022,"22,20 €","4,0",Vino blanco,Valdeorras,"13,5%",Godello,NA,94 PN,NA
+390,AT Roca Brut Nature Reserva, 2021,"14,90 €","0,0",Cava,DO Cava,"12,0%",Macabeo,NA,NA,NA
+391,Celeste Crianza, 2020,"21,95 €","4,7",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,90 PN,92 SK
+392,Artadi Izar-Leku, 2018,"27,95 €","4,6",Cava,España,"12,5%",Hondarribi zuri,94+ PK,94 PN,93 SK
+393,Viña Salceda Reserva, 2018,"13,90 €","4,2",Vino tinto,Rioja,"13,5%",Tempranillo,91 PK,92 PN,NA
+394,Añares Terranova Rueda Verdejo, 2022,"6,50 €","4,8",Vino blanco,Rueda,"13,0%",Verdejo,NA,NA,NA
+395,Nadal Salvatge Brut, 2016,"19,40 €","4,0",Cava,Corpinnat,"12,0%",Macabeo,NA,NA,NA
+396,Reyes de Aragón Reserva Brut Nature,,"17,90 €","5,0",Cava,DO Cava,"11,5%",Chardonnay,NA,NA,NA
+397,Barco del Corneta Cucú, 2022,"10,15 €","4,5",Vino blanco,Castilla y León,"13,0%",Verdejo,91 PK,NA,NA
+398,César Márquez Valtuille Vino de Villa, 2020,"19,90 €","0,0",Vino tinto,Bierzo,"13,0%",Mencía,94+ PK,NA,NA
+399,Izadi Larrosa Negra, 2021,"8,95 €","4,6",Vino tinto,Rioja,"14,5%",Garnacha,91 PK,90 PN,93 SK
+400,Santiago Ruiz, 2022,"14,90 €","4,4",Vino blanco,Rías Baixas,"12,5%",Albariño,NA,NA,NA
+401,Villa Conchi Brut Rosé,,"9,50 €","3,6",Cava,DO Cava,"11,5%",Trepat,NA,NA,NA
+402,Vega Sicilia Único, 2013,"402,55 €","4,8",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,98 PK,96 PN,98 SK
+403,Ses Nines Negre, 2022,"11,50 €","4,4",Vino tinto,Mallorca,"13,5%",Mantonegro,NA,NA,NA
+404,Azpilicueta Crianza, 2020,"8,95 €","4,3",Vino tinto,Rioja,"13,5%",Tempranillo,NA,91 PN,NA
+405,Santa Rosa, 2021,"22,55 €","4,6",Vino tinto,Alicante,"14,5%",Cabernet sauvignon,92 PK,93 PN,NA
+406,Guímaro Godello, 2022,"12,90 €","4,2",Vino blanco,Ribeira Sacra,"12,0%",Godello,93 PK,NA,NA
+407,Abadía Retuerta Le Domaine, 2022,"38,80 €","4,4",Vino blanco,Abadía Retuerta,"13,5%",Sauvignon blanc,93 PK,93 PN,93 SK
+408,Txakoli Aialle, 2022,"11,95 €","4,8",Vino blanco,Getariako Txakolina,"11,0%",Hondarribi zuri,NA,NA,NA
+409,Jaros Tinto, 2020,"17,75 €","4,3",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+410,Viña Vilano Roble, 2022,"8,30 €","4,0",Vino tinto,Ribera del Duero,"13,5%",Tempranillo,NA,NA,NA
+411,Tolo do Xisto, 2019,"17,00 €","3,0",Vino tinto,Ribeira Sacra,"13,0%",Mencía,90 PK,NA,NA
+412,Lafou El Sender, 2020,"11,75 €","4,3",Vino tinto,Terra Alta,"14,5%",Garnacha,91 PK,91 PN,NA
+413,Ultreia La Claudina, 2022,"48,40 €","5,0",Vino blanco,Bierzo,"13,5%",Godello,95 PK,NA,NA
+414,Naiades, 2019,"22,55 €","4,6",Vino blanco,Rueda,"13,0%",Verdejo,NA,93 PN,92 SK
+415,Diaz Bayo 8 Meses Roble, 2022,"8,95 €","4,3",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,90 PK,94 PN,NA
+416,Marqués de Cáceres Crianza, 2019,"8,95 €","4,4",Vino tinto,Rioja,"13,5%",Tempranillo,NA,NA,NA
+417,Troupe, 2022,"9,95 €","4,8",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,90 PN,NA
+418,Rebeldes, 2022,"10,50 €","4,0",Vino tinto,Montsant,"14,5%",Garnacha,NA,NA,NA
+419,Vernatxa Blanc, 2022,"17,50 €","4,4",Vino blanco,Terra Alta,"13,0%",Garnacha blanca,NA,NA,NA
+420,Altos de Losada, 2021,"19,95 €","3,8",Vino tinto,Bierzo,"14,0%",Mencía,92 PK,NA,93 SK
+421,Barón de Ley Reserva, 2018,"10,50 €","4,5",Vino tinto,Rioja,"14,5%",Tempranillo,NA,91 PN,NA
+422,Monte Toro 3 Añada Selección, 2022,"4,95 €","4,3",Vino tinto,Toro,"14,5%",Tinta de Toro,NA,NA,NA
+423,Paco & Lola Nº 12, 2023,"12,50 €","4,5",Vino blanco,Rías Baixas,"12,5%",Albariño,NA,NA,NA
+424,Vivanco Reserva, 2017,"13,95 €","4,4",Vino tinto,Rioja,"14,0%",Tempranillo,92 PK,90 PN,NA
+425,Los Cantos de Torremilanos, 2020,"13,50 €","4,3",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,92 PK,90 PN,NA
+426,Enate Gewürztraminer, 2022,"11,75 €","4,7",Vino blanco,Somontano,"13,5%",Gewürztraminer,NA,90 PN,NA
+427,Mart, 2022,"12,95 €","4,5",Vino rosado criado en barrica,Penedès,"11,5%",Xarel·lo vermell,NA,NA,NA
+428,Corimbo I, 2016,"45,90 €","4,6",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,95 PK,94 PN,94 SK
+429,Gómez Cruzado Crianza, 2020,"10,50 €","3,5",Vino tinto,Rioja,"14,5%",Tempranillo,92 PK,91 PN,NA
+430,Botijo Blanco Garnacha Blanca, 2022,"9,50 €","4,0",Vino blanco,Valdejalón,"13,0%",Garnacha blanca,91+ PK,90 PN,NA
+431,La Fuente de Nekeas Crianza, 2020,"7,15 €","4,4",Vino tinto,Navarra,"13,5%",Cabernet sauvignon,NA,NA,NA
+432,Llopart Microcosmos Rosé Brut Nature, 2020,"21,50 €","3,4",Cava,Corpinnat,"11,5%",Pinot noir,91 PK,NA,NA
+433,Vilarnau Brut Nature Reserva,,"12,40 €","4,0",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+434,Muriel Fincas De La Villa Reserva, 2018,"12,50 €","4,3",Vino tinto,Rioja,"13,5%",Tempranillo,NA,NA,92 SK
+435,Privat Rosé Brut  Nature, 2021,"12,10 €","0,0",Cava,DO Cava,"12,0%",Chardonnay,NA,91 PN,NA
+436,Vermell, 2022,"9,20 €","4,2",Vino tinto,Valencia,"13,0%",Monastrell,92 PK,NA,NA
+437,Preludio de Sei Solo, 2021,"27,90 €","4,6",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,91-93 PK,93 PN,NA
+438,Palacio de Bornos Frizzante Rosado,,"6,50 €","5,0",Vino dulce frizzante,Rueda,"5,5%",Tempranillo,NA,NA,NA
+439,Jané Ventura Reserva de la Música, 2019,"10,90 €","4,3",Cava,DO Cava,"12,0%",Xarel·lo,NA,NA,NA
+440,Agustí Torelló Mata Gran Reserva Brut Nature, 2017,"16,90 €","4,2",Cava,DO Cava,"11,5%",Macabeo,91 PK,NA,NA
+441,Laus Reserva, 2018,"8,70 €","5,0",Vino tinto,Somontano,"13,5%",Cabernet sauvignon,NA,NA,NA
+442,El Reventón La Reina, 2022,"33,95 €","0,0",Vino tinto,Cebreros,"13,0%",Garnacha,92-93 PK,NA,NA
+443,Par - Vino naranja," (0,5 L)","14,50 €","4,6",Vino Naranja del Condado de Huelva,Condado de Huelva,"15,0%",Zalema,NA,NA,NA
+444,El Grifo Lías, 2021,"22,00 €","5,0",Vino blanco,Lanzarote,"13,0%",Malvasía,NA,NA,NA
+445,Luzón Colección Roble, 2022,"7,80 €","4,0",Vino tinto,Jumilla,"14,5%",Monastrell,NA,NA,NA
+446,Abadal Picapoll, 2022,"13,95 €","4,6",Vino blanco,Pla de Bages,"12,5%",Picapoll,NA,90 PN,92 SK
+447,Gran Colegiata Original, 2018,"18,95 €","4,7",Vino tinto,Toro,"14,5%",Tinta de Toro,NA,93 PN,NA
+448,Matarromera Reserva, 2018,"39,95 €","4,5",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,90 PK,NA,NA
+449,Salanques, 2021,"38,50 €","4,6",Vino tinto,Priorat,"15,0%",Garnacha,91 PK,NA,NA
+450,Fagus de Coto de Hayas Selección Especial, 2020,"20,95 €","4,8",Vino tinto,Campo de Borja,"14,5%",Garnacha,NA,93 PN,NA
+451,Raventós i Blanc De la Finca, 2020,"23,15 €","4,1",Cava,Conca del Riu Anoia,"12,0%",Xarel·lo,93 PK,NA,NA
+452,Cune Imperial Reserva, 2018,"29,20 €","4,1",Vino tinto,Rioja,"14,0%",Tempranillo,94 PK,NA,NA
+453,Pinord Mireia, 2022,"12,50 €","4,5",Vino blanco,Penedès,"12,0%",Gewürztraminer,NA,NA,NA
+454,Las Gundiñas, 2021,"21,90 €","3,3",Vino tinto,Bierzo,"13,5%",Mencía,94 PK,94 PN,NA
+455,Unculín, 2021,"11,50 €","3,8",Vino tinto,Bierzo,"13,5%",Mencía,92 PK,NA,NA
+456,Azpilicueta Colección Privada Blanco, 2021,"20,95 €","5,0",Vino blanco,Rioja,"13,0%",Viura,NA,NA,NA
+457,Costers del Gravet, 2021,"13,25 €","4,3",Vino tinto,Montsant,"14,5%",Cabernet sauvignon,90 PK,NA,NA
+458,Lustau Manzanilla Papirusa,,"11,95 €","4,5",Manzanilla,Jerez-Manzanilla,"15,0%",Palomino fino,NA,NA,NA
+459,La Creu Alta, 2018,"95,55 €","5,0",Vino tinto,Priorat,"14,5%",Cariñena,94 PK,96 PN,NA
+460,Ferrer Bobet, 2020,"39,95 €","4,6",Vino tinto,Priorat,"14,0%",Cariñena,94 PK,93 PN,NA
+461,Emilio Moro La Felisa, 2022,"26,90 €","4,0",Vino tinto,Ribera del Duero,"13,5%",Tempranillo,NA,NA,NA
+462,Can Sumoi Ancestral Montonega, 2022,"14,24 €","4,5",Ancestral,España,"11,0%",Parellada,91 PK,NA,NA
+463,Baluarte Roble Ribera, 2022,"8,30 €","4,5",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+464,La Mateo Tempranillo Blanco FB, 2020,"24,95 €","0,0",Vino blanco,Rioja,"13,0%",Tempranillo blanco,NA,90 PN,NA
+465,AA Parvus Chardonnay, 2023,"10,85 €","4,0",Vino blanco,Alella,"13,0%",Chardonnay,NA,NA,NA
+466,Missenyora, 2021,"13,85 €","5,0",Vino blanco,Costers del Segre,"14,5%",Macabeo,90 PK,NA,NA
+467,Pata Negra Roble, 2022,"5,95 €","4,8",Vino tinto,Toro,"14,5%",Tinta de Toro,NA,NA,NA
+468,Sabaté i Coca Mosset Brut Nature, 2019,"16,20 €","0,0",Cava,Corpinnat,"12,5%",Xarel·lo,92 PK,NA,NA
+469,Enate Syrah-Shiraz, 2019,"23,50 €","4,7",Vino tinto,Somontano,"14,0%",Syrah,NA,90 PN,NA
+470,Enate Chardonnay Fermentado en Barrica, 2022,"18,25 €","4,8",Vino blanco,Somontano,"14,5%",Chardonnay,NA,92 PN,NA
+471,O. Rivière Rayos Uva, 2021,"11,95 €","4,4",Vino tinto,Rioja,"14,0%",Graciano,91+ PK,90 PN,NA
+472,A Coroa, 2022,"13,50 €","4,0",Vino blanco,Valdeorras,"13,5%",Godello,91 PK,NA,NA
+473,Venta La Ossa Syrah, 2019,"13,50 €","4,2",Vino tinto,Castilla,"15,0%",Syrah,NA,93 PN,NA
+474,Viña Pomal Reserva, 2017,"14,90 €","4,2",Vino tinto,Rioja,"14,5%",Tempranillo,91 PK,NA,NA
+475,Montsant Artesà Brut Nature,,"7,70 €","4,3",Cava,DO Cava,"11,5%",Xarel·lo,NA,NA,NA
+476,Cava Faustino Semi Seco,,"7,45 €","4,8",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+477,Agnvs Tempranillo, 2021,"8,95 €","4,5",Vino tinto,Rioja,"14,0%",Tempranillo,NA,NA,NA
+478,Manzanilla Pasada Pastrana,,"16,60 €","4,3",Manzanilla,Jerez-Manzanilla,"15,0%",Palomino fino,NA,NA,NA
+479,Valdespino Manzanilla Deliciosa en Rama - Saca de Primavera," (0,37 L)","9,95 €","4,9",Manzanilla,Jerez-Manzanilla,"15,0%",Palomino fino,NA,NA,NA
+480,Dido Blanc, 2021,"20,45 €","4,3",Vino blanco,Montsant,"14,0%",Macabeo,93 PK,NA,NA
+481,Campillo Crianza, 2020,"12,95 €","4,3",Vino tinto,Rioja,"13,5%",Tempranillo,NA,90 PN,92 SK
+482,De Muller Vino de Misa 1L,,"8,30 €","4,7",Vino dulce natural,Terra Alta,"15,0%",Garnacha blanca,NA,NA,NA
+483,AA Dolç Mataró," 2020 (0,37 L)","18,90 €","5,0",Cosecha tardía,Alella,"15,0%",Mataró,NA,91 PN,NA
+484,Ekam, 2022,"26,50 €","4,1",Vino blanco,Costers del Segre,"12,5%",Riesling,93 PK,91 PN,NA
+485,Alquez, 2019,"10,95 €","4,4",Vino tinto,Calatayud,"15,0%",Garnacha,NA,NA,NA
+486,Maior De Mendoza Sobre Lías, 2023,"14,50 €","5,0",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,90 PN,91 SK
+487,Resalte Vendimia Seleccionada, 2020,"13,15 €","4,3",Vino tinto,Ribera del Duero,"13,5%",Tempranillo,90+ PK,90 PN,NA
+488,Conde Siruela Roble, 2022,"7,50 €","4,3",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,NA,NA
+489,Mas de Mancuso Garnacha, 2018,"29,95 €","4,5",Vino tinto,Cariñena,"14,5%",Garnacha,94 PK,93 PN,91 SK
+490,Perplejo, 2022,"9,50 €","4,7",Vino blanco,Rueda,"12,5%",Verdejo,NA,NA,NA
+491,Javier Sanz Verdejo, 2022,"10,90 €","4,4",Vino blanco,Rueda,"13,0%",Verdejo,NA,90 PN,NA
+492,Taberner, 2017,"23,95 €","4,5",Vino tinto,Cádiz,"15,0%",Syrah,92 PK,NA,NA
+493,Barahonda Organic Barrica, 2020,"9,20 €","4,5",Vino tinto,Yecla,"14,5%",Monastrell,NA,NA,NA
+494,Artadi El Carretil, 2014,"185,00 €","4,8",Vino tinto,España,"14,5%",Tempranillo,95-97 PK,97 PN,99 SK
+495,Maruxa Godello, 2023,"9,90 €","3,3",Vino blanco,Valdeorras,"13,5%",Godello,90 PK,NA,NA
+496,Herència Altés Garnatxa Blanca, 2022,"8,95 €","4,5",Vino blanco,Terra Alta,"13,0%",Garnacha blanca,NA,NA,91 SK
+497,Castro Candaz Finca El Curvado, 2019,"17,50 €","4,3",Vino tinto,Ribeira Sacra,"13,0%",Mencía,92 PK,NA,NA
+498,AT Roca Rosat Reserva, 2021,"16,50 €","4,7",Cava,Clàssic Penedès,"12,0%",Macabeo,90 PK,NA,NA
+499,Lafou Els Amelers, 2022,"15,50 €","4,6",Vino blanco,Terra Alta,"13,0%",Garnacha blanca,91 PK,NA,NA
+500,Jardins Blanc, 2023,"5,75 €","4,0",Vino blanco,Empordà,"12,0%",Sauvignon blanc,NA,NA,NA
+501,Gran Cerdo,,"5,95 €","4,4",Vino tinto,España,"13,0%",Tempranillo,NA,NA,NA
+502,Azabache Crianza Vendimia Seleccionada, 2019,"5,90 €","4,4",Vino tinto,Rioja,"14,0%",Tempranillo,NA,NA,NA
+503,Adaras Aldea, 2021,"4,50 €","4,3",Vino tinto,Almansa,"13,5%",Garnacha tintorera,NA,90 PN,91 SK
+504,Coca i Fitó Maragda, 2017,"17,90 €","3,8",Vino tinto,Montsant,"14,5%",Garnacha,NA,NA,NA
+505,Ximénez-Spínola Exceptional Harvest, 2022,"19,70 €","4,7",Vino blanco,Jerez-Manzanilla,"12,5%",Pedro ximénez,NA,NA,NA
+506,Can Axartell Rosado, 2022,"15,50 €","4,5",Vino rosado,Mallorca,"12,0%",Pinot noir,NA,NA,NA
+507,Acusp, 2019,"39,00 €","4,8",Vino tinto,Costers del Segre,"12,5%",Pinot noir,93 PK,93 PN,NA
+508,Mas d'en Gil Vi de Vila Bellmunt del Priorat, 2020,"17,90 €","3,9",Vino tinto,Priorat,"14,5%",Garnacha,92 PK,NA,NA
+509,Can Sumoi Garnatxa Blanca, 2022,"11,50 €","4,8",Vino blanco,Penedès,"11,0%",Parellada,NA,NA,NA
+510,Artadi Tradición, 2022,"14,75 €","3,8",Vino de maceración carbónica,España,"14,0%",Tempranillo,90 PK,NA,NA
+511,Terroir al Límit Terra de Cuques, 2021,"33,15 €","5,0",Vino tinto,Priorat,"14,0%",Cariñena,93+ PK,94 PN,94 SK
+512,El Veïnat Garnacha, 2022,"8,95 €","4,3",Vino tinto,Montsant,"14,5%",Garnacha,NA,NA,NA
+513,Tajinaste Blanco Seco, 2022,"13,95 €","4,0",Vino blanco,Ycoden-Daute-Isora,"12,5%",Listán blanco,NA,NA,NA
+514,Akutain Crianza, 2018,"14,90 €","0,0",Vino Tinto,Rioja,"13,0%",Tempranillo,91+ PK,NA,NA
+515,Viña Esmeralda, 2022,"9,95 €","4,7",Vino blanco,Penedès,"11,5%",Moscatel de Alejandría,NA,NA,NA
+516,David & Goliath, 2021,"19,55 €","4,8",Vino tinto,España,"14,5%",Bobal,NA,NA,NA
+517,Pedregosa Reserva Millésimé, 2018,"9,30 €","4,0",Cava,DO Cava,"11,5%",Chardonnay,NA,NA,NA
+518,Raimat Abadia Ecológico, 2021,"7,45 €","4,5",Vino tinto,Costers del Segre,"14,0%",Cabernet sauvignon,NA,NA,NA
+519,13 Cántaros Nicolás, 2021,"8,45 €","3,9",Vino tinto,Cigales,"14,0%",Tempranillo,NA,NA,NA
+520,Iturria, 2019,"13,90 €","4,2",Vino tinto,Toro,"14,5%",Tinta de Toro,91 PK,NA,NA
+521,Viña Arana Gran Reserva, 2015,"35,50 €","4,9",Vino tinto,Rioja,"13,5%",Tempranillo,92 PK,96 PN,96 SK
+522,Pazo de Villarei, 2022,"9,95 €","5,0",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,NA,NA
+523,Azpilicueta Reserva, 2018,"13,60 €","4,0",Vino tinto,Rioja,"14,0%",Tempranillo,NA,91 PN,NA
+524,Gran Feudo Casilla Del Guapo, 2021,"7,20 €","5,0",Vino tinto,Navarra,"14,0%",Tempranillo,NA,NA,NA
+525,Corambres, 2022,"9,95 €","5,0",Vino tinto,Castilla,"14,0%",Tempranillo,NA,NA,NA
+526,Altos de Torona Godello, 2022,"11,50 €","3,9",Vino blanco,Rías Baixas,"12,5%",Godello,NA,NA,NA
+527,Txomin Etxaniz Rosé, 2022,"11,95 €","4,0",Vino rosado,Getariako Txakolina,"10,5%",Hondarribi zuri,NA,NA,NA
+528,Viña Tondonia Gran Reserva Histórico, 1981,"223,50 €","5,0",Vino Tinto,Rioja,"12,5%",Tempranillo,NA,NA,NA
+529,Viña Pomal Blanco, 2023,"7,50 €","4,3",Vino blanco,Rioja,"12,5%",Viura,NA,90 PN,NA
+530,Oriol Rossell Brut Rosat,,"14,35 €","5,0",Cava,DO Cava,"11,5%",Garnacha,NA,NA,NA
+531,XIII Lunas, 2018,"7,80 €","4,6",Vino tinto,Rioja,"13,5%",Garnacha,NA,NA,NA
+532,Nadal Brut Reserva Original,,"12,95 €","4,5",Cava,Corpinnat,"12,0%",Parellada,NA,NA,NA
+533,AC La Rodetta, 2022,"6,80 €","4,6",Vino blanco,España,"10,5%",Viura,NA,NA,NA
+534,Cresta Rosa,,"4,25 €","4,1",Vino rosado frizzante,España,"12,5%",Tempranillo,NA,NA,NA
+535,La Pantera Rosa, 2021,"8,20 €","0,0",Vino rosado,Cebreros,"13,0%",Garnacha,92 PK,NA,NA
+536,Frisach L'Abrunet Blanc, 2022,"9,30 €","4,2",Vino blanco,Terra Alta,"13,0%",Garnacha blanca,NA,NA,NA
+537,Terras de Cigarrón, 2022,"8,95 €","4,8",Vino blanco,Monterrei,"12,5%",Godello,NA,NA,NA
+538,Les Brugueres Negre, 2021,"20,80 €","4,8",Vino tinto,Priorat,"14,0%",Garnacha,90 PK,NA,94 SK
+539,Mont-Ferrant Brut Reserva Ecològic,,"10,95 €","0,0",Cava,DO Cava,"11,0%",Xarel·lo,NA,NA,NA
+540,Señorío de Cuzcurrita, 2019,"24,90 €","4,7",Vino tinto,Rioja,"14,0%",Tempranillo,NA,92 PN,NA
+541,Enrique Mendoza Pinot Noir, 2022,"9,95 €","4,1",Vino tinto,Alicante,"14,0%",Pinot noir,NA,NA,NA
+542,El Nen de Can Maset, 2021,"7,50 €","5,0",Vino tinto,Empordà,"14,5%",Syrah,NA,NA,NA
+543,La Huella de Aitana, 2022,"12,00 €","4,3",Vino rosado criado en barrica,Navarra,"13,5%",Garnacha,90 PK,90 PN,NA
+544,Laus Crianza, 2019,"6,50 €","3,8",Vino tinto,Somontano,"14,0%",Merlot,NA,NA,NA
+545,Valdesil Godello sobre lías, 2022,"16,90 €","3,3",Vino blanco,Valdeorras,"13,5%",Godello,90 PK,93 PN,NA
+546,Alto Siós, 2021,"16,95 €","5,0",Vino tinto,Costers del Segre,"14,5%",Syrah,90 PK,91 PN,92 SK
+547,Pedralonga Albariño, 2022,"19,90 €","4,7",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,NA,NA
+548,Atalier Albariño, 2022,"15,90 €","4,0",Vino blanco,Rías Baixas,"13,0%",Albariño,94 PK,NA,NA
+549,Marge, 2019,"18,95 €","4,2",Vino tinto,Priorat,"15,0%",Garnacha,90 PK,NA,NA
+550,Conde Valdemar Reserva, 2015,"13,50 €","4,4",Vino tinto,Rioja,"13,5%",Tempranillo,90 PK,NA,NA
+551,Can Sumoi La Rosa, 2022,"12,60 €","4,0",Vino rosado,Penedès,"11,0%",Sumoll,NA,90 PN,NA
+552,González Byass Néctar Pedro Ximénez,,"9,95 €","4,5",Vino dulce natural,Jerez-Manzanilla,"15,0%",Pedro ximénez,NA,NA,NA
+553,Pazo Baión, 2022,"18,50 €","4,4",Vino blanco,Rías Baixas,"12,5%",Albariño,91 PK,NA,NA
+554,Pulpo Albariño, 2022,"12,50 €","3,8",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,NA,NA
+555,Fedellos do Couto Lomba dos Ares, 2021,"19,90 €","3,4",Vino tinto,Ribeira Sacra,"12,5%",Mencía,94 PK,NA,NA
+556,Pirineos Gewürztraminer, 2023,"8,95 €","4,0",Vino blanco,Somontano,"13,0%",Gewürztraminer,NA,90 PN,90 SK
+557,Perlat Syrah, 2021,"10,60 €","5,0",Vino tinto,Montsant,"14,5%",Syrah,NA,NA,NA
+558,Pingus, 2021,"1750,00 €","5,0",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,98-100 PK,99 PN,99 SK
+559,Bertha Cardús Brut Nature Gran Reserva, 2019,"19,80 €","4,8",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+560,Pago de Santa Cruz, 2021,"52,90 €","4,7",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,92 PK,95 PN,NA
+561,Planetes de Nin Clàssic, 2021,"40,90 €","3,8",Vino tinto,Priorat,"14,5%",Garnacha,96 PK,NA,NA
+562,Ultreia Mencía, 2020,"15,95 €","4,1",Vino tinto,Bierzo,"13,5%",Mencía,93 PK,NA,91 SK
+563,Ullones, 2023,"8,75 €","4,5",Vino rosado,Empordà,"13,0%",Garnacha,NA,NA,NA
+564,Botani Sparkling Muscat, 2022,"16,90 €","4,5",Vino espumoso,Sierras de Málaga,"9,5%",Moscatel de Alejandría,92 PK,NA,NA
+565,Finca Olivardots Groc d'Àmfora, 2022,"11,95 €","4,4",Vino blanco,Empordà,"13,0%",Garnacha blanca,91 PK,NA,91 SK
+566,Perelada Blue Festival Brut Reserva,,"6,95 €","4,3",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+567,L'Antana, 2013,"14,90 €","5,0",Vino tinto,Penedès,"14,5%",Merlot,NA,NA,NA
+568,Bassus Pinot Noir, 2021,"26,95 €","4,3",Vino tinto,Utiel-Requena,"13,5%",Pinot noir,NA,91 PN,NA
+569,Rebisaca, 2021,"12,90 €","5,0",Vino blanco,Rías Baixas,"13,5%",Albariño,93 PK,NA,NA
+570,Maior De Mendoza Fulget, 2023,"9,60 €","4,0",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,NA,90 SK
+571,Colet Tradicional Extra Brut, 2019,"13,90 €","4,3",Cava,Clàssic Penedès,"11,5%",Xarel·lo,92 PK,93 PN,NA
+572,Valdespino Fino Ynocente,,"13,90 €","4,5",Fino,Jerez-Manzanilla,"15,0%",Palomino fino,NA,NA,NA
+573,Afortunado, 2022,"7,50 €","4,6",Vino blanco,Rueda,"13,0%",Verdejo,NA,NA,NA
+574,Ama de Gorka Izagirre, 2019,"34,50 €","0,0",Vino blanco,Bizkaiko Txakolina,"13,5%",Hondarribi zerratia,NA,NA,NA
+575,Tal Com Raja Negre, 2022,"6,20 €","5,0",Vino tinto,Terra Alta,"14,0%",Garnacha,NA,NA,NA
+576,Alta Alella Mirgin Opus Paratge Qualificat Vallcirera, 2019,"33,50 €","4,5",Cava,DO Cava,"12,0%",Chardonnay,NA,93 PN,NA
+577,Álvaro Palacios Vi de Vila Gratallops, 2021,"66,50 €","5,0",Vino tinto,Priorat,"14,5%",Garnacha,94-96 PK,95 PN,95 SK
+578,Finca Terrerazo, 2021,"27,85 €","4,6",Vino tinto,El Terrerazo,"14,5%",Bobal,94+ PK,94 PN,NA
+579,Hombros, 2020,"18,95 €","4,5",Vino tinto,Bierzo,"13,5%",Mencía,91 PK,92 PN,92 SK
+580,Codorníu Zero,,"7,95 €","5,0",Cava,España,NA,Airén,NA,NA,NA
+581,Casas de Moya Maria, 2020,"11,95 €","4,1",Vino tinto,Utiel-Requena,"14,5%",Bobal,NA,NA,NA
+582,Les Sorts Vinyes Velles, 2019,"17,80 €","4,6",Vino tinto,Montsant,"14,5%",Garnacha,NA,NA,NA
+583,Boada Reserva, 2013,"15,95 €","5,0",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+584,Oriol Rossell Mític 1908 BN Gran Reserva, 2018,"16,70 €","4,0",Cava,DO Cava,"12,0%",Xarel·lo,NA,NA,NA
+585,Museum Reserva, 2019,"13,50 €","4,6",Vino tinto,Cigales,"14,5%",Tempranillo,90 PK,92 PN,91 SK
+586,Martín Códax Lías, 2021,"21,50 €","4,3",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,93 PN,NA
+587,Torre Barreda Tempranillo, 2022,"7,95 €","4,0",Vino tinto,Castilla,"14,5%",Tempranillo,NA,NA,NA
+588,Llopart Néctar Terrenal,,"13,50 €","5,0",Cava,Corpinnat,"11,5%",Xarel·lo,NA,NA,NA
+589,Obalo La Encina Crianza, 2019,"11,50 €","4,5",Vino tinto,Rioja,"14,5%",Tempranillo,90+ PK,93 PN,92 SK
+590,Boig Per Tu, 2020,"15,95 €","4,0",Vino tinto,Montsant,"14,5%",Garnacha,NA,NA,NA
+591,Las Iruelas, 2021,"153,50 €","0,0",Vino tinto,Castilla y León,"14,0%",Garnacha,98 PK,NA,95 SK
+592,Pita Verderrubí Verdejo Ecológico, 2022,"8,40 €","4,5",Vino blanco,Rueda,"13,0%",Verdejo,NA,NA,NA
+593,Mestizaje, 2021,"10,90 €","4,2",Vino tinto,El Terrerazo,"13,5%",Bobal,91 PK,91 PN,NA
+594,Do Ferreiro Adina, 2022,"30,50 €","4,0",Vino blanco,Rías Baixas,"12,5%",Albariño,94+ PK,NA,NA
+595,Condado de Oriza Reserva, 2017,"18,90 €","4,4",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,93 SK
+596,Artuke Tinto, 2022,"7,60 €","3,9",Vino tinto,Rioja,"13,5%",Tempranillo,91+ PK,90 PN,NA
+597,Lolo, 2022,"10,20 €","4,1",Vino blanco,Rías Baixas,"12,0%",Albariño,NA,NA,NA
+598,Baynos, 2021,"65,00 €","5,0",Vino Tinto,Rioja,"14,0%",Tempranillo,94-96 PK,NA,NA
+599,Gotas de Mar, 2022,"12,80 €","4,5",Vino blanco,Rías Baixas,"12,5%",Albariño,NA,NA,NA
+600,Natureo Tinto, 2022,"8,75 €","4,0",Vino tinto,Penedès,NA,Garnacha,NA,NA,NA
+601,Beronia Crianza, 2020,"7,90 €","4,3",Vino tinto,Rioja,"13,5%",Tempranillo,NA,NA,92 SK
+602,Diaz Bayo 15 Meses Crianza, 2021,"12,75 €","4,4",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,90 PN,NA
+603,Fresquito Vino de Tinaja, 2022,"9,40 €","4,0",Vino blanco,Montilla-Moriles,"14,5%",Pedro ximénez,NA,NA,NA
+604,Albamar Ceibo Godello, 2022,"24,50 €","0,0",Vino blanco,Valdeorras,"13,5%",Godello,91 PK,91 PN,NA
+605,Hito, 2022,"12,10 €","4,4",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,90 PK,NA,NA
+606,Dehesa del Carrizal Cabernet Sauvignon, 2020,"18,80 €","4,4",Vino tinto,Pago Dehesa del Carrizal,"15,0%",Cabernet sauvignon,91 PK,NA,93 SK
+607,Tinto Figuero 12 Meses, 2020,"19,25 €","4,8",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,90 PK,NA,NA
+608,Tobelos Crianza, 2019,"11,30 €","4,0",Vino tinto,Rioja,"13,5%",Tempranillo,90 PK,90 PN,NA
+609,Emina Verdejo, 2022,"5,95 €","4,4",Vino blanco,Rueda,"13,5%",Verdejo,NA,NA,NA
+610,Lagunilla Viura, 2021,"4,80 €","4,5",Vino blanco,Rioja,"12,5%",Viura,NA,NA,NA
+611,Tarima Monastrell, 2022,"5,90 €","4,2",Vino tinto,Alicante,"14,5%",Monastrell,91 PK,91 PN,NA
+612,D'Iatra Gratallops Vi de Vila, 2017,"18,40 €","4,6",Vino tinto,Priorat,"15,5%",Cariñena,NA,NA,NA
+613,Camino de los Arrieros, 2021,"14,90 €","4,0",Vino tinto,Arribes,"11,5%",Trincadeira,93 PK,NA,92 SK
+614,Ramón Bilbao Gran Reserva, 2014,"29,50 €","4,8",Vino tinto,Rioja,"14,0%",Tempranillo,90+ PK,93 PN,NA
+615,Cuatro Rayas Cuarenta Vendimias Ribera Duero, 2020,"8,95 €","5,0",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,NA,NA
+616,A Dos Manos, 2020,"12,50 €","4,0",Vino Tinto,Méntrida,"14,0%",Garnacha,93 PK,92 PN,NA
+617,Cardela, 2018,"15,90 €","4,5",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+618,Portia Roble, 2022,"8,40 €","4,0",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,NA,NA,92 SK
+619,Valduero 6 Años Reserva Premium, 2015,"67,95 €","4,0",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,94 PK,NA,NA
+620,Marqués de Riscal Verdejo Organic, 2022,"9,95 €","5,0",Vino blanco,Rueda,"13,0%",Verdejo,NA,NA,NA
+621,Vilarnau Brut Reserva Rosé,,"13,90 €","5,0",Cava,DO Cava,"12,0%",Garnacha,NA,NA,NA
+622,Mastinell Eliane, 2022,"13,90 €","0,0",Vino blanco,Penedès,"13,0%",Chardonnay,NA,NA,NA
+623,El Molar, 2021,"18,45 €","4,1",Vino tinto,Jumilla,"15,0%",Garnacha,95 PK,94 PN,NA
+624,Terroir al Límit Pedra de Guix, 2021,"68,85 €","4,8",Vino blanco,Priorat,"13,0%",Pedro ximénez,96 PK,94 PN,95 SK
+625,Montecillo Gran Reserva, 2015,"18,50 €","0,0",Vino tinto,Rioja,"13,5%",Tempranillo,NA,NA,NA
+626,Coca i Fitó Blanc, 2021,"12,95 €","0,0",Vino blanco,Montsant,"13,5%",Garnacha blanca,NA,NA,NA
+627,Jardín Rojo, 2019,"7,20 €","4,3",Vino tinto,Rioja,"13,5%",Tempranillo,NA,NA,NA
+628,Gran Barquero Amontillado,,"26,90 €","4,6",Amontillado,Montilla-Moriles,"19,0%",Pedro ximénez,NA,NA,NA
+629,Ximénez-Spínola Pedro Ximenez Muy Viejo,,"59,89 €","0,0",Vino dulce natural,Jerez-Manzanilla,"15,0%",Pedro ximénez,NA,NA,NA
+630,Club Altanza Reserva, 2015,"21,90 €","4,7",Vino tinto,Rioja,"14,0%",Tempranillo,91 PK,93 PN,93 SK
+631,Altanza Sauvignon Blanc, 2022,"7,50 €","5,0",Vino blanco,Rioja,"13,0%",Sauvignon blanc,NA,NA,90 SK
+632,Las Moradas de San Martín Albillo Real, 2021,"13,25 €","4,6",Vino blanco,Vinos de Madrid,"13,0%",Albillo,90 PK,NA,NA
+633,Juvé & Camps Essential, 2018,"15,90 €","5,0",Cava,DO Cava,"12,0%",Xarel·lo,NA,NA,NA
+634,Viña Sastre Roble, 2021,"10,90 €","4,1",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,90 PK,92 PN,NA
+635,Torelló Brut Nature Tradicional, 2017,"16,95 €","4,1",Cava,Corpinnat,"12,0%",Macabeo,92 PK,NA,NA
+636,Luna Beberide Art, 2021,"21,30 €","5,0",Vino tinto,Bierzo,"13,5%",Mencía,94 PK,90 PN,93 SK
+637,Mestres Imperial Gran Reserva, 2013,"18,95 €","0,0",Cava,DO Cava,"12,0%",Macabeo,90 PK,NA,NA
+638,Summa Varietalis, 2020,"19,90 €","4,0",Vino tinto,Dominio de Valdepusa,"15,0%",Cabernet sauvignon,91 PK,91 PN,NA
+639,Dahlia Gris, 2022,"10,70 €","5,0",Vino rosado,Penedès,"12,5%",Garnacha gris,NA,NA,NA
+640,Luzón Colección Blanco, 2022,"6,80 €","4,0",Vino blanco,Jumilla,"12,0%",Sauvignon blanc,NA,NA,NA
+641,Enate Merlot-Merlot, 2019,"23,50 €","4,8",Vino tinto,Somontano,"15,0%",Merlot,NA,91 PN,NA
+642,Clarete de Luna Rosado, 2022,"6,20 €","4,1",Vino clarete,Cigales,"13,0%",Tempranillo,NA,NA,NA
+643,Amfitrió de l'Empordà, 2020,"14,90 €","5,0",Vino Tinto,Empordà,"15,0%",Garnacha,NA,NA,NA
+644,Extremarium Reserva Brut Nature,,"12,20 €","4,4",Cava,DO Cava,"12,0%",Xarel·lo,NA,NA,NA
+645,Palacio Quemado Crianza, 2021,"8,70 €","4,5",Vino tinto,Ribera del Guadiana,"13,5%",Tempranillo,NA,NA,91 SK
+646,Poesia Garnacha Blanca, 2022,"3,90 €","3,8",Vino blanco,Catalunya,"12,5%",Garnacha blanca,NA,NA,NA
+647,Rodrigo Méndez Muti, 2021,"25,95 €","4,3",Vino blanco,Rías Baixas,"13,0%",Albariño,93 PK,NA,NA
+648,Honoro Vera Monastrell Organic, 2022,"6,45 €","4,4",Vino tinto,Jumilla,"14,5%",Monastrell,90 PK,91 PN,NA
+649,Capricho Val de Paxariñas, 2022,"11,95 €","4,8",Vino blanco,Bierzo,"13,5%",Godello,90 PK,93 PN,NA
+650,Yllera Verdejo Vendimia Nocturna, 2022,"6,30 €","4,4",Vino blanco,Rueda,"13,0%",Verdejo,NA,90 PN,NA
+651,Las Moradas de San Martín Initio, 2018,"15,35 €","4,5",Vino tinto,Vinos de Madrid,"15,0%",Garnacha,NA,NA,NA
+652,Obsequi de l'Empordà, 2022,"13,90 €","5,0",Vino blanco,Empordà,"13,5%",Garnacha blanca,NA,NA,NA
+653,Quinta Milú La Cometa, 2021,"17,80 €","4,3",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+654,Txakoli Aizpurua, 2022,"9,75 €","4,3",Vino blanco,Getariako Txakolina,"11,0%",Hondarribi zuri,NA,NA,NA
+655,Castro Candaz La Vertical, 2020,"22,95 €","0,0",Vino blanco,Ribeira Sacra,"13,5%",Godello,93 PK,NA,NA
+656,Ruxe Ruxe, 2021,"11,50 €","4,5",Vino tinto,Ribeira Sacra,"14,0%",Mencía,NA,NA,NA
+657,Itsasmendi, 2022,"11,40 €","4,3",Vino blanco,Bizkaiko Txakolina,"13,0%",Hondarribi zuri,NA,NA,NA
+658,Raimat El Cim del Turó Brut Nature,,"13,95 €","5,0",Cava,DO Cava,"11,5%",Chardonnay,NA,NA,NA
+659,Viñas del Vero Gran Vos Reserva, 2016,"22,40 €","4,3",Vino tinto,Somontano,"14,0%",Cabernet sauvignon,NA,90 PN,90 SK
+660,Valduero 2 Cotas Reserva, 2016,"37,50 €","4,8",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+661,El Telar, 2019,"18,50 €","5,0",Vino tinto,Alicante,"15,5%",Monastrell,91 PK,NA,NA
+662,Casa Castillo Pie Franco, 2021,"149,00 €","4,5",Vino tinto,Jumilla,"14,5%",Monastrell,100 PK,95 PN,NA
+663,Heras Cordón Vendimia Seleccionada, 2019,"11,95 €","5,0",Vino tinto,Rioja,"14,0%",Tempranillo,NA,NA,NA
+664,Els Vinyerons Lluerna Blanc, 2022,"9,40 €","5,0",Vino blanco,Penedès,"12,0%",Xarel·lo,NA,NA,NA
+665,Mas de Mancuso Macabeo, 2019,"29,95 €","0,0",Vino blanco,Cariñena,"13,5%",Macabeo,94 PK,NA,NA
+666,Adernats Reserva Brut,,"7,85 €","4,0",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+667,Torre de Golbán Crianza, 2019,"12,95 €","4,2",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,90 PK,NA,NA
+668,Vi-Ve Maceración Carbónica, 2022,"6,95 €","4,0",Vino de maceración carbónica,Rioja,"14,5%",Tempranillo,NA,NA,NA
+669,Llum d'Alena, 2018,"16,75 €","4,0",Vino tinto,Priorat,"16,0%",Garnacha,NA,NA,NA
+670,Luis Cañas Tinto Joven, 2022,"7,25 €","4,3",Vino tinto,Rioja,"14,0%",Tempranillo,NA,NA,NA
+671,Cantocuerdas Albillo, 2020,"17,90 €","4,5",Vino blanco,Vinos de Madrid,"14,0%",Albillo,91+ PK,NA,NA
+672,Clos Montblanc Chardonnay Únic, 2022,"13,60 €","4,1",Vino blanco,Catalunya,"14,0%",Chardonnay,NA,NA,NA
+673,Gargalo Godello, 2022,"12,95 €","4,0",Vino blanco,Monterrei,"14,0%",Godello,NA,90 PN,92 SK
+674,Ses Nines Negre Selecció 07/9, 2021,"15,90 €","5,0",Vino tinto,Mallorca,"14,0%",Mantonegro,NA,NA,NA
+675,Anais Xarel·lo, 2022,"7,60 €","5,0",Vino blanco,Penedès,"12,0%",Xarel·lo,NA,NA,NA
+676,Honoro Vera Monastrell, 2022,"6,45 €","4,8",Vino tinto,Jumilla,"14,5%",Monastrell,NA,NA,NA
+677,Orben, 2020,"25,10 €","4,2",Vino tinto,Rioja,"14,0%",Tempranillo,92 PK,94 PN,93 SK
+678,Luis Cañas Blanco Viñas Viejas, 2021,"12,50 €","4,5",Vino blanco,Rioja,"13,5%",Viura,91 PK,NA,NA
+679,Gran Juvé & Camps, 2017,"34,90 €","0,0",Cava,DO Cava,"12,0%",Parellada,91 PK,95 PN,NA
+680,Can Axartell Blanco, 2022,"14,75 €","3,0",Vino blanco,Mallorca,"13,0%",Malvasía,NA,NA,NA
+681,Familia Valdelana Rosado, 2022,"6,00 €","5,0",Vino rosado,Rioja,"12,5%",Garnacha,NA,NA,NA
+682,Campo Viejo Tempranillo,,"4,50 €","4,4",Vino tinto,Rioja,"13,0%",Tempranillo,NA,NA,NA
+683,Milsetentayseis, 2020,"53,95 €","0,0",Vino Tinto,Ribera del Duero,"14,5%",Tempranillo,93 PK,NA,94 SK
+684,Biga Crianza, 2020,"8,95 €","4,3",Vino tinto,Rioja,"13,5%",Tempranillo,NA,91 PN,NA
+685,Crater, 2018,"28,70 €","0,0",Vino tinto,Tacoronte - Acentejo,"13,5%",Listán negro,NA,91 PN,NA
+686,Dominio de Valdelacasa, 2019,"12,95 €","5,0",Vino tinto,Toro,"14,0%",Tinta de Toro,NA,NA,NA
+687,Compta Gotes, 2021,"11,95 €","5,0",Vino tinto,Priorat,"14,5%",Garnacha,NA,NA,NA
+688,Baigorri B70, 2019,"114,50 €","4,0",Vino tinto,Rioja,"14,5%",Tempranillo,NA,NA,93 SK
+689,Arenisca Paraje Los Pilones, 2021,"14,90 €","4,4",Vino tinto,España,"14,5%",Tinta de Toro,92+ PK,92 PN,NA
+690,Damana 5, 2021,"9,50 €","4,5",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,92 SK
+691,Ariyanas David Tinto Dulce," 2022 (0,37 L)","18,90 €","0,0",Vino dulce,Sierras de Málaga,"12,5%",Merlot,NA,NA,NA
+692,Doix Murmuri, 2022,"24,95 €","4,0",Vino blanco,Priorat,"13,0%",Garnacha blanca,92 PK,NA,NA
+693,Gémina Finca El Volcán, 2017,"30,00 €","0,0",Vino tinto,Jumilla,"14,5%",Monastrell,NA,NA,NA
+694,Suertes del Marqués 7 Fuentes, 2020,"12,95 €","4,0",Vino tinto,Valle de La Orotava,"13,5%",Listán negro,93+ PK,90 PN,NA
+695,Tarima Mediterráneo, 2022,"6,50 €","4,4",Vino blanco,Alicante,"12,0%",Merseguera,NA,NA,NA
+696,Loxarel Brut Nature Reserva Vintage, 2020,"10,70 €","4,0",Cava,Clàssic Penedès,"12,0%",Xarel·lo,NA,NA,NA
+697,Enate Cabernet Sauvignon Merlot, 2020,"7,50 €","4,4",Vino tinto,Somontano,"14,5%",Cabernet sauvignon,NA,NA,NA
+698,Ermita d'Espiells, 2022,"9,35 €","4,0",Vino blanco,Penedès,"11,5%",Macabeo,NA,NA,NA
+699,Vulcano Malvasia Seco, 2022,"27,95 €","4,6",Vino blanco,Lanzarote,"13,0%",Malvasía,NA,NA,NA
+700,Roger Goulart Brut Reserva, 2021,"8,95 €","4,7",Cava,DO Cava,"12,0%",Xarel·lo,NA,NA,NA
+701,Cerro Añón Gran Reserva, 2016,"18,00 €","4,0",Vino tinto,Rioja,"14,0%",Tempranillo,NA,NA,NA
+702,Málaga Virgen Moscatel Reserva de Familia," (0,5 L)","9,90 €","5,0",Vino dulce natural,Málaga,"15,0%",Moscatel de Alejandría,NA,NA,NA
+703,Recaredo Turó d'en Mota, 2009,"134,50 €","5,0",Cava,DO Cava,"12,5%",Xarel·lo,97 PK,97 PN,NA
+704,Barco del Corneta, 2021,"22,25 €","4,3",Vino blanco,Castilla y León,"13,0%",Verdejo,93 PK,NA,NA
+705,San Cobate, 2020,"17,30 €","4,0",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,91 PK,91 PN,NA
+706,Llàgrimes de Tardor Negre, 2020,"8,85 €","4,3",Vino tinto,Terra Alta,"14,0%",Garnacha,NA,NA,NA
+707,Corazón Loco Blanco, 2022,"6,50 €","3,0",Vino blanco,Manchuela,"12,5%",Verdejo,NA,NA,NA
+708,Familia Pacheco Organic, 2022,"5,60 €","4,0",Vino tinto,Jumilla,"14,0%",Monastrell,NA,NA,NA
+709,Lagar d'Amprius Garnacha, 2016,"10,95 €","5,0",Vino tinto,Bajo Aragón,"15,0%",Garnacha,NA,NA,NA
+710,3404 Blanco, 2022,"5,25 €","4,0",Vino blanco,Somontano,"13,5%",Chardonnay,NA,NA,NA
+711,Nebla Verdejo, 2022,"7,15 €","5,0",Vino blanco,Castilla y León,"13,0%",Verdejo,NA,NA,NA
+712,César Florido Moscatel Especial,,"11,50 €","4,0",Vino dulce natural,Jerez-Manzanilla,"18,0%",Moscatel de Alejandría,NA,NA,NA
+713,Tomas Postigo Verdejo F.B., 2020,"25,60 €","5,0",Vino blanco,Castilla y León,"14,0%",Verdejo,NA,91 PN,NA
+714,Finca Olivardots Vermell, 2019,"12,75 €","4,0",Vino tinto,Empordà,"14,5%",Syrah,NA,NA,NA
+715,Casar Godello Fermentado en Barrica, 2021,"23,30 €","4,0",Vino blanco,Bierzo,"13,5%",Godello,91 PK,NA,NA
+716,Pissarres, 2021,"16,95 €","4,3",Vino tinto,Priorat,"14,5%",Garnacha,91 PK,92 PN,NA
+717,Campo Viejo Rosado, 2022,"4,50 €","4,7",Vino rosado,Rioja,"13,5%",Tempranillo,NA,NA,NA
+718,Faustino V Rosado, 2022,"5,45 €","4,1",Vino rosado,Rioja,"13,5%",Tempranillo,NA,NA,NA
+719,Montecillo Blanco Fermentado en Barrica, 2022,"8,20 €","5,0",Vino blanco,Rioja,"13,0%",Viura,NA,NA,NA
+720,Roger Goulart Brut Nature Reserva, 2020,"11,50 €","4,2",Cava,DO Cava,"12,0%",Xarel·lo,NA,NA,NA
+721,Perelada Cava Ed. Especial Centenaria, 2020,"12,00 €","0,0",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+722,Juvé & Camps Cinta Púrpura Brut,,"15,50 €","4,3",Cava,DO Cava,"12,0%",Macabeo,NA,NA,NA
+723,Pere Ventura Tresor Aniversary Gran Reserva, 2018,"27,95 €","5,0",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+724,Algueira Brandan Godello, 2022,"16,30 €","4,5",Vino blanco,Ribeira Sacra,"12,5%",Godello,91 PK,NA,NA
+725,Savina, 2022,"24,50 €","4,7",Vino blanco,Formentera,"14,0%",Viognier,NA,NA,NA
+726,Lustau Amontillado Los Arcos,,"12,50 €","3,3",Amontillado,Jerez-Manzanilla,"18,5%",Palomino fino,NA,NA,NA
+727,La Xocolata del Lloro, 2022,"20,50 €","5,0",Vino Blanco,España,"12,5%",Malvasía,NA,NA,NA
+728,Terrible Roble, 2021,"9,80 €","3,8",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+729,Parxet Brut Reserva, 2020,"12,95 €","4,0",Cava,DO Cava,"11,5%",Pansa blanca,NA,NA,NA
+730,Gran Colegiata Crianza, 2016,"11,75 €","4,3",Vino tinto,Toro,"14,0%",Tinta de Toro,NA,NA,NA
+731,Naluar, 2020,"21,50 €","5,0",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,92+ PK,91 PN,NA
+732,Larchago Crianza, 2020,"9,50 €","4,0",Vino tinto,Rioja,"14,0%",Tempranillo,NA,NA,92 SK
+733,Taïka, 2016,"49,90 €","4,5",Ancestral,Costers del Segre,"12,0%",Sauvignon blanc,94 PK,90 PN,NA
+734,Viuda Negra Nunca Jamás, 2021,"14,90 €","4,3",Vino tinto,Rioja,"14,0%",Tempranillo,90 PK,NA,NA
+735,Extremarium Rosado Brut Nature,,"12,20 €","3,8",Cava,DO Cava,"11,5%",Pinot noir,NA,NA,NA
+736,Nadal Salvatge Rosé,,"19,40 €","5,0",Cava,Corpinnat,"12,5%",Pinot noir,NA,NA,NA
+737,Corral de Campanas, 2020,"10,95 €","4,0",Vino tinto,Toro,"14,5%",Tinta de Toro,NA,90 PN,NA
+738,Perlat Negre, 2021,"9,95 €","0,0",Vino tinto,Montsant,"14,5%",Garnacha,NA,NA,NA
+739,Mastinell Nature Gran Reserva, 2014,"18,50 €","5,0",Cava,DO Cava,"12,0%",Xarel·lo,NA,90 PN,NA
+740,Blanca Cusiné, 2015,"24,90 €","4,7",Cava,DO Cava,"12,0%",Chardonnay,90 PK,93 PN,NA
+741,Entrelobos, 2021,"9,70 €","4,0",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+742,Muga Blanco Fermentado en Barrica, 2022,"11,80 €","4,4",Vino blanco,Rioja,"13,0%",Viura,91 PK,90 PN,93 SK
+743,Vespres, 2022,"14,90 €","4,0",Vino tinto,Montsant,"14,0%",Garnacha,91 PK,90 PN,92 SK
+744,Carles Andreu Brut Reserva, 2021,"8,55 €","5,0",Cava,DO Cava,"11,5%",Parellada,NA,NA,NA
+745,Marqués de Griñón Cabernet Sauvignon, 2019,"24,95 €","3,7",Vino tinto,Dominio de Valdepusa,"15,0%",Cabernet sauvignon,91 PK,93 PN,NA
+746,Poesia Crianza, 2019,"3,90 €","4,3",Vino tinto,Catalunya,"13,0%",Tempranillo,NA,NA,NA
+747,Llopart Original Brut Nature 1887, 2010,"56,70 €","4,3",Cava,Corpinnat,"11,5%",Parellada,93 PK,95 PN,NA
+748,Manzanilla Argüeso San León,,"8,95 €","4,6",Manzanilla,Jerez-Manzanilla,"15,0%",Palomino fino,NA,NA,NA
+749,Codorníu Clásico Semi Sec,,"5,95 €","4,8",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+750,Viña Salceda Rueda Verdejo, 2022,"7,45 €","4,0",Vino blanco,Rueda,"13,0%",Verdejo,NA,NA,NA
+751,Tres Olmos Verdejo Lías, 2022,"8,95 €","4,0",Vino blanco,Rueda,"13,0%",Verdejo,NA,90 PN,NA
+752,Mas d'en Compte Negre, 2016,"19,95 €","4,4",Vino tinto,Priorat,"14,5%",Cariñena,91 PK,NA,NA
+753,DG Viticultors Brut Rosé, 2013,"14,30 €","4,4",Cava,DO Cava,"12,5%",Pinot noir,NA,NA,NA
+754,Gregal d'Espiells, 2022,"10,85 €","4,5",Vino blanco,Penedès,"11,0%",Gewürztraminer,NA,NA,NA
+755,Freixenet Reserva Brut Nature,,"8,85 €","4,4",Cava,DO Cava,"12,0%",Macabeo,NA,NA,NA
+756,Monte Real Tempranillo Blanco, 2021,"14,90 €","0,0",Vino Blanco,Rioja,"13,0%",Tempranillo blanco,NA,91 PN,92 SK
+757,Carmelo Rodero Valtarreña, 2020,"53,95 €","3,7",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,93 PK,NA,NA
+758,Alma Bohemia de Altanza, 2021,"8,20 €","3,0",Vino rosado,Rioja,"13,5%",Tempranillo,NA,NA,91 SK
+759,Lo Cirerer de Cal Bessó, 2019,"10,85 €","4,7",Vino tinto,Montsant,"14,5%",Garnacha,NA,NA,NA
+760,El Gos, 2022,"7,90 €","4,0",Vino tinto,España,"14,0%",Garnacha,NA,NA,NA
+761,Ramón Bilbao Tempranillo Edición Limitada, 2020,"15,90 €","4,4",Vino tinto,Rioja,"14,0%",Tempranillo,NA,92 PN,NA
+762,Noster, 2016,"17,90 €","4,7",Vino tinto,Priorat,"14,5%",Garnacha,NA,NA,NA
+763,Lan Reserva, 2017,"13,95 €","4,3",Vino tinto,Rioja,"13,5%",Tempranillo,90 PK,91 PN,NA
+764,Cirsion, 2019,"210,00 €","4,0",Vino tinto,Rioja,"14,5%",Tempranillo,95 PK,95 PN,98 SK
+765,Marko Gure Arbasoak, 2022,"22,55 €","0,0",Vino blanco,Bizkaiko Txakolina,"12,5%",Hondarribi zerratia,94 PK,NA,NA
+766,Borsao Bole, 2020,"6,90 €","4,1",Vino tinto,Campo de Borja,"15,0%",Garnacha,90 PK,NA,NA
+767,Torremayor Crianza, 2021,"9,95 €","4,0",Vino tinto,Extremadura,"13,5%",Tempranillo,NA,NA,NA
+768,Marqués de Carrión Reserva, 2017,"11,50 €","4,0",Vino tinto,Rioja,"13,5%",Tempranillo,NA,NA,NA
+769,Pagos de Aráiz Crianza, 2019,"7,45 €","4,5",Vino tinto,Navarra,"14,5%",Tempranillo,NA,NA,NA
+770,Shaya Verdejo, 2022,"10,85 €","4,5",Vino blanco,Rueda,"13,5%",Verdejo,NA,93 PN,NA
+771,Lavia, 2017,"11,50 €","3,5",Vino tinto,Bullas,"14,0%",Monastrell,90 PK,90 PN,91 SK
+772,Augustus Chardonnay, 2022,"21,90 €","4,2",Vino blanco,Penedès,"13,0%",Chardonnay,90 PK,92 PN,NA
+773,Legaris Crianza, 2020,"16,95 €","4,6",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,NA,90 PN,91 SK
+774,Sumarroca Brut Nature Gran Reserva,,"16,30 €","4,0",Cava,DO Cava,"12,0%",Macabeo,NA,NA,NA
+775,Atteca, 2020,"13,25 €","4,4",Vino tinto,Calatayud,"15,0%",Garnacha,90+ PK,93 PN,90 SK
+776,Viña Zorzal Graciano, 2020,"7,80 €","4,2",Vino tinto,Navarra,"13,5%",Graciano,91+ PK,91 PN,NA
+777,Celler Vell Brut Nature Reserva Eco,,"8,95 €","4,2",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+778,Zuazo Gaston Crianza, 2020,"7,85 €","4,6",Vino tinto,Rioja,"14,0%",Tempranillo,90 PK,NA,91 SK
+779,Vallformosa Freyé Xarel·lo Chardonnay, 2023,"9,60 €","0,0",Vino blanco,Penedès,"12,0%",Xarel·lo,NA,90 PN,NA
+780,Bermejo Diego Seco, 2022,"21,90 €","5,0",Vino blanco,Lanzarote,"13,5%",Vijariego blanco,NA,NA,NA
+781,Pinord Chateldon Reserva, 2018,"10,95 €","4,0",Vino tinto,Penedès,"14,0%",Cabernet sauvignon,NA,NA,NA
+782,Valenciso, 2017,"24,50 €","4,3",Vino tinto,Rioja,"14,5%",Tempranillo,94 PK,NA,NA
+783,Castillo de Monte la Reina Cuvée Privée, 2019,"20,80 €","4,3",Vino tinto,Toro,"14,5%",Tempranillo,NA,NA,NA
+784,Frontonio Microcósmico Garnacha, 2021,"13,00 €","3,6",Vino tinto,Valdejalón,"13,5%",Garnacha,93 PK,92 PN,92 SK
+785,El Nómada, 2020,"15,50 €","4,2",Vino tinto,Rioja,"14,0%",Tempranillo,90 PK,NA,93 SK
+786,Lirondo, 2022,"12,50 €","4,8",Vino blanco,España,"13,5%",Verdejo,90 PK,90 PN,NA
+787,Carles Andreu Trepat, 2021,"15,90 €","4,5",Vino tinto,Conca de Barberà,"12,5%",Trepat,90 PK,NA,NA
+788,Campo Viejo Crianza, 2020,"5,75 €","4,5",Vino tinto,Rioja,"13,5%",Tempranillo,NA,NA,NA
+789,Poesia Garnacha Tinta, 2021,"3,90 €","4,1",Vino tinto,Catalunya,"13,5%",Garnacha,NA,NA,NA
+790,Mía Freixenet Tinto, 2021,"4,95 €","4,4",Vino tinto,España,"12,5%",Tempranillo,NA,NA,NA
+791,Casas de Moya Sofia Dulce," 2017 (0,5 L)","22,55 €","5,0",Vino de botrytis,Valencia,"13,5%",Sauvignon blanc,NA,NA,NA
+792,Viña Costeira, 2022,"7,80 €","4,6",Vino blanco,Ribeiro,"12,0%",Treixadura,NA,NA,NA
+793,Manzanilla Fina La Cigarrera,,"11,40 €","4,0",Manzanilla,Jerez-Manzanilla,"15,0%",Palomino fino,NA,NA,NA
+794,Regina Viarum Mencía, 2022,"9,95 €","5,0",Vino tinto,Ribeira Sacra,"13,5%",Mencía,NA,90 PN,NA
+795,Maria Casanovas Rosat,,"22,95 €","0,0",Cava,DO Cava,"11,5%",Pinot noir,NA,NA,NA
+796,Fai un Sol de Carallo, 2021,"83,50 €","0,0",Vino blanco,Ribeiro,"12,5%",Treixadura,94 PK,93 PN,NA
+797,Les Aubaguetes, 2019,"450,00 €","0,0",Vino tinto,Priorat,"14,5%",Garnacha,98 PK,97 PN,99 SK
+798,Finca Montepedroso, 2022,"7,30 €","5,0",Vino blanco,Rueda,"12,5%",Verdejo,NA,NA,NA
+799,Brunus, 2020,"14,90 €","4,5",Vino tinto,Montsant,"14,0%",Cariñena,NA,91 PN,NA
+800,Tierras de Cair, 2018,"37,50 €","5,0",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,NA,NA,NA
+801,Raimat El Silenci del Molí, 2019,"11,95 €","4,8",Vino tinto,Costers del Segre,"14,5%",Cabernet sauvignon,NA,90 PN,NA
+802,Les Crestes, 2022,"19,55 €","4,3",Vino tinto,Priorat,"14,5%",Garnacha,92+ PK,92 PN,NA
+803,Sierra Cantabria Reserva, 2016,"19,55 €","4,7",Vino tinto,Rioja,"14,0%",Tempranillo,91 PK,NA,NA
+804,Glorioso Reserva, 2018,"10,90 €","4,1",Vino tinto,Rioja,"13,5%",Tempranillo,NA,NA,NA
+805,Valdespino Viña Macharnudo Alto, 2022,"11,85 €","0,0",Vino blanco,Jerez-Manzanilla,"11,0%",Palomino fino,NA,NA,NA
+806,Bertha Siglo XXI, 2009,"28,40 €","0,0",Cava,DO Cava,"12,0%",Macabeo,NA,NA,NA
+807,Finca Antigua Moscatel," 2022 (0,37 L)","8,55 €","4,8",Vino dulce,La Mancha,"13,0%",Moscatel de grano menudo,NA,NA,NA
+808,Acediano, 2020,"58,50 €","4,3",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,95 PK,NA,NA
+809,Oliver Conti Gewurztraminer, 2022,"11,50 €","5,0",Vino blanco,Empordà,"13,0%",Gewürztraminer,NA,NA,NA
+810,Santes Negre, 2019,"7,95 €","4,0",Vino tinto,Montsant,"13,5%",Tempranillo,NA,NA,NA
+811,Nadal Salvatge Brut Nature, 2015,"23,20 €","5,0",Cava,Corpinnat,"12,0%",Macabeo,91 PK,NA,NA
+812,Bicicletas y Peces Sauvignon Blanc, 2022,"9,95 €","4,5",Vino blanco,Rueda,"13,0%",Sauvignon blanc,NA,NA,NA
+813,Familia Valdelana Blanco Semidulce, 2022,"6,90 €","4,9",Vino semidulce,Rioja,"12,5%",Malvasía,NA,NA,NA
+814,Baigorri Blanco Fermentado en Barrica, 2018,"15,20 €","3,8",Vino blanco,Rioja,"13,5%",Viura,90 PK,90 PN,90 SK
+815,Botani Moscatel Old Vines, 2022,"14,50 €","4,6",Vino blanco,Sierras de Málaga,"14,0%",Moscatel de Alejandría,91 PK,92 PN,NA
+816,Pasión de Bobal, 2021,"9,10 €","4,3",Vino tinto,Utiel-Requena,"14,0%",Bobal,NA,NA,NA
+817,Termanthia, 2015,"248,95 €","0,0",Vino tinto,Toro,"15,0%",Tinta de Toro,94+ PK,97 PN,97 SK
+818,Prados Fusión Garnacha-Syrah, 2021,"8,55 €","4,7",Vino tinto,Campo de Borja,"14,5%",Garnacha,NA,NA,NA
+819,Manar dos Seixas, 2021,"17,90 €","4,3",Vino blanco,Ribeiro,"12,5%",Treixadura,91 PK,93 PN,NA
+820,J. Antonio Ponce La Xara, 2022,"10,50 €","4,0",Vino tinto,Manchuela,"12,5%",Garnacha,93 PK,NA,93 SK
+821,Legaris Reserva, 2019,"25,95 €","4,0",Vino tinto,Ribera del Duero,"15,0%",Tempranillo,NA,91 PN,92 SK
+822,Emilio Moro Vendimia Seleccionada, 2021,"24,90 €","4,7",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,92+ PK,NA,92 SK
+823,La Sonrisa de Tares, 2022,"11,95 €","4,7",Vino blanco,Bierzo,"13,5%",Godello,NA,NA,NA
+824,Clos Figueres, 2019,"62,50 €","5,0",Vino tinto,Priorat,"14,5%",Cariñena,95 PK,NA,NA
+825,Pinord Reynal Blanc,,"5,55 €","5,0",Vino blanco,Penedès,"10,0%",Macabeo,NA,NA,NA
+826,Viña Paceta Crianza, 2020,"5,75 €","4,2",Vino tinto,Rioja,"13,5%",Tempranillo,NA,NA,NA
+827,Olga Albariño, 2022,"13,50 €","5,0",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,NA,NA
+828,El Tiempo Que Nos Une Monastrell, 2022,"10,30 €","5,0",Vino Tinto,Jumilla,"14,0%",Monastrell,NA,NA,NA
+829,Jean Leon 3055 Chardonnay, 2022,"12,50 €","4,7",Vino blanco,Penedès,"13,0%",Chardonnay,NA,92 PN,NA
+830,Teófilo Reyes Tamiz Roble, 2022,"7,90 €","4,0",Vino tinto,Ribera del Duero,"13,5%",Tempranillo,NA,NA,NA
+831,Arrayán Rosado, 2021,"8,40 €","0,0",Vino rosado,Méntrida,"13,5%",Syrah,NA,NA,NA
+832,Attis, 2022,"16,95 €","4,8",Vino blanco,Rías Baixas,"12,5%",Albariño,NA,92 PN,93 SK
+833,Manzanilla en Rama La Gitana,,"12,80 €","4,4",Manzanilla,Jerez-Manzanilla,"15,0%",Palomino fino,NA,NA,NA
+834,Raventós d'Alella Pansa Blanca, 2022,"9,95 €","4,5",Vino blanco,Alella,"13,0%",Pensal blanca,NA,NA,NA
+835,Mas Alta Els Pics Blanc, 2021,"17,65 €","0,0",Vino blanco,Priorat,"13,5%",Garnacha blanca,NA,NA,NA
+836,Viñas del Vero Crianza, 2019,"7,95 €","4,0",Vino tinto,Somontano,"14,0%",Tempranillo,NA,NA,NA
+837,Cuqueira Blanco, 2022,"6,95 €","4,0",Vino blanco,Ribeiro,"11,5%",Treixadura,NA,NA,NA
+838,Ysios, 2016,"31,50 €","4,3",Vino tinto,Rioja,"15,0%",Tempranillo,NA,92 PN,90 SK
+839,Marqués de Cáceres Reserva, 2018,"12,95 €","4,6",Vino tinto,Rioja,"14,0%",Tempranillo,NA,92 PN,91 SK
+840,Viña Pomal Ecológico, 2020,"9,95 €","4,0",Vino tinto,Rioja,"13,5%",Tempranillo,NA,NA,NA
+841,Soma, 2022,"17,75 €","4,0",Vino blanco,Mallorca,"12,5%",Viognier,NA,NA,NA
+842,El Transistor Verdejo, 2022,"21,90 €","4,0",Vino blanco,Rueda,"13,0%",Verdejo,92 PK,92 PN,NA
+843,Gotim Bru, 2021,"9,90 €","4,1",Vino tinto,Costers del Segre,"14,0%",Tempranillo,90 PK,91 PN,NA
+844,Entresuelos Tempranillo, 2020,"8,95 €","4,0",Vino tinto,Castilla y León,"15,0%",Tempranillo,NA,90 PN,NA
+845,Horizonte de Exopto, 2021,"13,90 €","4,0",Vino tinto,Rioja,"14,5%",Tempranillo,93 PK,NA,93 SK
+846,El Jardín de Lucía, 2022,"18,90 €","4,8",Vino blanco,Rías Baixas,"12,5%",Albariño,91 PK,90 PN,NA
+847,Hermanos Lurton Tempranillo, 2021,"8,95 €","4,0",Vino tinto,Toro,"14,5%",Tempranillo,NA,NA,NA
+848,Pago de Otazu Chardonnay con Crianza, 2021,"29,90 €","0,0",Vino blanco,Pago de Otazu,"14,0%",Chardonnay,91 PK,92 PN,93 SK
+849,Perelada Stars Brut Nature, 2021,"8,80 €","4,5",Cava,DO Cava,"11,5%",Parellada,NA,NA,NA
+850,Cune Blanco Reserva, 2019,"15,20 €","5,0",Vino Blanco,Rioja,"13,0%",Viura,93 PK,NA,NA
+851,Fino Los Amigos,,"5,95 €","4,6",Fino,Montilla-Moriles,"15,0%",Pedro ximénez,NA,NA,NA
+852,Baigorri Reserva, 2018,"21,95 €","4,7",Vino tinto,Rioja,"14,5%",Tempranillo,94 PK,92 PN,91 SK
+853,Finca La Emperatriz Viñedo Singular, 2018,"34,90 €","0,0",Vino Tinto,Rioja,"14,5%",Tempranillo,94 PK,93 PN,93 SK
+854,G22 de Gorka Izagirre, 2021,"15,00 €","4,7",Vino blanco,Bizkaiko Txakolina,"13,0%",Hondarribi zerratia,NA,NA,NA
+855,Ilun de Gorka Izagirre Txacoli Tinto, 2022,"14,75 €","5,0",Vino tinto,España,"12,5%",Hondarribi beltza,NA,NA,NA
+856,Artazuri Rosado, 2022,"8,55 €","4,0",Vino rosado,Navarra,"12,5%",Garnacha,NA,NA,NA
+857,Rebels de Batea Blanc, 2022,"11,40 €","4,5",Vino blanco,Terra Alta,"13,0%",Garnacha blanca,NA,NA,NA
+858,Familia Valdelana Crianza, 2020,"8,95 €","5,0",Vino tinto,Rioja,"14,0%",Tempranillo,NA,91 PN,NA
+859,Anna de Codorníu Blanc de Blancs Reserva,,"10,95 €","4,4",Cava,DO Cava,"11,5%",Chardonnay,NA,NA,NA
+860,Cillar de Silos Crianza, 2020,"21,90 €","3,8",Vino tinto,Ribera del Duero,"14,5%",Tempranillo,92 PK,NA,NA
+861,Viñas del Vero Roble, 2022,"4,80 €","4,1",Vino tinto,Somontano,"13,5%",Cabernet sauvignon,NA,NA,NA
+862,Viñas del Vero Merlot Tempranillo, 2022,"4,50 €","4,4",Vino rosado,Somontano,"13,5%",Merlot,NA,NA,NA
+863,Adhuc Tempus Crianza, 2019,"12,95 €","0,0",Vino tinto,Ribera del Duero,"14,0%",Tempranillo,NA,NA,NA
+864,Tantum Ergo Chardonnay, 2020,"27,95 €","4,5",Cava,DO Cava,"12,0%",Chardonnay,91 PK,92 PN,NA
+865,Còsmic Destí Muscat, 2022,"16,90 €","4,5",Vino naranja,España,"11,5%",Moscatel de Alejandría,NA,NA,NA
+866,Pere Ventura Tresor White on the Rocks,,"18,80 €","0,0",Cava,DO Cava,"11,5%",Xarel·lo,NA,NA,NA
+867,Nora da Neve, 2021,"23,50 €","4,5",Vino blanco,Rías Baixas,"13,0%",Albariño,90 PK,93 PN,NA
+868,Berarte Crianza, 2020,"11,95 €","4,3",Vino tinto,Rioja,"14,0%",Tempranillo,NA,NA,NA
+869,Hisenda Miret, 2020,"27,50 €","5,0",Vino tinto,Penedès,"14,5%",Garnacha,NA,90 PN,NA
+870,Enrique Mendoza Merlot-Monastrell, 2019,"10,90 €","4,3",Vino tinto,Alicante,"14,0%",Merlot,NA,NA,NA
+871,Viatge al Priorat, 2021,"14,10 €","5,0",Vino tinto,Priorat,"15,0%",Garnacha,NA,NA,NA
+872,Perlat Garnatxa, 2020,"10,60 €","5,0",Vino tinto,Montsant,"14,5%",Garnacha,NA,NA,NA
+873,Agustí Torelló Mata Solid Rosat," (0,37 L)","16,00 €","1,0",Cava,DO Cava,"11,5%",Trepat,NA,NA,NA
+874,Vallformosa Blue Fin Brut Reserva, 2020,"14,90 €","0,0",Cava,DO Cava,"11,5%",Macabeo,NA,NA,NA
+875,Faustino I Gran Reserva, 2011,"21,50 €","4,8",Vino tinto,Rioja,"13,5%",Tempranillo,90 PK,93 PN,94 SK
+876,Clunia Malbec, 2019,"26,80 €","3,5",Vino tinto,Castilla y León,"15,0%",Malbec,NA,NA,NA
+877,El Aviador Tempranillo, (Bag in box 5L),"18,50 €","4,1",Vino tinto,Castilla y León,"13,5%",Tempranillo,NA,NA,NA
+878,Cantariña 5 Valdeobispo, 2018,"24,90 €","0,0",Vino Tinto,Bierzo,"14,0%",Mencía,91 PK,NA,NA
+879,Ninín, 2021,"9,95 €","0,0",Vino tinto,Ribera del Duero,"13,5%",Tempranillo,NA,NA,NA
+880,Teixar, 2019,"65,90 €","0,0",Vino tinto,Montsant,"15,0%",Garnacha peluda,93 PK,93 PN,NA
+881,Ariyanas Naturalmente Dulce," 2021 (0,5 L)","19,95 €","5,0",Vino de pasas,Málaga,"13,0%",Moscatel de Alejandría,NA,NA,NA
+882,Viña Vilano Crianza, 2020,"13,50 €","4,3",Vino tinto,Ribera del Duero,"13,5%",Tempranillo,NA,91 PN,NA
+883,Chan de Rosas Clasico, 2022,"12,50 €","4,3",Vino blanco,Rías Baixas,"13,0%",Albariño,NA,NA,NA
+884,Valtravieso Nogara Verdejo, 2022,"8,65 €","5,0",Vino blanco,Rueda,"13,5%",Verdejo,NA,NA,NA
+885,Casa Vella d'Espiells, 2019,"13,50 €","5,0",Vino tinto,Penedès,"15,0%",Cabernet sauvignon,NA,NA,NA
+886,Fontedei Lindaraja, 2021,"10,50 €","4,0",Vino tinto,Granada,"14,0%",Tempranillo,NA,NA,NA
+887,Flor de Vetus Verdejo, 2022,"7,80 €","4,1",Vino blanco,Rueda,"12,5%",Verdejo,NA,91 PN,91 SK
+888,Agustí Torelló Kripta, 2015,"69,90 €","4,9",Cava,DO Cava,"11,5%",Macabeo,92 PK,95 PN,NA
+889,Eduardo Bravo, 2023,"9,95 €","0,0",Vino blanco,Ribeiro,"12,5%",Treixadura,NA,NA,NA
+890,Barbazul Tinto Roble, 2021,"9,90 €","4,4",Vino tinto,Cádiz,"15,0%",Tintilla,NA,NA,NA
+891,Coto de Imaz Gran Reserva, 2017,"18,95 €","4,5",Vino tinto,Rioja,"13,5%",Tempranillo,NA,91 PN,92 SK
+892,Pazo de Rubianes, 2022,"19,95 €","5,0",Vino blanco,Rías Baixas,"13,0%",Albariño,90 PK,92 PN,NA
+893,Terra Remota Camino, 2020,"18,90 €","4,7",Vino tinto,Empordà,"14,0%",Syrah,NA,NA,NA
+894,20 Aldeas, 2019,"14,90 €","4,7",Vino tinto,Castilla y León,"14,5%",Tempranillo,NA,90 PN,95 SK
+895,Menade Nosso, 2022,"12,90 €","4,0",Vino blanco,Rueda,"13,0%",Verdejo,91 PK,NA,NA
+896,René Barbier Rosado, 2022,"4,40 €","4,6",Vino rosado,Catalunya,"12,0%",Tempranillo,NA,NA,NA
+897,El Perro Flaco Verdejo, 2022,"4,80 €","4,4",Vino blanco,Rueda,"12,5%",Verdejo,NA,NA,NA
+898,Marqués de Cáceres Rosado, 2022,"5,70 €","4,6",Vino rosado,Rioja,"13,5%",Tempranillo,NA,NA,NA
