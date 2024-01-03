@@ -1,0 +1,800 @@
+,name_w,year_w,price,user_score,type_w,region,alcohol_content,wine_grape,pk_score,pn_score,sk_score
+0,Ultreia Saint Jacques, 2021,11.5,4.2,Vino tinto,Bierzo,13.5,Mencía,93.0,92.0,
+1,José Pariente Verdejo, 2022,10.5,4.5,Vino blanco,Rueda,13.0,Verdejo,,92.0,
+2,Tinto Pesquera Crianza, 2020,19.3,4.6,Vino tinto,Ribera del Duero,14.5,Tempranillo,,92.0,93.0
+3,La Montesa, 2020,15.35,4.3,Vino tinto,Rioja,14.0,Garnacha,93.0,93.0,94.0
+4,Terras Gauda, 2022,15.75,4.6,Vino blanco,Rías Baixas,12.0,Albariño,,92.0,
+5,Ramón Bilbao Crianza, 2019,9.95,4.4,Vino tinto,Rioja,14.0,Tempranillo,,91.0,
+6,Viña Tondonia Reserva, 2010,38.9,4.5,Vino tinto,Rioja,13.0,Tempranillo,94.0,93.0,95.0
+7,Corimbo, 2019,21.9,4.4,Vino tinto,Ribera del Duero,14.5,Tempranillo,94.0,92.0,93.0
+8,Aalto, 2021,38.7,4.8,Vino tinto,Ribera del Duero,14.5,Tempranillo,94.0,93.0,93.0
+9,Malpaso, 2022,14.5,4.0,Vino tinto,Méntrida,14.0,Syrah,94.0,93.0,91.0
+10,El Castro de Valtuille Mencía Joven, 2022,6.95,4.0,Vino tinto,Bierzo,13.0,Mencía,,90.0,
+11,Pago de Valdoneje Mencía, 2022,7.95,4.1,Vino tinto,Bierzo,14.5,Mencía,92.0,90.0,92.0
+12,PSI, 2021,39.95,4.6,Vino tinto,Ribera del Duero,14.0,Tempranillo,,94.0,94.0
+13,Louro, 2022,18.5,4.4,Vino blanco,Valdeorras,14.0,Godello,,92.0,
+14,Muga Crianza , 2020,18.95,4.5,Vino tinto,Rioja,14.0,Tempranillo,,,
+15,Viña Ardanza Reserva, 2016,28.4,4.6,Vino tinto,Rioja,14.5,Tempranillo,,94.0,95.0
+16,Les Cousins L'Inconscient, 2022,10.95,4.3,Vino tinto,Priorat,14.5,Cariñena,,,
+17,Paixar, 2021,31.9,4.1,Vino tinto,Bierzo,13.5,Mencía,97.0,93.0,
+18,Pétalos del Bierzo, 2021,17.5,4.3,Vino tinto,Bierzo,13.5,Mencía,,92.0,92.0
+19,Pepe Yllera Roble, 2019,9.4,4.4,Vino tinto,Ribera del Duero,14.5,Tempranillo,92.0,,
+20,Parada de Atauta, 2020,20.95,4.6,Vino tinto,Ribera del Duero,14.5,Tempranillo,93.0,93.0,92.0
+21,Recaredo Terrers Brut Nature, 2019,27.5,4.6,Cava,Corpinnat,11.5,Xarel·lo,,94.0,
+22,Les Terrasses, 2021,39.55,4.4,Vino tinto,Priorat,14.5,Cariñena,,93.0,93.0
+23,Ultreia Godello, 2021,15.5,4.3,Vino blanco,Bierzo,13.5,Godello,,93.0,
+24,Victorino, 2020,43.5,4.7,Vino tinto,Toro,14.5,Tinta de Toro,94.0,96.0,93.0
+25,Almirez, 2020,21.5,4.3,Vino tinto,Toro,14.5,Tinta de Toro,93.0,94.0,91.0
+26,Gramona Imperial, 2018,23.2,4.7,Cava,Corpinnat,12.0,Xarel·lo,,,
+27,Juan Gil Etiqueta Plata, 2021,12.25,4.4,Vino tinto,Jumilla,15.0,Monastrell,93.0,93.0,90.0
+28,Lindes de Remelluri Viñedos de Labastida, 2020,17.7,4.4,Vino tinto,Rioja,13.5,Tempranillo,94.0,93.0,93.0
+29,O Luar Do Sil, 2022,12.8,4.3,Vino blanco,Valdeorras,13.0,Godello,,,
+30,Marqués de Murrieta, 2019,26.5,4.5,Vino tinto,Rioja,14.0,Tempranillo,94.0,93.0,96.0
+31,Els Pics, 2020,17.4,4.4,Vino tinto,Priorat,15.0,Garnacha,91.0,91.0,
+32,Cutio Garnacha, 2020,8.95,3.8,Vino tinto,Cariñena,14.5,Garnacha,,,92.0
+33,Carmelo Rodero Crianza, 2021,24.9,4.5,Vino tinto,Ribera del Duero,14.5,Tempranillo,91.0,91.0,
+34,Muga Reserva Selección Especial, 2019,31.9,4.7,Vino tinto,Rioja,14.0,Tempranillo,95.0,94.0,94.0
+35,Rigol Brut Nature,,4.5,4.5,Cava,DO Cava,11.5,Parellada,,,
+36,Pruno, 2021,12.5,4.2,Vino tinto,Ribera del Duero,14.0,Tempranillo,91.0,90.0,90.0
+37,Raventós i Blanc de Nit, 2021,19.15,4.5,Cava,Conca del Riu Anoia,12.0,Macabeo,,90.0,
+38,Valldolina Reserva Brut Nature,,9.95,4.3,Cava,DO Cava,11.5,Macabeo,,,
+39,Mauro, 2021,35.5,4.6,Vino tinto,Castilla y León,14.5,Tempranillo,94.0,92.0,
+40,Emilio Moro Finca Resalso, 2022,9.6,4.3,Vino tinto,Ribera del Duero,14.0,Tempranillo,,90.0,92.0
+41,Camins del Priorat, 2022,25.45,4.5,Vino tinto,Priorat,14.5,Garnacha,91.0,92.0,92.0
+42,Dominio del Águila Reserva, 2019,67.8,4.9,Vino tinto,Ribera del Duero,14.0,Tempranillo,96.0,96.0,
+43,Tomás Postigo 3er Año, 2021,34.65,4.4,Vino tinto,Ribera del Duero,15.0,Tempranillo,,93.0,
+44,Matarromera Crianza, 2019,23.8,4.5,Vino tinto,Ribera del Duero,14.5,Tempranillo,90.0,91.0,
+45,Juvé & Camps Reserva de la Familia, 2018,18.95,4.7,Cava,DO Cava,12.0,Macabeo,,92.0,91.0
+46,Honoro Vera Garnacha, 2022,6.45,4.6,Vino tinto,Calatayud,14.5,Garnacha,,,
+47,K-Naia, 2022,7.2,4.4,Vino blanco,Rueda,13.5,Verdejo,,90.0,
+48,Llopart Reserva Brut Nature, 2019,14.75,4.2,Cava,Corpinnat,11.5,Macabeo,91.0,90.0,
+49,La Nieta, 2021,120.0,4.6,Vino tinto,Rioja,14.5,Tempranillo,97.0,95.0,
+50,La Celestina, 2019,12.9,4.3,Vino tinto,Ribera del Duero,14.5,Tempranillo,91.0,91.0,
+51,Alaya Tierra, 2021,25.95,4.9,Vino tinto,Almansa,16.0,Garnacha tintorera,,92.0,91.0
+52,Gessamí, 2023,12.95,4.6,Vino blanco,Penedès,11.0,Moscatel de grano menudo,,90.0,
+53,Tragolargo, 2022,7.7,3.9,Vino tinto,Alicante,12.5,Monastrell,91.0,,
+54,Abadía Retuerta Selección Especial, 2019,32.5,4.6,Vino tinto,Abadía Retuerta,14.5,Tempranillo,93.0,94.0,94.0
+55,Hacienda Solano Viñas Viejas, 2020,26.9,4.4,Vino tinto,Ribera del Duero,14.0,Tempranillo,94.0,93.0,
+56,Marqués de Riscal Reserva, 2019,16.9,4.4,Vino tinto,Rioja,14.0,Tempranillo,,94.0,93.0
+57,Laya, 2022,6.45,4.2,Vino tinto,Almansa,14.5,Garnacha tintorera,90.0,90.0,92.0
+58,La Celestina Vendimia Seleccionada, 2019,14.5,4.5,Vino tinto,Ribera del Duero,15.0,Tempranillo,,90.0,
+59,José Pariente Sauvignon Blanc, 2022,10.5,4.5,Vino blanco,Rueda,13.0,Sauvignon blanc,,91.0,
+60,Recaredo Brut Nature Serral del Vell, 2017,35.95,4.4,Cava,Corpinnat,12.5,Xarel·lo,95.0,94.0,
+61,Dominio de Atauta, 2020,28.85,4.4,Vino tinto,Ribera del Duero,15.0,Tempranillo,94.0,94.0,94.0
+62,Malleolus, 2021,34.9,4.6,Vino tinto,Ribera del Duero,14.5,Tempranillo,93.0,,
+63,Remelluri Reserva, 2015,26.6,4.5,Vino tinto,Rioja,14.0,Tempranillo,,93.0,93.0
+64,La Atalaya del Camino, 2020,12.9,4.4,Vino tinto,Almansa,15.0,Garnacha tintorera,92.0,,
+65,Alta Alella Mirgin Laietà, 2019,19.95,4.4,Cava,DO Cava,12.0,Pansa blanca,,,
+66,Habla del Silencio, 2021,11.5,4.4,Vino tinto,Extremadura,14.0,Syrah,,90.0,
+67,Borsao Tres Picos, 2020,14.5,4.4,Vino tinto,Campo de Borja,15.5,Garnacha,90.0,93.0,92.0
+68,Martín Códax Albariño, 2022,14.5,4.6,Vino blanco,Rías Baixas,12.5,Albariño,,90.0,
+69,Viña Cubillo, 2016,15.5,4.3,Vino tinto,Rioja,13.5,Tempranillo,93.0,,94.0
+70,Viñas del Vero Gewürztraminer, 2022,11.5,4.4,Vino blanco,Somontano,13.0,Gewürztraminer,,90.0,91.0
+71,Gramona III Lustros, 2015,34.9,4.7,Cava,Corpinnat,12.0,Xarel·lo,94.0,95.0,
+72,Circe Verdejo, 2022,9.95,4.6,Vino blanco,Rueda,12.5,Verdejo,,,
+73,Perelada 5 Fincas Reserva, 2018,12.8,4.6,Vino tinto,Empordà,14.4,Merlot,,90.0,
+74,Juvé & Camps Brut Rosé,,,4.4,Cava,DO Cava,12.0,Pinot noir,,,
+75,Carmelo Rodero 9 Meses, 2022,14.9,4.5,Vino tinto,Ribera del Duero,14.5,Tempranillo,,90.0,91.0
+76,Aalto PS, 2021,87.95,4.8,Vino tinto,Ribera del Duero,15.0,Tempranillo,95.0,94.0,96.0
+77,Condado de Haza Crianza, 2020,11.95,4.3,Vino tinto,Ribera del Duero,14.5,Tempranillo,,,93.0
+78,Basa Blanco, 2022,8.55,4.5,Vino blanco,Rueda,13.5,Verdejo,90.0,,
+79,Finca Villacreces, 2019,27.9,4.0,Vino tinto,Ribera del Duero,14.0,Tempranillo,,,
+80,Casar de Burbia Godello, 2022,12.5,4.4,Vino blanco,Bierzo,13.5,Godello,,,90.0
+81,Cutio Macabeo, 2021,8.95,5.0,Vino blanco,Cariñena,14.0,Macabeo,92.0,,92.0
+82,Cava Rimarts Martinez Brut Nature Rosé,,13.95,4.6,Cava,DO Cava,11.5,Pinot noir,,,
+83,Sierra Cantabria Crianza, 2019,11.95,4.2,Vino tinto,Rioja,14.5,Tempranillo,91.0,92.0,
+84,Familia Oliveda Brut Jove,,6.4,4.6,Cava,DO Cava,11.5,Macabeo,,,
+85,Casal de Armán Blanco, 2022,13.5,4.0,Vino blanco,Ribeiro,13.5,Treixadura,,,
+86,Cune Reserva, 2018,11.25,4.5,Vino tinto,Rioja,14.0,Tempranillo,,,93.0
+87,Prima, 2020,11.95,4.3,Vino tinto,Toro,14.5,Tinta de Toro,,,
+88,El Puntido, 2019,39.95,4.7,Vino tinto,Rioja,14.5,Tempranillo,93.0,94.0,92.0
+89,Domaines Lupier La Dama, 2018,35.95,4.5,Vino tinto,Navarra,14.0,Garnacha,97.0,94.0,
+90,Bardos Viñedos de Altura, 2021,13.5,5.0,Vino Tinto,Ribera del Duero,15.0,Tempranillo,,,
+91,Vizcarra, 2020,16.15,3.8,Vino tinto,Ribera del Duero,14.5,Tempranillo,92.0,91.0,
+92,El Vínculo Crianza, 2019,10.9,4.5,Vino tinto,La Mancha,15.5,Tempranillo,90.0,,90.0
+93,La Planta, 2022,9.3,4.4,Vino tinto,Ribera del Duero,14.0,Tempranillo,90.0,90.0,91.0
+94,Lindes de Remelluri Viñedos de San Vicente, 2020,17.7,4.4,Vino tinto,Rioja,13.5,Tempranillo,,92.0,94.0
+95,Bozeto de Exopto, 2022,8.7,4.1,Vino tinto,Rioja,14.5,Garnacha,92.0,,92.0
+96,Quintaluna, 2020,14.9,4.3,Vino blanco,Rueda,14.0,Verdejo,92.0,90.0,
+97,Dehesa la Granja, 2019,9.5,4.5,Vino tinto,Castilla y León,14.5,Tempranillo,92.0,,93.0
+98,Luis Cañas Reserva, 2016,17.25,4.5,Vino tinto,Rioja,14.5,Tempranillo,90.0,92.0,
+99,El Perro Verde, 2022,11.95,4.4,Vino blanco,Rueda,13.0,Verdejo,,,
+100,Roda I, 2018,51.9,4.9,Vino tinto,Rioja,14.5,Tempranillo,94.0,93.0,94.0
+101,Viña Real Crianza, 2020,8.45,4.1,Vino tinto,Rioja,13.5,Tempranillo,91.0,91.0,93.0
+102,Cims de Porrera Vi de Vila, 2019,16.95,4.3,Vino tinto,Priorat,15.0,Cariñena,90.0,,
+103,Pícaro del Águila Tinto, 2021,29.95,4.4,Vino tinto,Ribera del Duero,14.0,Tempranillo,95.0,,
+104,Hacienda Solano Selección, 2021,13.9,4.2,Vino tinto,Ribera del Duero,14.0,Tempranillo,91.0,91.0,
+105,Adernats Gran Reserva Pur, 2013,18.5,4.9,Cava,DO Cava,12.0,Macabeo,,90.0,
+106,Adernats Reserva Brut Nature,,8.4,4.6,Cava,DO Cava,11.5,Macabeo,,,
+107,Bocchoris Brut Nature,,5.95,4.4,Cava,DO Cava,11.5,Macabeo,,,
+108,Altos de Torona Albariño, 2022,11.5,4.4,Vino blanco,Rías Baixas,13.0,Albariño,,,
+109,Chivite Las Fincas Rosado, 2022,12.85,4.2,Vino rosado,3 Riberas,13.5,Garnacha,,91.0,90.0
+110,Predicador, 2021,24.5,4.0,Vino tinto,Rioja,14.5,Tempranillo,92.0,,92.0
+111,Luna Beberide Godello, 2023,8.95,4.1,Vino blanco,Bierzo,12.8,Godello,91.0,90.0,90.0
+112,Juan Gil Etiqueta Azul, 2021,26.5,4.7,Vino tinto,Jumilla,15.5,Monastrell,,95.0,
+113,Ritme, 2020,14.9,4.6,Vino tinto,Priorat,14.5,Cariñena,91.0,,
+114,Carles Andreu Brut Nature Reserva, 2021,8.95,4.6,Cava,DO Cava,11.5,Parellada,,,
+115,Otazu Chardonnay, 2022,10.95,4.6,Vino blanco,Navarra,13.5,Chardonnay,91.0,90.0,93.0
+116,Marieta, 2022,10.9,4.4,Vino blanco,Rías Baixas,12.0,Albariño,,,
+117,Ausàs Interpretación, 2020,47.9,4.4,Vino tinto,Ribera del Duero,15.0,Tempranillo,95.0,95.0,
+118,La Tarara, 2019,9.5,3.7,Vino tinto,Rioja,14.5,Tempranillo,,90.0,
+119,Lalama, 2020,19.95,4.4,Vino tinto,Ribeira Sacra,13.0,Mencía,,94.0,
+120,Llopart Rosé Brut, 2021,15.95,4.9,Cava,Corpinnat,11.5,Monastrell,91.0,,
+121,Familia Oliveda Brut Nature Reserva,,7.8,4.4,Cava,DO Cava,11.5,Macabeo,,,
+122,Protos Roble, 2022,9.5,4.3,Vino tinto,Ribera del Duero,14.0,Tempranillo,,91.0,91.0
+123,Boada Crianza, 2016,11.7,0.0,Vino tinto,Ribera del Duero,14.5,Tempranillo,92.0,,
+124,Baigorri Crianza, 2019,12.9,4.4,Vino tinto,Rioja,14.5,Tempranillo,,90.0,92.0
+125,Juan Gil Etiqueta Amarilla, 2022,6.95,4.3,Vino tinto,Jumilla,14.5,Monastrell,,90.0,
+126,Brezo Blanco, 2022,9.95,4.2,Vino blanco,Bierzo,12.5,Godello,92.0,,
+127,Alonso del Yerro, 2019,25.95,4.5,Vino tinto,Ribera del Duero,14.5,Tempranillo,93.0,93.0,91.0
+128,Montecastro, 2020,20.5,4.3,Vino tinto,Ribera del Duero,15.0,Tempranillo,92.0,,
+129,LZ, 2022,11.95,4.1,Vino tinto,Rioja,14.0,Tempranillo,92.0,,92.0
+130,Naranjas Azules, 2022,9.5,3.7,Vino rosado,Cebreros,13.0,Garnacha,93.0,92.0,
+131,Mont Marçal Reserva Brut Nature,,7.9,4.7,Cava,DO Cava,12.0,Xarel·lo,,,
+132,Enate Chardonnay - 234, 2023,9.3,4.4,Vino blanco,Somontano,14.0,Chardonnay,,90.0,
+133,Recaredo Intens Rosat Brut Nature, 2020,31.5,4.7,Cava,Corpinnat,12.0,Monastrell,92.0,91.0,
+134,Zárate Albariño, 2022,17.4,4.3,Vino blanco,Rías Baixas,12.5,Albariño,,92.0,
+135,Flor de Vetus, 2019,9.95,4.2,Vino tinto,Toro,14.5,Tinta de Toro,91.0,92.0,93.0
+136,Guitián Godello, 2022,14.9,4.4,Vino blanco,Valdeorras,13.0,Godello,,91.0,
+137,Viñas Elías Mora, 2021,9.8,4.2,Vino tinto,Toro,14.5,Tinta de Toro,90.0,91.0,
+138,Rafael Cambra Soplo, 2021,5.95,4.0,Vino tinto,Valencia,13.0,Garnacha,91.0,,92.0
+139,Albariño Paco & Lola, 2022,13.95,4.4,Vino blanco,Rías Baixas,13.0,Albariño,,90.0,
+140,Adhuc Tempus Roble, 2021,7.95,4.6,Vino tinto,Ribera del Duero,14.0,Tempranillo,,,
+141,Artuke Pies Negros, 2021,13.7,4.4,Vino tinto,Rioja,14.0,Tempranillo,,92.0,
+142,Pasos de San Martín, 2019,18.5,4.1,Vino tinto,Navarra,14.5,Garnacha,93.0,95.0,95.0
+143,Luna Beberide Mencía, 2023,5.95,4.1,Vino tinto,Bierzo,12.9,Mencía,91.0,91.0,
+144,Coto de Hayas Garnacha Centenaria, 2021,11.95,4.5,Vino tinto,Campo de Borja,14.5,Garnacha,90.0,90.0,
+145,San Román, 2020,32.1,4.6,Vino tinto,Toro,14.5,Tinta de Toro,,95.0,92.0
+146,Llopart Imperial Panoràmic Brut Gran Reserva, 2018,19.95,4.5,Cava,Corpinnat,11.5,Xarel·lo,91.0,,
+147,La Niña de Mis Ojos, 2022,6.9,4.3,Vino blanco,Rioja,12.0,Sauvignon blanc,,,
+148,Bruto, 2021,35.95,4.5,Vino tinto,Jumilla,15.5,Monastrell,,,
+149,Marqués de Vargas Reserva, 2018,27.9,4.5,Vino tinto,Rioja,14.0,Tempranillo,92.0,92.0,91.0
+150,Alta Alella Mirgin Rosé Reserva, 2019,12.95,4.4,Cava,DO Cava,12.0,Mataró,,,
+151,Ossian, 2021,32.5,4.8,Vino blanco,Castilla y León,13.5,Verdejo,94.0,93.0,93.0
+152,Acústic, 2020,13.2,4.3,Vino tinto,Montsant,14.0,Samsó,90.0,92.0,
+153,Cava Rimarts Gran Reserva 40, 2018,15.95,4.2,Cava,DO Cava,11.5,Macabeo,,94.0,
+154,Guímaro Finca Meixemán, 2021,26.95,3.7,Vino tinto,Ribeira Sacra,13.0,Mencía,96.0,93.0,
+155,La del Vivo, 2022,21.5,4.6,Vino blanco,Bierzo,13.5,Godello,,91.0,
+156,Alta Alella Mirgin Laietà Rosé, 2019,20.95,4.5,Cava,DO Cava,12.0,Mataró,,,
+157,Sembro, 2022,8.95,4.4,Vino tinto,Ribera del Duero,14.0,Tempranillo,,,
+158,Arzuaga Crianza, 2020,22.95,4.6,Vino tinto,Ribera del Duero,14.5,Tempranillo,90.0,90.0,91.0
+159,Godeval Godello, 2022,15.8,4.5,Vino blanco,Valdeorras,13.5,Godello,90.0,91.0,
+160,Can Descregut Brut Nature Reserva, 2021,10.9,3.4,Cava,Corpinnat,11.5,Xarel·lo,91.0,,
+161,Martinet Bru, 2021,23.95,4.3,Vino tinto,Priorat,14.0,Syrah,94.0,,
+162,Semele, 2020,9.9,4.4,Vino tinto,Ribera del Duero,14.0,Tempranillo,,93.0,
+163,Valduero Una Cepa, 2018,33.5,5.0,Vino tinto,Ribera del Duero,14.0,Tempranillo,92.0,92.0,
+164,Casar de Burbia Mencía, 2019,9.95,4.0,Vino tinto,Bierzo,14.5,Mencía,90.0,90.0,91.0
+165,Pere Ventura Tresor Brut Rosé,,18.0,4.0,Cava,DO Cava,11.5,Trepat,,,
+166,Els Cirerets, 2020,38.6,5.0,Vino tinto,Priorat,15.5,Garnacha,,94.0,
+167,Gago, 2019,19.55,3.9,Vino tinto,Toro,14.0,Tinta de Toro,,92.0,
+168,Viña Zorzal Malayeto, 2021,14.4,3.9,Vino tinto,Navarra,14.0,Garnacha,94.0,94.0,
+169,Hacienda Monasterio, 2021,40.5,4.7,Vino tinto,Ribera del Duero,15.0,Tempranillo,,,
+170,Viña Pomal Crianza, 2020,8.95,3.8,Vino tinto,Rioja,14.5,Tempranillo,90.0,,
+171,Borsao Zarihs, 2019,14.65,4.1,Vino tinto,Campo de Borja,15.0,Syrah,91.0,,
+172,Viña Zorzal Garnacha, 2022,6.75,4.2,Vino tinto,Navarra,13.5,Garnacha,92.0,91.0,
+173,Guímaro, 2022,11.2,3.9,Vino tinto,Ribeira Sacra,13.0,Mencía,92.0,,
+174,Familia Oliveda Brut Rosat,,6.4,4.7,Cava,DO Cava,11.5,Garnacha,,,
+175,Castro Ventosa Valtuille Vino de Villa, 2021,15.9,4.3,Vino tinto,Bierzo,13.5,Mencía,94.0,,
+176,Cunqueiro III Milenium, 2022,12.95,4.3,Vino blanco,Ribeiro,12.5,Treixadura,,,
+177,Pere Ventura Vintage, 2016,34.9,5.0,Cava,DO Cava,12.0,Xarel·lo,,94.0,
+178,Chánselus Castes Brancas, 2021,42.35,4.8,Vino blanco,Ribeiro,13.0,Lado,97.0,,
+179,3404 Tinto Joven, 2022,5.25,4.2,Vino tinto,Somontano,13.5,Cabernet sauvignon,,,90.0
+180,Viña Real Reserva, 2017,14.9,4.2,Vino tinto,Rioja,13.5,Tempranillo,,92.0,94.0
+181,Llopart Integral Brut Nature, 2021,16.25,4.3,Cava,Corpinnat,11.5,Parellada,,,
+182,Protos Verdejo, 2022,7.5,4.4,Vino blanco,Rueda,13.0,Verdejo,,90.0,92.0
+183,Flor de Pingus, 2021,159.5,4.6,Vino tinto,Ribera del Duero,14.5,Tempranillo,,96.0,97.0
+184,La Forcallà de Antonia, 2021,12.9,4.1,Vino tinto,Valencia,14.5,Forcayat del arco,93.0,,
+185,Avan Oak, 2022,6.7,4.6,Vino tinto,Ribera del Duero,14.5,Tempranillo,,,
+186,Huguet Reserva Brut Nature, 2017,14.9,4.3,Cava,Corpinnat,12.0,Parellada,92.0,,
+187,La Petite Agnès, 2021,12.5,4.5,Vino tinto,Priorat,14.5,Garnacha,,,
+188,Grillo, 2014,37.95,4.5,Vino tinto,Somontano,14.5,Syrah,,,
+189,Terrer de la Creu Brut Nature,,8.4,5.0,Cava,DO Cava,12.0,Macabeo,,,
+190,Evodia, 2021,7.9,4.3,Vino tinto,Calatayud,14.5,Garnacha,,,
+191,Románico, 2021,10.6,4.3,Vino tinto,Toro,14.5,Tinta de Toro,92.0,,
+192,Marqués de Cáceres Gaudium, 2019,43.5,4.7,Vino tinto,Rioja,14.0,Tempranillo,,94.0,95.0
+193,Ramón Bilbao Reserva, 2016,14.9,4.6,Vino tinto,Rioja,14.0,Tempranillo,,92.0,
+194,Sela, 2021,17.9,4.5,Vino tinto,Rioja,14.0,Tempranillo,91.0,,92.0
+195,Larchago Reserva, 2016,16.5,0.0,Vino tinto,Rioja,14.0,Tempranillo,,,93.0
+196,Aria Brut Nature,,7.45,4.5,Cava,DO Cava,12.0,Macabeo,,,
+197,Melior de Matarromera Roble, 2022,9.3,4.3,Vino tinto,Ribera del Duero,14.0,Tempranillo,,,
+198,Avancia Godello, 2022,26.95,4.8,Vino blanco,Valdeorras,13.5,Godello,92.0,93.0,
+199,Trus Roble, 2022,9.95,4.8,Vino tinto,Ribera del Duero,14.5,Tempranillo,,90.0,
+200,Casa Castillo Monastrell, 2022,8.95,4.1,Vino tinto,Jumilla,14.5,Monastrell,,92.0,
+201,Garum, 2021,12.75,4.3,Vino tinto,Cádiz,14.5,Merlot,,,
+202,Jesús Yllera, 2016,22.75,4.0,Vino tinto,Ribera del Duero,14.5,Tempranillo,93.0,,
+203,Familia Valdelana Reserva, 2018,11.95,4.3,Vino tinto,Rioja,14.5,Tempranillo,,,
+204,Valparaíso Roble, 2021,7.9,3.0,Vino tinto,Ribera del Duero,14.5,Tempranillo,,,
+205,Fariña Lágrima, 2021,8.4,4.6,Vino tinto,Toro,14.0,Tinta de Toro,,91.0,
+206,Embruix, 2021,21.95,4.6,Vino tinto,Priorat,15.0,Garnacha,91.0,,
+207,Izadi Crianza, 2020,10.95,4.2,Vino tinto,Rioja,14.0,Tempranillo,91.0,93.0,
+208,Viña Pedrosa Crianza, 2020,21.9,3.8,Vino tinto,Ribera del Duero,14.0,Tempranillo,92.0,,
+209,Leopardi Gran Reserva Vintage, 2017,25.6,4.5,Cava,Corpinnat,11.5,Macabeo,92.0,92.0,
+210,Viña Costeira Colección 68, 2022,9.75,4.0,Vino blanco,Ribeiro,12.5,Treixadura,,,
+211,Godelia Godello, 2022,10.95,4.3,Vino blanco,Bierzo,13.5,Godello,,,90.0
+212,Luberri Maceración Carbónica, 2022,7.5,4.5,Vino de maceración carbónica,Rioja,14.0,Tempranillo,,90.0,
+213,Vizcarra Senda del Oro, 2022,10.35,4.2,Vino tinto,Ribera del Duero,14.5,Tempranillo,90.0,90.0,
+214,PradoRey Origen Roble, 2022,7.5,4.1,Vino tinto,Ribera del Duero,14.0,Tempranillo,,90.0,
+215,Blanc Pescador,,4.5,4.3,Vino blanco frizzante,España,11.5,Macabeo,,,
+216,Protos 27, 2020,27.9,4.5,Vino tinto,Ribera del Duero,15.0,Tempranillo,90.0,94.0,93.0
+217,Carmelo Rodero Reserva, 2019,35.9,4.8,Vino tinto,Ribera del Duero,14.5,Tempranillo,92.0,91.0,93.0
+218,Raventós i Blanc Blanc de Blancs, 2021,15.55,4.6,Cava,Conca del Riu Anoia,12.0,Macabeo,92.0,,
+219,Naia, 2022,9.95,4.3,Vino blanco,Rueda,13.5,Verdejo,90.0,91.0,
+220,Sking Or Queen, 2021,11.3,0.0,Vino naranja,Cebreros,13.0,Albillo,91.0,,
+221,Muga Rosado, 2022,9.95,4.6,Vino rosado,Rioja,13.5,Garnacha,90.0,91.0,91.0
+222,Lasurreal, 2022,12.9,5.0,Vino blanco,Empordà,12.0,Chardonnay,,,
+223,Tinto Figuero 4 Meses, 2021,10.95,4.5,Vino tinto,Ribera del Duero,13.5,Tempranillo,,,
+224,Mauro VS, 2020,65.8,4.9,Vino tinto,Castilla y León,14.5,Tempranillo,95.0,94.0,
+225,Coma Vella, 2018,27.9,4.5,Vino tinto,Priorat,15.0,Cabernet sauvignon,94.0,,
+226,Valtravieso Crianza, 2020,16.5,4.5,Vino tinto,Ribera del Duero,14.5,Tempranillo,90.0,90.0,
+227,Dominio de Tares Cepas Viejas, 2018,16.4,4.1,Vino tinto,Bierzo,14.5,Mencía,90.0,91.0,
+228,Beronia Reserva, 2017,14.9,4.4,Vino tinto,Rioja,12.5,Tempranillo,,,
+229,Torre La Moreira, 2022,10.95,4.9,Vino blanco,Rías Baixas,11.5,Albariño,,,
+230,Albariño de Fefiñanes, 2022,19.55,4.4,Vino blanco,Rías Baixas,12.5,Albariño,,92.0,
+231,Vega Sicilia Único, 2013,402.55,4.8,Vino tinto,Ribera del Duero,14.5,Tempranillo,98.0,96.0,98.0
+232,Lanzaga, 2020,26.9,4.2,Vino tinto,Rioja,14.0,Tempranillo,94.0,93.0,95.0
+233,Numanthia, 2018,52.5,4.6,Vino tinto,Toro,15.0,Tinta de Toro,94.0,94.0,97.0
+234,Viña Bosconia Reserva, 2012,24.9,4.4,Vino tinto,Rioja,13.5,Tempranillo,93.0,,95.0
+235,Do Ferreiro, 2022,16.95,4.3,Vino blanco,Rías Baixas,12.5,Albariño,94.0,92.0,
+236,Sericis Bobal, 2019,10.5,4.7,Vino tinto,Utiel-Requena,13.0,Bobal,,,
+237,Casa Castillo La Tendida, 2021,13.9,4.0,Vino tinto,Jumilla,14.5,Monastrell,,93.0,
+238,Perelada Finca Malaveïna, 2021,22.4,4.6,Vino tinto,Empordà,14.5,Merlot,90.0,93.0,
+239,Muriel Fincas de la Villa Crianza, 2020,7.95,4.1,Vino tinto,Rioja,14.0,Tempranillo,,,
+240,Lustau Palo Cortado Península,,18.9,4.8,Palo cortado,Jerez-Manzanilla,19.0,Palomino fino,,,
+241,Bermejo Malvasía Seco, 2022,22.4,4.8,Vino blanco,Lanzarote,13.0,Malvasía,,,
+242,Protocolo Tinto, 2021,4.65,3.9,Vino tinto,Castilla,14.0,Tempranillo,,,
+243,Sexto Elemento, 2021,20.95,4.9,Vino tinto,Valencia,15.5,Bobal,,,
+244,Ilercavònia, 2022,9.95,4.4,Vino blanco,Terra Alta,13.5,Garnacha blanca,,,92.0
+245,Clos Lojen, 2022,7.9,4.2,Vino tinto,Manchuela,13.0,Bobal,93.0,,
+246,Ramón Bilbao Verdejo, 2023,7.5,4.3,Vino blanco,Rueda,13.0,Verdejo,,90.0,
+247,Cygnus Deneb Brut Nature Reserva - sin sulfitos añadidos,,11.95,4.8,Cava,DO Cava,11.5,Xarel·lo,,,
+248,Viña Sastre Crianza, 2020,21.95,4.4,Vino tinto,Ribera del Duero,14.5,Tempranillo,,93.0,
+249,Dominio del Bendito El Primer Paso, 2022,15.4,4.2,Vino tinto,Toro,15.0,Tinta de Toro,92.0,,
+250,Monopole, 2022,5.95,4.3,Vino blanco,Rioja,13.0,Viura,91.0,,92.0
+251,Marmellans Negre,,4.2,4.2,Vino tinto,Catalunya,14.0,Garnacha,,,
+252,Les Brugueres Blanc, 2022,19.55,4.6,Vino blanco,Priorat,13.5,Garnacha blanca,91.0,90.0,93.0
+253,Suertes del Marqués Medianías, 2020,16.9,4.0,Vino tinto,Valle de La Orotava,13.0,Listán negro,93.0,92.0,
+254,Arzuaga Reserva, 2019,41.9,4.8,Vino tinto,Ribera del Duero,14.5,Tempranillo,90.0,,
+255,Jané Ventura Reserva de la Música, 2019,10.9,4.3,Cava,DO Cava,12.0,Xarel·lo,,,
+256,Gorka Izagirre Txacoli Blanco, 2022,9.95,4.5,Vino blanco,Bizkaiko Txakolina,13.0,Hondarribi zuri,,,
+257,Viña Zorzal Chardonnay, 2022,6.5,4.2,Vino blanco,Navarra,13.0,Chardonnay,,,
+258,Contino Reserva, 2019,29.2,4.9,Vino tinto,Rioja,14.0,Tempranillo,93.0,92.0,96.0
+259,Sierra Cantabria Colección Privada, 2021,38.5,4.0,Vino tinto,Rioja,14.5,Tempranillo,93.0,95.0,
+260,La Viña de Ayer Garnacha, 2017,9.5,4.0,Vino tinto,Cebreros,14.0,Garnacha,92.0,,
+261,Terroir Històric Negre, 2021,19.25,4.7,Vino tinto,Priorat,13.5,Garnacha,93.0,,93.0
+262,César Márquez Valtuille Vino de Villa, 2021,19.9,0.0,Vino tinto,Bierzo,13.0,Mencía,,,
+263,El Sequé, 2021,25.95,4.6,Vino tinto,Alicante,14.5,Monastrell,,,93.0
+264,Madremía, 2021,10.95,4.2,Vino tinto,Toro,14.5,Tinta de Toro,92.0,,
+265,Bertha Lounge Rosé, 2022,12.8,5.0,Cava,DO Cava,12.0,Garnacha,,,
+266,Contino Viña del Olivo, 2020,75.3,4.5,Vino tinto,Rioja,14.0,Tempranillo,,94.0,96.0
+267,Com Tu, 2019,36.55,4.1,Vino tinto,Montsant,14.5,Garnacha,94.0,,
+268,Palacio de Bornos Verdejo, 2022,6.4,4.5,Vino blanco,Rueda,13.5,Verdejo,,,
+269,Merum Priorati Inici, 2021,26.9,4.6,Vino tinto,Priorat,15.0,Garnacha,,90.0,
+270,Ferrer Bobet Vinyes Velles, 2019,44.95,4.7,Vino tinto,Priorat,14.5,Cariñena,93.0,95.0,94.0
+271,Alta Alella Mirgin Reserva, 2019,12.95,4.3,Cava,DO Cava,12.0,Xarel·lo,,,
+272,PradoRey Adaro, 2021,20.95,4.5,Vino tinto,Ribera del Duero,14.5,Tempranillo,,,93.0
+273,Parxet Brut,,11.95,4.5,Cava,DO Cava,11.5,Macabeo,,,
+274,Canals & Munné Insuperable Brut Reserva, 2020,9.4,4.5,Cava,DO Cava,12.0,Macabeo,,,
+275,Predicat, 2018,11.95,4.6,Vino tinto,Priorat,14.0,Garnacha,,,92.0
+276,Hacienda López de Haro Crianza, 2020,7.7,4.3,Vino tinto,Rioja,13.5,Tempranillo,91.0,90.0,
+277,Cal Pla Negre, 2021,10.95,4.3,Vino tinto,Priorat,15.0,Garnacha,,,
+278,El Bosque, 2021,102.0,4.3,Vino tinto,Rioja,14.5,Tempranillo,,97.0,95.0
+279,Davide Albariño, 2022,22.8,4.5,Vino blanco,Rías Baixas,13.0,Albariño,,,
+280,Peique Godello sobre Lías, 2022,8.95,4.5,Vino blanco,Bierzo,12.5,Godello,,,
+281,Hacienda López de Haro Reserva, 2017,11.35,4.2,Vino tinto,Rioja,14.0,Tempranillo,92.0,,
+282,Perelada Brut Nature Cuvée Especial, 2021,9.9,4.6,Cava,DO Cava,11.5,Xarel·lo,,,
+283,Can Sumoi Xarel·lo, 2022,13.35,4.6,Vino blanco,Penedès,12.5,Xarel·lo,92.0,,
+284,Enate Crianza, 2019,9.5,4.4,Vino tinto,Somontano,13.5,Tempranillo,,,
+285,Matsu El Recio, 2021,15.95,4.3,Vino tinto,Toro,14.5,Tinta de Toro,90.0,90.0,
+286,Finca Martelo Reserva, 2019,25.8,4.2,Vino tinto,Rioja,14.5,Tempranillo,95.0,94.0,93.0
+287,Leirana Albariño, 2022,15.9,4.4,Vino blanco,Rías Baixas,13.0,Albariño,94.0,93.0,92.0
+288,Habla La Tierra, 2021,7.95,3.9,Vino tinto,Extremadura,13.5,Tempranillo,,,
+289,Samsara Priorat, 2019,16.7,3.3,Vino tinto,Priorat,14.5,Garnacha,,90.0,
+290,Granbazán Etiqueta Verde, 2022,12.9,0.0,Vino blanco,Rías Baixas,13.0,Albariño,,,
+291,Las Moradas de San Martín Senda, 2019,9.75,4.0,Vino tinto,Vinos de Madrid,14.5,Garnacha,90.0,90.0,
+292,Pazo Señorans, 2022,15.5,4.3,Vino blanco,Rías Baixas,12.5,Albariño,92.0,,
+293,Marqués de Riscal Sauvignon, 2022,11.95,4.4,Vino blanco,Rueda,12.5,Sauvignon blanc,,91.0,91.0
+294,Verónica Ortega ROC, 2021,39.85,4.7,Vino tinto,Bierzo,13.5,Mencía,,94.0,
+295,Txomin Etxaniz, 2022,11.5,4.6,Vino blanco,Getariako Txakolina,11.5,Hondarribi zuri,,90.0,
+296,Nita, 2021,13.5,4.6,Vino tinto,Priorat,14.0,Garnacha,90.0,,
+297,Rafael Cambra Uno, 2021,14.65,4.0,Vino tinto,Valencia,14.5,Monastrell,94.0,90.0,94.0
+298,Bertha Lounge,,12.5,4.8,Cava,DO Cava,12.0,Xarel·lo,,,
+299,Coto de Imaz Reserva, 2019,10.9,4.4,Vino tinto,Rioja,13.5,Tempranillo,,90.0,92.0
+300,Finca Valpiedra Reserva, 2015,19.6,5.0,Vino tinto,Rioja,14.0,Tempranillo,92.0,93.0,92.0
+301,Rafael Cambra Dos, 2021,9.95,4.3,Vino tinto,Valencia,14.0,Cabernet franc,,92.0,
+302,Braó, 2020,23.05,4.5,Vino tinto,Montsant,14.0,Garnacha,92.0,94.0,
+303,Vallegarcía Viognier, 2020,24.5,4.3,Vino blanco,Castilla,14.0,Viognier,92.0,92.0,
+304,Villa Conchi Brut Rosé,,9.5,3.6,Cava,DO Cava,11.5,Trepat,,,
+305,Eduardo Peña, 2022,16.5,4.8,Vino blanco,Ribeiro,13.5,Treixadura,,,
+306,12 Lunas, 2020,10.95,4.3,Vino tinto,Somontano,14.0,Tempranillo,,,
+307,Viña Pomal Gran Reserva, 2015,27.95,4.7,Vino tinto,Rioja,16.2,Tempranillo,91.0,92.0,
+308,El Coto Crianza, 2019,6.95,4.6,Vino tinto,Rioja,13.5,Tempranillo,,90.0,90.0
+309,Mas Collet, 2021,9.8,4.3,Vino tinto,Montsant,14.5,Garnacha,,,91.0
+310,PradoRey Finca La Mina Rva, 2018,22.55,4.5,Vino tinto,Ribera del Duero,15.0,Tempranillo,,,
+311,Loess Inspiration, 2021,9.95,5.0,Vino tinto,Ribera del Duero,14.5,Tempranillo,,92.0,
+312,Lafou El Sender, 2020,11.75,4.3,Vino tinto,Terra Alta,14.5,Garnacha,91.0,91.0,
+313,Gramona Vi de Glass Gewürztraminer, 2022 ,18.5,4.6,Vino de hielo,Penedès,9.5,Gewürztraminer,,93.0,
+314,Blau, 2021,8.95,4.5,Vino tinto,Montsant,13.0,Cariñena,,90.0,
+315,Mas Fontallada Brut Nature,,5.8,4.6,Cava,DO Cava,11.5,Macabeo,,,
+316,Finca Cucó Negre, 2022,7.5,4.8,Vino tinto,Montsant,13.5,Garnacha,,,
+317,Finca San Martín, 2019,9.6,4.1,Vino tinto,Rioja,14.5,Tempranillo,,91.0,
+318,Santa Rosa, 2021,22.55,4.6,Vino tinto,Alicante,14.5,Cabernet sauvignon,92.0,93.0,
+319,Enrique Mendoza Finca Xaconero, 2021,11.75,3.0,Vino tinto,Alicante,14.0,Monastrell,92.0,,
+320,Naiades, 2019,22.55,4.6,Vino blanco,Rueda,13.0,Verdejo,,93.0,92.0
+321,Pazo Cilleiro, 2022,9.5,4.8,Vino blanco,Rías Baixas,13.0,Albariño,,,
+322,Luzón Sin Sulfitos, 2022,5.95,5.0,Vino tinto,Jumilla,14.5,Monastrell,,,
+323,Petit Almodí Negre, 2022,5.7,4.6,Vino tinto,Terra Alta,14.0,Garnacha,,,91.0
+324,Tajinaste Blanco Afrutado, 2022,14.5,4.6,Vino blanco,Islas Canarias,11.0,Listán blanco,,,
+325,Ferrer Bobet, 2020,39.95,4.6,Vino tinto,Priorat,14.0,Cariñena,94.0,93.0,
+326,Marqués de Burgos Crianza, 2020,13.75,5.0,Vino tinto,Ribera del Duero,14.5,Tempranillo,,,
+327,Abracadabra Toro, 2021,12.5,4.7,Vino tinto,Toro,15.0,Tinta de Toro,,,
+328,Cava Rimarts Brut Reserva 18, 2022,10.95,4.2,Cava,DO Cava,11.5,Macabeo,,,
+329,Furvus, 2021,19.9,4.7,Vino tinto,Montsant,15.0,Garnacha peluda,90.0,92.0,
+330,Cerro Añón Reserva, 2018,13.5,4.3,Vino tinto,Rioja,14.0,Tempranillo,92.0,92.0,
+331,El Paraguas Atlántico, 2022,21.9,4.5,Vino blanco,Ribeiro,13.0,Treixadura,,,
+332,Losada, 2020,12.5,4.1,Vino tinto,Bierzo,14.0,Mencía,91.0,91.0,93.0
+333,Le Naturel, 2022,8.95,4.5,Vino tinto,Navarra,14.0,Garnacha,,,92.0
+334,Pago de Carraovejas Cuesta de las Liebres, 2019,164.95,5.0,Vino tinto,Ribera del Duero,15.0,Tempranillo,94.0,96.0,
+335,Matarromera Reserva, 2018,39.95,4.5,Vino tinto,Ribera del Duero,14.5,Tempranillo,90.0,,
+336,Unculín, 2021,11.5,3.8,Vino tinto,Bierzo,13.5,Mencía,92.0,,
+337,Alvear Pedro Ximénez 1927,,13.95,4.5,Vino dulce natural,Montilla-Moriles,16.0,Pedro ximénez,,,
+338,Celeste Roble, 2022,9.95,4.3,Vino tinto,Ribera del Duero,14.0,Tempranillo,,,
+339,Peique Ramón Valle, 2021,8.45,4.0,Vino tinto,Bierzo,14.5,Mencía,90.0,90.0,
+340,Dehesa del Carrizal Syrah, 2019,18.5,4.5,Vino tinto,Pago Dehesa del Carrizal,15.0,Syrah,90.0,,
+341,El Pedal, 2021,8.4,3.7,Vino tinto,Rioja,13.0,Tempranillo,90.0,91.0,
+342,Luis Cañas Tinto Joven, 2022,7.25,4.3,Vino tinto,Rioja,14.0,Tempranillo,,,
+343,Corimbo I, 2016,45.9,4.6,Vino tinto,Ribera del Duero,14.5,Tempranillo,95.0,94.0,94.0
+344,Pago de los Capellanes El Nogal, 2019,59.4,4.6,Vino tinto,Ribera del Duero,14.0,Tempranillo,90.0,93.0,
+345,Rebeldes, 2022,10.5,4.0,Vino tinto,Montsant,14.5,Garnacha,,,
+346,Baltasar Gracián Viñas Viejas El Héroe, 2021,9.75,4.4,Vino tinto,Calatayud,15.0,Garnacha,92.0,92.0,
+347,Marqués de Cáceres Verdejo, 2022,6.5,4.3,Vino blanco,Rueda,13.5,Verdejo,,,90.0
+348,Nadal Brut Nature Reserva, 2016,15.9,4.8,Cava,Corpinnat,12.0,Parellada,,,
+349,Ultreia La Claudina, 2022,48.4,5.0,Vino blanco,Bierzo,13.5,Godello,95.0,,
+350,Tesalia Arx, 2021,19.95,4.9,Vino tinto,Cádiz,14.0,Syrah,90.0,,
+351,Allende, 2014,21.9,4.9,Vino tinto,Rioja,13.5,Tempranillo,92.0,,
+352,Enate Gewürztraminer, 2022,11.75,4.7,Vino blanco,Somontano,13.5,Gewürztraminer,,90.0,
+353,Algueira Mencía, 2022,11.95,3.9,Vino tinto,Ribeira Sacra,13.0,Mencía,,,
+354,Canals & Munné Lola Rosé Brut,,14.5,5.0,Cava,DO Cava,12.0,Pinot noir,,,
+355,Bardos Verdejo, 2022,7.3,4.3,Vino blanco,Rueda,13.0,Verdejo,,,
+356,Altos de Luzón, 2020,13.75,4.9,Vino tinto,Jumilla,14.5,Monastrell,,91.0,90.0
+357,Canals & Munné Dionysus Brut Nature Eco, 2021,9.95,4.8,Cava,DO Cava,12.0,Xarel·lo,,,
+358,Pago Florentino, 2020,12.9,4.5,Vino tinto,Pago Florentino,14.0,Cencibel,90.0,,91.0
+359,Descomunal Verdejo, 2022,4.2,4.1,Vino blanco,Rueda,13.0,Verdejo,,,
+360,Enate Chardonnay Fermentado en Barrica, 2022,18.25,4.8,Vino blanco,Somontano,14.5,Chardonnay,,92.0,
+361,Ultreia Mencía, 2020,15.95,4.1,Vino tinto,Bierzo,13.5,Mencía,93.0,,91.0
+362,Finca La Colina Sauvignon Blanc, 2022,15.5,4.7,Vino blanco,Rueda,13.0,Sauvignon blanc,,91.0,
+363,Acústic Blanc, 2021,13.2,4.2,Vino blanco,Montsant,14.0,Garnacha blanca,91.0,90.0,
+364,Artigas, 2020,22.95,4.4,Vino tinto,Priorat,14.5,Garnacha,,,
+365,Enate Rosado, 2022,8.65,4.4,Vino rosado,Somontano,14.0,Cabernet sauvignon,,,
+366,Viña Alberdi, 2019,16.7,4.3,Vino tinto,Rioja,14.5,Tempranillo,92.0,92.0,
+367,Alma de Luzón, 2020,37.95,4.0,Vino tinto,Jumilla,15.5,Monastrell,,93.0,
+368,Mas Candí Brut Nature, 2021,12.0,3.8,Cava,Corpinnat,12.0,Xarel·lo,91.0,,
+369,Agustí Torelló Mata Rosat Trepat, 2021,13.5,4.5,Cava,DO Cava,11.5,Trepat,,,
+370,Tarima Hill, 2021,11.4,4.3,Vino tinto,Alicante,15.0,Monastrell,92.0,93.0,
+371,La Viña de Ayer Albillo Real, 2019,10.9,3.7,Vino naranja,Cebreros,13.5,Albillo,92.0,,
+372,Borsao Cabriola, 2018,10.9,4.5,Vino tinto,Campo de Borja,15.5,Garnacha,91.0,,92.0
+373,Bohórquez, 2016,23.5,4.6,Vino tinto,Ribera del Duero,14.0,Tempranillo,,91.0,
+374,Viña Salceda Crianza, 2019,8.55,3.8,Vino tinto,Rioja,13.5,Tempranillo,,92.0,
+375,Maria Casanovas Glaç Brut Nature,,14.9,4.8,Cava,DO Cava,11.5,Pinot noir,,,
+376,Las Moradas de San Martín Albillo Real, 2021,13.25,4.6,Vino blanco,Vinos de Madrid,13.0,Albillo,90.0,,
+377,Abadía Retuerta Le Domaine, 2022,38.8,4.4,Vino blanco,Abadía Retuerta,13.5,Sauvignon blanc,93.0,93.0,93.0
+378,Cair Selección La Aguilera, 2019,17.9,5.0,Vino tinto,Ribera del Duero,14.5,Tempranillo,,91.0,
+379,San Vicente, 2020,43.9,4.7,Vino tinto,Rioja,14.5,Tempranillo peludo,94.0,95.0,93.0
+380,Pazo Barrantes, 2020,40.9,3.9,Vino blanco,Rías Baixas,13.5,Albariño,94.0,93.0,95.0
+381,Santiago Ruiz, 2022,14.9,4.4,Vino blanco,Rías Baixas,12.5,Albariño,,,
+382,Vallegarcía Syrah, 2021,24.5,4.6,Vino tinto,Vallegarcía,15.5,Syrah,91.0,,
+383,Osborne Pedro Ximenez 1827,,11.4,4.4,Vino dulce,Jerez-Manzanilla,17.0,Palomino fino,,,
+384,Serras del Priorat, 2022,23.6,4.6,Vino tinto,Priorat,15.0,Garnacha,91.0,,93.0
+385,Protos Reserva, 2017,29.9,4.7,Vino tinto,Ribera del Duero,14.5,Tempranillo,90.0,93.0,91.0
+386,López Cristóbal Finca La Colorada Crianza, 2020,18.5,4.4,Vino tinto,Ribera del Duero,14.5,Tempranillo,,92.0,
+387,Por tí, 2020,25.6,5.0,Vino tinto,Jumilla,15.0,Monastrell,,93.0,91.0
+388,Glárima Gewürztraminer Chardonnay, 2023,4.5,3.8,Vino blanco,Somontano,13.0,Gewürztraminer,,,
+389,Jaros Tinto, 2020,17.75,4.3,Vino tinto,Ribera del Duero,14.0,Tempranillo,,,
+390,Lustau Moscatel Emilín,,20.9,4.3,Vino dulce natural,Jerez-Manzanilla,17.0,Moscatel de Alejandría,,,
+391,Matsu El Pícaro, 2022,8.8,4.3,Vino tinto,Toro,14.5,Tinta de Toro,,,
+392,Mont Marçal Rosado Brut,,7.9,4.5,Cava,DO Cava,11.5,Trepat,,,
+393,Finca l'Argatà, 2019,35.05,4.0,Vino tinto,Montsant,14.5,Garnacha,94.0,91.0,
+394,Campillo Crianza, 2020,12.95,4.3,Vino tinto,Rioja,13.5,Tempranillo,,90.0,92.0
+395,Borsao Tinto Selección, 2022,4.95,4.1,Vino tinto,Campo de Borja,14.5,Garnacha,,,
+396,Mastinell Brut Real Gran Reserva, 2011,15.9,4.8,Cava,DO Cava,12.5,Macabeo,,90.0,
+397,Michelini i Mufatto En el Camino, 2021,15.0,4.0,Vino tinto,Bierzo,12.5,Mencía,,,
+398,Vernatxa Blanc, 2022,17.5,4.4,Vino blanco,Terra Alta,13.0,Garnacha blanca,,,
+399,200 Monges Reserva, 2013,45.25,4.2,Vino tinto,Rioja,13.5,Tempranillo,,,
+400,Erial, 2021,14.9,4.5,Vino tinto,Ribera del Queiles,14.5,Tempranillo,,,
+401,Botani Sparkling Muscat, 2022,16.9,4.5,Vino espumoso,Sierras de Málaga,9.5,Moscatel de Alejandría,92.0,,
+402,Cora de Loxarel, 2022,8.8,4.8,Vino blanco,Penedès,12.5,Moscatel de Alejandría,,,
+403,Albariño Mar de Frades, 2022,18.5,4.6,Vino blanco,Rías Baixas,12.5,Albariño,,,
+404,El Jardín de la Emperatriz Tinto, 2019,11.95,4.5,Vino tinto,Rioja,14.0,Tempranillo,91.0,92.0,92.0
+405,Garmón, 2020,39.95,4.7,Vino tinto,Ribera del Duero,14.5,Tempranillo,,93.0,
+406,Menade Verdejo, 2022,9.5,4.2,Vino blanco,Rueda,13.0,Verdejo,,90.0,
+407,Azpilicueta Crianza, 2020,8.95,4.3,Vino tinto,Rioja,13.5,Tempranillo,,91.0,
+408,Anna de Codorníu Brut Nature,,9.35,4.2,Cava,DO Cava,11.5,Chardonnay,,,
+409,Laus Reserva, 2018,8.7,5.0,Vino tinto,Somontano,13.5,Cabernet sauvignon,,,
+410,Vermell, 2022,9.2,4.2,Vino tinto,Valencia,13.0,Monastrell,92.0,,
+411,Agnvs Crianza, 2019,13.9,5.0,Vino tinto,Rioja,14.0,Tempranillo,,,
+412,Càtar, 2022,7.9,4.5,Vino tinto,Montsant,14.0,Garnacha,,,
+413,Godeval Cepas Vellas, 2022,24.5,0.0,Vino blanco,Valdeorras,13.0,Godello,90.0,92.0,
+414,Tolo do Xisto, 2019,17.0,3.0,Vino tinto,Ribeira Sacra,13.0,Mencía,90.0,,
+415,Termes, 2020,24.5,4.5,Vino tinto,Toro,15.0,Tinta de Toro,90.0,93.0,94.0
+416,San Cobate, 2020,17.3,4.0,Vino tinto,Ribera del Duero,14.0,Tempranillo,91.0,91.0,
+417,Pinord Mireia, 2022,12.5,4.5,Vino blanco,Penedès,12.0,Gewürztraminer,,,
+418,Emilio Moro La Revelía, 2021,24.9,4.0,Vino blanco,Bierzo,14.0,Godello,92.0,,93.0
+419,Arrayán Syrah, 2020,13.95,5.0,Vino tinto,Méntrida,14.0,Syrah,92.0,,
+420,Envidia Cochina, 2021,24.95,5.0,Vino blanco,Rías Baixas,13.0,Albariño,,,
+421,Can Sumoi Ancestral Montonega, 2022,14.24,4.5,Ancestral,España,11.0,Parellada,91.0,,
+422,U Mes U Ardea Rosé Brut Reserva,,16.9,0.0,Cava,DO Cava,11.5,Pinot noir,,,
+423,Palomo Cojo, 2022,8.95,4.4,Vino blanco,Rueda,13.0,Verdejo,,,
+424,Cims de Porrera Clàssic, 2015,46.95,4.8,Vino tinto,Priorat,14.5,Cariñena,93.0,,
+425,Privat Rosé Brut  Nature, 2021,12.1,0.0,Cava,DO Cava,12.0,Chardonnay,,91.0,
+426,Monte Toro 3 Añada Selección, 2022,4.95,4.3,Vino tinto,Toro,14.5,Tinta de Toro,,,
+427,Dido Blanc, 2021,20.45,4.3,Vino blanco,Montsant,14.0,Macabeo,93.0,,
+428,Troupe, 2022,9.95,4.8,Vino blanco,Rías Baixas,13.0,Albariño,,90.0,
+429,Cune Imperial Reserva, 2018,29.2,4.1,Vino tinto,Rioja,14.0,Tempranillo,94.0,,
+430,Gramona Argent, 2019,35.7,5.0,Cava,Corpinnat,12.0,Chardonnay,92.0,93.0,
+431,Losada Godello, 2022,15.2,4.5,Vino blanco,Bierzo,14.0,Godello,90.0,,93.0
+432,La Orquesta, 2019,14.9,4.3,Vino blanco,Castilla y León,13.0,Garnacha blanca,93.0,,
+433,Quinta Quietud, 2017,19.8,4.3,Vino tinto,Toro,14.5,Tinta de Toro,,92.0,
+434,Par - Vino naranja, ,14.5,4.6,Vino Naranja del Condado de Huelva,Condado de Huelva,15.0,Zalema,,,
+435,Meraldis Verdejo, 2020,21.5,0.0,Vino blanco,Rueda,14.0,Verdejo,92.0,,
+436,Viña Salceda Reserva, 2018,13.9,4.2,Vino tinto,Rioja,13.5,Tempranillo,91.0,92.0,
+437,Llopart Microcosmos Rosé Brut Nature, 2020,21.5,3.4,Cava,Corpinnat,11.5,Pinot noir,91.0,,
+438,Reyes de Aragón Reserva Brut Nature,,17.9,5.0,Cava,DO Cava,11.5,Chardonnay,,,
+439,Barco del Corneta Cucú, 2022,10.15,4.5,Vino blanco,Castilla y León,13.0,Verdejo,91.0,,
+440,Viña Tondonia Gran Reserva Histórico, 1981,223.5,5.0,Vino Tinto,Rioja,12.5,Tempranillo,,,
+441,Tocat de l'Ala, 2019,12.1,4.7,Vino tinto,Empordà,14.5,Garnacha,,91.0,
+442,Agnvs Tempranillo, 2021,8.95,4.5,Vino tinto,Rioja,14.0,Tempranillo,,,
+443,Gómez Cruzado Crianza, 2020,10.5,3.5,Vino tinto,Rioja,14.5,Tempranillo,92.0,91.0,
+444,Izadi Larrosa Negra, 2021,8.95,4.6,Vino tinto,Rioja,14.5,Garnacha,91.0,90.0,93.0
+445,Belondrade y Lurton, 2022,45.9,4.9,Vino blanco,Rueda,14.0,Verdejo,95.0,97.0,
+446,La Fuente de Nekeas Crianza, 2020,7.15,4.4,Vino tinto,Navarra,13.5,Cabernet sauvignon,,,
+447,Nekeas Chardonnay Cuvée Allier, 2022,10.95,4.5,Vino blanco,Navarra,13.5,Chardonnay,,,
+448,Ses Nines Negre, 2022,11.5,4.4,Vino tinto,Mallorca,13.5,Mantonegro,,,
+449,Roda, 2020,30.9,4.6,Vino tinto,Rioja,14.5,Tempranillo,92.0,93.0,93.0
+450,Guímaro Godello, 2022,12.9,4.0,Vino blanco,Ribeira Sacra,12.0,Godello,93.0,,
+451,Bertha Cardús Brut Nature Gran Reserva, 2019,19.8,4.8,Cava,DO Cava,11.5,Macabeo,,,
+452,Coca i Fitó Negre, 2013,31.5,5.0,Vino tinto,Montsant,14.5,Syrah,,93.0,
+453,Pagos de Anguix Costalara, 2020,22.95,4.0,Vino Tinto,Ribera del Duero,14.5,Tempranillo,,,
+454,Txakoli Aialle, 2022,11.95,4.8,Vino blanco,Getariako Txakolina,11.0,Hondarribi zuri,,,
+455,Azpilicueta Colección Privada Blanco, 2021,20.95,5.0,Vino blanco,Rioja,13.0,Viura,,,
+456,Diaz Bayo 8 Meses Roble, 2022,8.95,4.3,Vino tinto,Ribera del Duero,14.0,Tempranillo,90.0,94.0,
+457,Fuentespina 3 Meses Roble, 2022,6.8,4.0,Vino tinto,Ribera del Duero,13.5,Tempranillo,,,
+458,Marqués de Cáceres Crianza, 2019,8.95,4.4,Vino tinto,Rioja,13.5,Tempranillo,,,
+459,Luzón Colección Roble, 2022,7.8,4.0,Vino tinto,Jumilla,14.5,Monastrell,,,
+460,Vivanco Reserva, 2017,13.95,4.4,Vino tinto,Rioja,14.0,Tempranillo,92.0,90.0,
+461,Sabaté i Coca Mosset Brut Nature, 2019,16.2,0.0,Cava,Corpinnat,12.5,Xarel·lo,92.0,,
+462,Baluarte Roble Ribera, 2022,8.3,4.5,Vino tinto,Ribera del Duero,14.0,Tempranillo,,,
+463,Mart, 2022,12.95,4.5,Vino rosado criado en barrica,Penedès,11.5,Xarel·lo vermell,,,
+464,Costers del Gravet, 2021,13.25,4.3,Vino tinto,Montsant,14.5,Cabernet sauvignon,90.0,,
+465,Barahonda Organic Barrica, 2020,9.2,4.5,Vino tinto,Yecla,14.5,Monastrell,,,
+466,Familia Pacheco Organic, 2022,5.6,4.0,Vino tinto,Jumilla,14.0,Monastrell,,,
+467,Pata Negra Roble, 2022,5.95,4.8,Vino tinto,Toro,14.5,Tinta de Toro,,,
+471,Coca i Fitó Maragda, 2017,17.9,3.8,Vino tinto,Montsant,14.5,Garnacha,,,
+472,Agustí Torelló Mata Gran Reserva Barrica, 2018,24.5,4.6,Cava,DO Cava,12.0,Macabeo,90.0,90.0,
+473,Carmelo Rodero TSM, 2021,64.55,5.0,Vino tinto,Ribera del Duero,14.0,Tempranillo,92.0,94.0,
+474,Afortunado, 2022,7.5,4.6,Vino blanco,Rueda,13.0,Verdejo,,,
+475,Pulpo Albariño, 2022,12.5,3.8,Vino blanco,Rías Baixas,13.0,Albariño,,,
+476,La Maldita Revolution, 2020,11.85,3.7,Vino tinto,Rioja,14.5,Garnacha,91.0,90.0,
+477,Gran Feudo Casilla Del Guapo, 2021,7.2,5.0,Vino tinto,Navarra,14.0,Tempranillo,,,
+478,Palacio de Bornos Frizzante Rosado,,6.5,5.0,Vino dulce frizzante,Rueda,5.5,Tempranillo,,,
+479,Altos de Losada, 2021,19.95,3.8,Vino tinto,Bierzo,14.0,Mencía,92.0,,93.0
+480,A Coroa, 2022,13.5,4.0,Vino blanco,Valdeorras,13.5,Godello,91.0,,
+481,Agustí Torelló Mata Gran Reserva Brut Nature, 2017,16.9,4.2,Cava,DO Cava,11.5,Macabeo,91.0,,
+482,Ekam, 2022,26.5,4.1,Vino blanco,Costers del Segre,12.5,Riesling,93.0,91.0,
+483,El Reventón La Reina, 2022,33.95,0.0,Vino tinto,Cebreros,13.0,Garnacha,,,
+484,Corambres, 2022,9.95,5.0,Vino tinto,Castilla,14.0,Tempranillo,,,
+485,Camino de los Arrieros, 2021,14.9,4.0,Vino tinto,Arribes,11.5,Trincadeira,93.0,,92.0
+486,David & Goliath, 2021,19.55,4.8,Vino tinto,España,14.5,Bobal,,,
+487,Añares Terranova Rueda Verdejo, 2022,6.5,4.8,Vino blanco,Rueda,13.0,Verdejo,,,
+488,Bassus Pinot Noir, 2021,26.95,4.3,Vino tinto,Utiel-Requena,13.5,Pinot noir,,91.0,
+489,Barón de Ley Reserva, 2018,10.5,4.5,Vino tinto,Rioja,14.5,Tempranillo,,91.0,
+490,Cuatro Rayas Cuarenta Vendimias Ribera Duero, 2020,8.95,5.0,Vino tinto,Ribera del Duero,14.5,Tempranillo,,,
+491,Suertes del Marqués El Trenzado, 2022,21.25,4.8,Vino blanco,Valle de La Orotava,12.0,Listán blanco,94.0,,
+492,Mas d'en Gil Vi de Vila Bellmunt del Priorat, 2020,17.9,3.9,Vino tinto,Priorat,14.5,Garnacha,92.0,,
+493,AA Parvus Chardonnay, 2023,10.85,4.0,Vino blanco,Alella,13.0,Chardonnay,,,
+494,Missenyora, 2021,13.85,5.0,Vino blanco,Costers del Segre,14.5,Macabeo,90.0,,
+495,Fábregas Puro Syrah, 2020,12.0,5.0,Vino tinto,Somontano,14.0,Syrah,,,
+496,Lolo, 2022,10.2,4.1,Vino blanco,Rías Baixas,12.0,Albariño,,,
+497,Perelada Blue Festival Brut Reserva,,6.95,4.3,Cava,DO Cava,11.5,Macabeo,,,
+498,Enate Syrah-Shiraz, 2019,23.5,4.7,Vino tinto,Somontano,14.0,Syrah,,90.0,
+499,Viña Pomal Reserva, 2017,14.9,4.2,Vino tinto,Rioja,14.5,Tempranillo,91.0,,
+500,Montsant Artesà Brut Nature,,7.7,4.3,Cava,DO Cava,11.5,Xarel·lo,,,
+501,S' Naranja, ,13.95,4.8,Vino Naranja del Condado de Huelva,Condado de Huelva,15.0,Pedro ximénez,,,
+502,D'Iatra Gratallops Vi de Vila, 2017,18.4,4.6,Vino tinto,Priorat,15.5,Cariñena,,,
+503,Finca Antigua Moscatel, 2022 ,8.55,4.8,Vino dulce,La Mancha,13.0,Moscatel de grano menudo,,,
+504,Akutain Crianza, 2018,14.9,0.0,Vino Tinto,Rioja,13.0,Tempranillo,,,
+505,Manzanilla Pasada Pastrana,,16.6,4.3,Manzanilla,Jerez-Manzanilla,15.0,Palomino fino,,,
+506,La Pantera Rosa, 2021,8.2,0.0,Vino rosado,Cebreros,13.0,Garnacha,92.0,,
+507,L'Antana, 2013,14.9,5.0,Vino tinto,Penedès,14.5,Merlot,,,
+508,Marqués de Cáceres Gran Reserva, 2016,19.9,4.4,Vino tinto,Rioja,14.5,Tempranillo,,92.0,94.0
+509,Torremilanos Montecastrillo, 2022,9.15,5.0,Vino tinto,Ribera del Duero,13.5,Tempranillo,90.0,,
+510,Martín Códax Lías, 2021,21.5,4.3,Vino blanco,Rías Baixas,13.0,Albariño,,93.0,
+511,Altos de Torona Godello, 2022,11.5,3.9,Vino blanco,Rías Baixas,12.5,Godello,,,
+512,Mauro Estévez, 2022,16.9,0.0,Vino blanco,Ribeiro,13.0,Treixadura,,91.0,
+513,Lan Gran Reserva, 2016,19.95,4.5,Vino tinto,Rioja,14.0,Tempranillo,,92.0,93.0
+514,Perplejo, 2022,9.5,4.7,Vino blanco,Rueda,12.5,Verdejo,,,
+515,Anna de Codorniu Ice Edition,,9.95,4.2,Cava,DO Cava,11.5,Chardonnay,,,
+516,Huguet Reserva Brut Clàssic, 2016,14.9,5.0,Cava,Corpinnat,12.5,Parellada,,,
+517,Lustau Manzanilla Papirusa,,11.95,4.5,Manzanilla,Jerez-Manzanilla,15.0,Palomino fino,,,
+518,Anais Xarel·lo, 2022,7.6,5.0,Vino blanco,Penedès,12.0,Xarel·lo,,,
+519,Club Altanza Reserva, 2015,21.9,4.7,Vino tinto,Rioja,14.0,Tempranillo,91.0,93.0,93.0
+520,Artadi El Carretil, 2014,185.0,4.8,Vino tinto,España,14.5,Tempranillo,,97.0,99.0
+521,Clarete de Luna Rosado, 2022,6.2,4.1,Vino clarete,Cigales,13.0,Tempranillo,,,
+522,Maruxa Godello, 2023,9.9,3.3,Vino blanco,Valdeorras,13.5,Godello,90.0,,
+523,Herència Altés Garnatxa Blanca, 2022,8.95,4.5,Vino blanco,Terra Alta,13.0,Garnacha blanca,,,91.0
+524,El Molar, 2021,18.45,4.1,Vino tinto,Jumilla,15.0,Garnacha,95.0,94.0,
+525,Castro Candaz Finca El Curvado, 2019,17.5,4.3,Vino tinto,Ribeira Sacra,13.0,Mencía,92.0,,
+526,Villa de Corullón, 2021,53.75,4.5,Vino tinto,Bierzo,14.0,Mencía,,94.0,95.0
+527,Emilio Moro La Felisa, 2022,26.9,4.0,Vino tinto,Ribera del Duero,13.5,Tempranillo,,,
+528,Ximénez-Spínola Exceptional Harvest, 2022,19.7,4.7,Vino blanco,Jerez-Manzanilla,12.5,Pedro ximénez,,,
+529,Atalier Albariño, 2022,15.9,4.0,Vino blanco,Rías Baixas,13.0,Albariño,94.0,,
+530,Valdespino Manzanilla Deliciosa en Rama - Saca de Primavera, ,9.95,4.9,Manzanilla,Jerez-Manzanilla,15.0,Palomino fino,,,
+531,El Grifo Lías, 2021,22.0,5.0,Vino blanco,Lanzarote,13.0,Malvasía,,,
+532,Enrique Mendoza Pinot Noir, 2022,9.95,4.1,Vino tinto,Alicante,14.0,Pinot noir,,,
+533,Fillaboa, 2022,16.5,4.3,Vino blanco,Rías Baixas,12.5,Albariño,,90.0,
+534,Celeste Crianza, 2020,21.95,4.7,Vino tinto,Ribera del Duero,14.0,Tempranillo,,90.0,92.0
+535,Casa Agrícola Tinto, 2021,11.8,4.2,Vino tinto,Alicante,14.0,Monastrell,92.0,92.0,
+536,Altanza Reserva, 2017,13.5,3.5,Vino tinto,Rioja,14.0,Tempranillo,,91.0,92.0
+537,Acusp, 2019,39.0,4.8,Vino tinto,Costers del Segre,12.5,Pinot noir,93.0,93.0,
+538,Clunia Malbec, 2019,26.8,3.5,Vino tinto,Castilla y León,15.0,Malbec,,,
+539,Artadi Tradición, 2022,14.75,3.8,Vino de maceración carbónica,España,14.0,Tempranillo,90.0,,
+540,Mont-Ferrant Brut Reserva Ecològic,,10.95,0.0,Cava,DO Cava,11.0,Xarel·lo,,,
+541,Azabache Crianza Vendimia Seleccionada, 2019,5.9,4.4,Vino tinto,Rioja,14.0,Tempranillo,,,
+542,Carpetano, 2019,15.25,5.0,Vino Tinto,España,14.5,Garnacha,,,
+543,Baigorri Reserva, 2018,21.95,4.7,Vino tinto,Rioja,14.5,Tempranillo,94.0,92.0,91.0
+544,Raimat Castell Chardonnay, 2022,7.45,4.4,Vino blanco,Costers del Segre,13.0,Chardonnay,,90.0,
+545,Milsetentayseis, 2020,53.95,0.0,Vino Tinto,Ribera del Duero,14.5,Tempranillo,93.0,,94.0
+546,Cantocuerdas Albillo, 2020,17.9,4.5,Vino blanco,Vinos de Madrid,14.0,Albillo,,,
+547,Muriel Fincas De La Villa Reserva, 2018,12.5,4.3,Vino tinto,Rioja,13.5,Tempranillo,,,92.0
+548,Finca Dofí, 2021,95.9,4.7,Vino tinto,Priorat,14.5,Garnacha,,96.0,95.0
+549,Cresta Rosa,,4.25,4.1,Vino rosado frizzante,España,12.5,Tempranillo,,,
+550,Taberner, 2017,23.95,4.5,Vino tinto,Cádiz,15.0,Syrah,92.0,,
+551,Museum Reserva, 2019,13.5,4.6,Vino tinto,Cigales,14.5,Tempranillo,90.0,92.0,91.0
+552,Damana 5, 2021,9.5,4.5,Vino tinto,Ribera del Duero,14.0,Tempranillo,,,92.0
+553,Tajinaste Blanco Seco, 2022,13.95,4.0,Vino blanco,Ycoden-Daute-Isora,12.5,Listán blanco,,,
+554,Viña Esmeralda, 2022,9.95,4.7,Vino blanco,Penedès,11.5,Moscatel de Alejandría,,,
+555,Crater, 2018,28.7,0.0,Vino tinto,Tacoronte - Acentejo,13.5,Listán negro,,91.0,
+556,Vulcano Malvasia Seco, 2022,27.95,4.6,Vino blanco,Lanzarote,13.0,Malvasía,,,
+557,La Creu Alta, 2018,95.55,5.0,Vino tinto,Priorat,14.5,Cariñena,94.0,96.0,
+558,Pazo de Villarei, 2022,9.95,5.0,Vino blanco,Rías Baixas,13.0,Albariño,,,
+559,Boada Reserva, 2013,15.95,5.0,Vino tinto,Ribera del Duero,14.0,Tempranillo,,,
+560,AA Dolç Mataró, 2020 ,18.9,5.0,Cosecha tardía,Alella,15.0,Mataró,,91.0,
+561,Diaz Bayo 15 Meses Crianza, 2021,12.75,4.4,Vino tinto,Ribera del Duero,14.0,Tempranillo,,90.0,
+562,Maior De Mendoza Sobre Lías, 2023,14.5,5.0,Vino blanco,Rías Baixas,13.0,Albariño,,90.0,91.0
+563,Can Axartell Rosado, 2022,15.5,4.5,Vino rosado,Mallorca,12.0,Pinot noir,,,
+564,Viuda Negra Crianza, 2021,9.7,4.3,Vino tinto,Rioja,15.0,Tempranillo,91.0,,
+565,Lafou Els Amelers, 2022,15.5,4.6,Vino blanco,Terra Alta,13.0,Garnacha blanca,91.0,,
+566,Pingus, 2021,1750.0,5.0,Vino tinto,Ribera del Duero,14.0,Tempranillo,,99.0,99.0
+567,Planetes de Nin Clàssic, 2021,40.9,3.8,Vino tinto,Priorat,14.5,Garnacha,96.0,,
+568,Táganan Tinto, 2022,34.5,4.7,Vino tinto,España,12.0,Listán negro,95.0,92.0,95.0
+569,La Mateo Tempranillo Blanco FB, 2020,24.95,0.0,Vino blanco,Rioja,13.0,Tempranillo blanco,,90.0,
+570,Pita Verderrubí Verdejo Ecológico, 2022,8.4,4.5,Vino blanco,Rueda,13.0,Verdejo,,,
+571,Beronia Crianza, 2020,7.9,4.3,Vino tinto,Rioja,13.5,Tempranillo,,,92.0
+572,Bicicletas y Peces Verdejo, 2022,9.8,4.3,Vino blanco,Rueda,13.0,Verdejo,,,
+573,Viña Pomal Blanco, 2022,7.5,4.3,Vino blanco,Rioja,12.5,Viura,,90.0,
+574,XIII Lunas, 2018,7.8,4.6,Vino tinto,Rioja,13.5,Garnacha,,,
+575,AC La Rodetta, 2022,6.8,4.6,Vino blanco,España,10.5,Viura,,,
+576,Frisach L'Abrunet Blanc, 2022,9.3,4.2,Vino blanco,Terra Alta,13.0,Garnacha blanca,,,
+577,Amfitrió de l'Empordà, 2020,14.9,5.0,Vino Tinto,Empordà,15.0,Garnacha,,,
+578,Abadal Picapoll, 2022,13.95,4.6,Vino blanco,Pla de Bages,12.5,Picapoll,,90.0,92.0
+579,Gran Barquero Amontillado,,26.9,4.7,Amontillado,Montilla-Moriles,19.0,Pedro ximénez,,,
+580,Honoro Vera Monastrell Organic, 2022,6.45,4.4,Vino tinto,Jumilla,14.5,Monastrell,90.0,91.0,
+581,Ama de Gorka Izagirre, 2019,34.5,0.0,Vino blanco,Bizkaiko Txakolina,13.5,Hondarribi zerratia,,,
+582,Laus Crianza, 2019,6.5,3.8,Vino tinto,Somontano,14.0,Merlot,,,
+583,Mas de Mancuso Garnacha, 2018,29.95,4.5,Vino tinto,Cariñena,14.5,Garnacha,94.0,93.0,91.0
+584,Familia Valdelana Crianza, 2020,8.95,5.0,Vino tinto,Rioja,14.0,Tempranillo,,91.0,
+585,Marqués de Riscal Limousin, 2022,19.2,4.5,Vino blanco,Rueda,13.0,Verdejo,,93.0,92.0
+586,Valdesil Godello sobre lías, 2022,16.9,3.3,Vino blanco,Valdeorras,13.5,Godello,90.0,93.0,
+587,Pissarres, 2021,16.95,4.3,Vino tinto,Priorat,14.5,Garnacha,91.0,92.0,
+588,Azpilicueta Reserva, 2018,13.6,4.0,Vino tinto,Rioja,14.0,Tempranillo,,91.0,
+589,Torre Barreda Tempranillo, 2022,7.95,4.0,Vino tinto,Castilla,14.5,Tempranillo,,,
+590,Portia Roble, 2022,8.4,4.0,Vino tinto,Ribera del Duero,14.5,Tempranillo,,,92.0
+591,Las Iruelas, 2021,153.5,0.0,Vino tinto,Castilla y León,14.0,Garnacha,98.0,,95.0
+592,La Garnatxa Fosca del Priorat, 2021,14.25,3.9,Vino tinto,Priorat,15.0,Garnacha,,,
+593,Marge, 2019,18.95,4.2,Vino tinto,Priorat,15.0,Garnacha,90.0,,
+594,Conde Valdemar Reserva, 2015,13.5,4.4,Vino tinto,Rioja,13.5,Tempranillo,90.0,,
+595,Condes de Albarei, 2022,10.5,4.0,Vino blanco,Rías Baixas,12.5,Albariño,,,
+596,Pazo Baión, 2022,18.5,4.4,Vino blanco,Rías Baixas,12.5,Albariño,91.0,,
+597,Fedellos do Couto Lomba dos Ares, 2021,19.9,3.4,Vino tinto,Ribeira Sacra,12.5,Mencía,94.0,,
+598,Pirineos Gewürztraminer, 2023,8.95,4.0,Vino blanco,Somontano,13.0,Gewürztraminer,,90.0,90.0
+599,Cirsion, 2019,210.0,4.0,Vino tinto,Rioja,14.5,Tempranillo,95.0,95.0,98.0
+600,Pago de Santa Cruz, 2021,52.9,4.7,Vino tinto,Ribera del Duero,14.5,Tempranillo,92.0,95.0,
+601,Ximénez-Spínola Pedro Ximenez Muy Viejo,,59.89,0.0,Vino dulce natural,Jerez-Manzanilla,15.0,Pedro ximénez,,,
+602,Dehesa del Carrizal Cabernet Sauvignon, 2020,18.8,4.4,Vino tinto,Pago Dehesa del Carrizal,15.0,Cabernet sauvignon,91.0,,93.0
+603,Mas d'en Compte Negre, 2016,19.95,4.4,Vino tinto,Priorat,14.5,Cariñena,91.0,,
+604,Vi-Ve Maceración Carbónica, 2022,6.95,4.0,Vino de maceración carbónica,Rioja,14.5,Tempranillo,,,
+605,Artuke Tinto, 2022,7.6,3.9,Vino tinto,Rioja,13.5,Tempranillo,,90.0,
+606,César Príncipe, 2020,22.4,4.4,Vino tinto,Cigales,13.5,Tempranillo,92.0,93.0,
+607,Ullones, 2023,8.75,4.5,Vino rosado,Empordà,13.0,Garnacha,,,
+608,Gran Juvé & Camps, 2017,34.9,0.0,Cava,DO Cava,12.0,Parellada,91.0,95.0,
+609,Parxet Brut Reserva, 2019,12.95,4.0,Cava,DO Cava,11.5,Pansa blanca,,,
+610,Tinto Figuero 12 Meses, 2020,19.25,4.8,Vino tinto,Ribera del Duero,14.0,Tempranillo,90.0,,
+611,Poesia Crianza, 2019,3.9,4.3,Vino tinto,Catalunya,13.0,Tempranillo,,,
+612,Rebisaca, 2021,12.9,5.0,Vino blanco,Rías Baixas,13.5,Albariño,93.0,,
+613,Familia Valdelana Blanco Semidulce, 2022,6.9,4.9,Vino semidulce,Rioja,12.5,Malvasía,,,
+614,Maior De Mendoza Fulget, 2023,9.6,4.0,Vino blanco,Rías Baixas,13.0,Albariño,,,90.0
+615,Mastinell Eliane, 2022,13.9,0.0,Vino blanco,Penedès,13.0,Chardonnay,,,
+616,Tal Com Raja Negre, 2022,6.2,5.0,Vino tinto,Terra Alta,14.0,Garnacha,,,
+617,Torre de Golbán Crianza, 2019,12.95,4.2,Vino tinto,Ribera del Duero,14.5,Tempranillo,90.0,,
+618,Reina de los Deseos, 2021,86.1,0.0,Vino tinto,Vinos de Madrid,14.5,Garnacha,,,
+619,Mía Freixenet Blanco, 2022,4.95,4.6,Vino blanco,Penedès,11.0,Macabeo,,,
+620,Poesia Garnacha Blanca, 2022,3.9,3.8,Vino blanco,Catalunya,12.5,Garnacha blanca,,,
+621,Cava Bach Brut Nature,,4.8,4.5,Cava,DO Cava,11.5,Xarel·lo,,,
+622,Finca Terrerazo, 2021,27.85,4.6,Vino tinto,El Terrerazo,14.5,Bobal,,94.0,
+623,Honoro Vera Monastrell, 2022,6.45,4.8,Vino tinto,Jumilla,14.5,Monastrell,,,
+624,Hombros, 2020,18.95,4.5,Vino tinto,Bierzo,13.5,Mencía,91.0,92.0,92.0
+625,Gotim Bru, 2021,9.9,4.1,Vino tinto,Costers del Segre,14.0,Tempranillo,90.0,91.0,
+626,Lan Reserva, 2017,13.95,4.3,Vino tinto,Rioja,13.5,Tempranillo,90.0,91.0,
+627,Codorníu Zero,,7.95,5.0,Cava,España,,Airén,,,
+628,Casas de Moya Maria, 2020,11.95,4.1,Vino tinto,Utiel-Requena,14.5,Bobal,,,
+629,Altanza Sauvignon Blanc, 2022,7.5,5.0,Vino blanco,Rioja,13.0,Sauvignon blanc,,,90.0
+630,Venta La Ossa Syrah, 2019,13.5,4.2,Vino tinto,Castilla,15.0,Syrah,,93.0,
+631,Pago Mota, 2021,7.25,4.0,Vino blanco,Castilla,12.5,Chardonnay,,,
+632,Nadal Salvatge Brut, 2016,19.4,4.0,Cava,Corpinnat,12.0,Macabeo,,,
+633,Boig Per Tu, 2020,15.95,4.0,Vino tinto,Montsant,14.5,Garnacha,,,
+634,Mestizaje, 2021,10.9,4.2,Vino tinto,El Terrerazo,13.5,Bobal,91.0,91.0,
+635,Do Ferreiro Adina, 2022,30.5,4.0,Vino blanco,Rías Baixas,12.5,Albariño,,,
+636,Tarima Mediterráneo, 2022,6.5,4.4,Vino blanco,Alicante,12.0,Merseguera,,,
+637,Condado de Oriza Reserva, 2017,18.9,4.4,Vino tinto,Ribera del Duero,14.0,Tempranillo,,,93.0
+638,Atteca, 2020,13.25,4.4,Vino tinto,Calatayud,15.0,Garnacha,,93.0,90.0
+639,Castillo de Monjardín Chardonnay Barrica Sel., 2021,11.5,4.0,Vino blanco,Navarra,13.5,Chardonnay,,,
+640,Baynos, 2021,65.0,5.0,Vino Tinto,Rioja,14.0,Tempranillo,,,
+641,Gotas de Mar, 2022,12.8,4.5,Vino blanco,Rías Baixas,12.5,Albariño,,,
+642,Ninín, 2021,9.95,0.0,Vino tinto,Ribera del Duero,13.5,Tempranillo,,,
+643,Cava Faustino Semi Seco,,7.45,4.8,Cava,DO Cava,11.5,Macabeo,,,
+644,Tobelos Crianza, 2019,11.3,4.0,Vino tinto,Rioja,13.5,Tempranillo,90.0,90.0,
+645,Valenciso, 2017,24.5,4.3,Vino tinto,Rioja,14.5,Tempranillo,94.0,,
+646,Les Tosses, 2019,210.0,5.0,Vino tinto,Priorat,13.5,Cariñena,,97.0,97.0
+647,Rodrigo Méndez Muti, 2021,25.95,4.3,Vino blanco,Rías Baixas,13.0,Albariño,93.0,,
+648,Parotet, 2017,19.35,4.0,Vino tinto,Valencia,14.5,Mandó,95.0,,
+649,El Nen de Can Maset, 2021,7.5,5.0,Vino tinto,Empordà,14.5,Syrah,,,
+650,Vilarnau Brut Nature Reserva,,12.4,4.0,Cava,DO Cava,11.5,Macabeo,,,
+651,13 Cántaros Nicolás, 2021,8.45,3.9,Vino tinto,Cigales,14.0,Tempranillo,,,
+652,Emina Verdejo, 2022,5.95,4.3,Vino blanco,Rueda,13.5,Verdejo,,,
+653,Obsequi de l'Empordà, 2022,13.9,5.0,Vino blanco,Empordà,13.5,Garnacha blanca,,,
+654,Ramón Bilbao Gran Reserva, 2014,29.5,4.8,Vino tinto,Rioja,14.0,Tempranillo,,93.0,
+655,Lagunilla Viura, 2021,4.8,4.5,Vino blanco,Rioja,12.5,Viura,,,
+656,Tarima Monastrell, 2022,5.9,4.2,Vino tinto,Alicante,14.5,Monastrell,91.0,91.0,
+657,Rigol Brut,,4.8,4.3,Cava,DO Cava,11.5,Parellada,,,
+658,A Dos Manos, 2020,12.5,4.0,Vino Tinto,Méntrida,14.0,Garnacha,93.0,92.0,
+659,Perelada 3 Fincas Crianza, 2020,7.2,4.6,Vino tinto,Empordà,14.0,Garnacha,,,
+660,Valduero 6 Años Reserva Premium, 2015,67.95,4.0,Vino tinto,Ribera del Duero,14.0,Tempranillo,94.0,,
+661,Dehesa de los Canónigos Quinta Generación, 2022,11.95,3.3,Vino tinto,Ribera del Duero,14.0,Tempranillo,91.0,,
+662,Bracamonte Crianza, 2016,12.5,4.5,Vino tinto,Ribera del Duero,14.5,Tempranillo,,92.0,
+663,Montecillo Gran Reserva, 2015,18.5,0.0,Vino tinto,Rioja,13.5,Tempranillo,,,
+664,El Telar, 2019,18.5,5.0,Vino tinto,Alicante,15.5,Monastrell,91.0,,
+665,Pazo das Bruxas, 2022,14.9,5.0,Vino blanco,Rías Baixas,12.5,Albariño,,90.0,
+666,Coca i Fitó Blanc, 2021,12.95,0.0,Vino blanco,Montsant,13.5,Garnacha blanca,,,
+667,César Florido Moscatel Especial,,11.5,4.0,Vino dulce natural,Jerez-Manzanilla,18.0,Moscatel de Alejandría,,,
+668,Mas Alta Els Pics Blanc, 2021,17.65,0.0,Vino blanco,Priorat,13.5,Garnacha blanca,,,
+669,Nona, 2021,14.5,4.0,Vino tinto,Priorat,14.5,Garnacha,,,
+670,Edulis Crianza, 2019,7.6,4.4,Vino tinto,Rioja,13.5,Tempranillo,,90.0,90.0
+671,Viña Sastre Roble, 2021,10.9,4.1,Vino tinto,Ribera del Duero,14.0,Tempranillo,90.0,92.0,
+672,Torelló Brut Nature Tradicional, 2017,16.95,4.1,Cava,Corpinnat,12.0,Macabeo,92.0,,
+673,Mestres Imperial Gran Reserva, 2013,18.95,0.0,Cava,DO Cava,12.0,Macabeo,90.0,,
+674,Summa Varietalis, 2020,19.9,4.0,Vino tinto,Dominio de Valdepusa,15.0,Cabernet sauvignon,91.0,91.0,
+675,Luna Beberide Art, 2021,21.3,5.0,Vino tinto,Bierzo,13.5,Mencía,94.0,90.0,93.0
+676,Dahlia Gris, 2022,10.7,5.0,Vino rosado,Penedès,12.5,Garnacha gris,,,
+677,Marqués de Carrión Reserva, 2017,11.5,4.0,Vino tinto,Rioja,13.5,Tempranillo,,,
+678,Manzanilla en Rama La Gitana,,12.8,4.4,Manzanilla,Jerez-Manzanilla,15.0,Palomino fino,,,
+679,Luzón Colección Blanco, 2022,6.8,4.0,Vino blanco,Jumilla,12.0,Sauvignon blanc,,,
+680,Iturria, 2019,13.9,4.2,Vino tinto,Toro,14.5,Tinta de Toro,91.0,,
+681,Borsao Crianza, 2019,8.95,4.4,Vino tinto,Campo de Borja,15.0,Garnacha,,,
+682,Señorío de Cuzcurrita, 2019,24.9,4.7,Vino tinto,Rioja,14.0,Tempranillo,,92.0,
+683,Marqués de Cáceres Reserva, 2018,12.95,4.6,Vino tinto,Rioja,14.0,Tempranillo,,92.0,91.0
+684,Enate Merlot-Merlot, 2019,23.5,4.8,Vino tinto,Somontano,15.0,Merlot,,91.0,
+685,Codorniu Ars Collecta Blanc de Blancs, 2021,19.95,4.7,Cava,DO Cava,11.5,Chardonnay,,93.0,
+686,Freixenet Reserva Brut Nature,,8.85,4.4,Cava,DO Cava,12.0,Macabeo,,,
+687,El Veïnat Garnacha, 2022,8.95,4.3,Vino tinto,Montsant,14.5,Garnacha,,,
+688,Extremarium Reserva Brut Nature,,12.2,4.4,Cava,DO Cava,12.0,Xarel·lo,,,
+689,Brunus, 2020,14.9,4.5,Vino tinto,Montsant,14.0,Cariñena,,91.0,
+690,Baigorri B70, 2019,114.5,4.0,Vino tinto,Rioja,14.5,Tempranillo,,,93.0
+691,Palacio Quemado Crianza, 2021,8.7,4.6,Vino tinto,Ribera del Guadiana,13.5,Tempranillo,,,91.0
+692,Coto de Imaz Gran Reserva, 2017,18.95,4.5,Vino tinto,Rioja,13.5,Tempranillo,,91.0,92.0
+693,Marqués de Cáceres Rosado, 2022,5.7,4.6,Vino rosado,Rioja,13.5,Tempranillo,,,
+694,Yllera Verdejo Vendimia Nocturna, 2022,6.3,4.4,Vino blanco,Rueda,13.0,Verdejo,,90.0,
+695,Nekeas Cepa por Cepa Garnacha, 2022,6.1,4.6,Vino tinto,Navarra,14.5,Garnacha,,,91.0
+696,Augustus Chardonnay, 2022,21.9,4.2,Vino blanco,Penedès,13.0,Chardonnay,90.0,92.0,
+697,Gémina Finca El Volcán, 2017,30.0,0.0,Vino tinto,Jumilla,14.5,Monastrell,,,
+698,Valdespino Fino Ynocente,,13.9,4.5,Fino,Jerez-Manzanilla,15.0,Palomino fino,,,
+699,Itsasmendi, 2022,11.4,4.3,Vino blanco,Bizkaiko Txakolina,13.0,Hondarribi zuri,,,
+700,Raimat El Cim del Turó Brut Nature,,13.95,5.0,Cava,DO Cava,11.5,Chardonnay,,,
+701,Casa Castillo Pie Franco, 2021,149.0,4.5,Vino tinto,Jumilla,14.5,Monastrell,100.0,95.0,
+702,Heras Cordón Vendimia Seleccionada, 2019,11.95,5.0,Vino tinto,Rioja,14.0,Tempranillo,,,
+703,Adernats Reserva Brut,,7.85,4.0,Cava,DO Cava,11.5,Macabeo,,,
+704,Shaya Verdejo, 2022,10.85,4.5,Vino blanco,Rueda,13.5,Verdejo,,93.0,
+705,Viña Costeira, 2022,7.8,4.6,Vino blanco,Ribeiro,12.0,Treixadura,,,
+706,Terra de Godos, 2022,11.35,4.0,Vino blanco,Rías Baixas,13.0,Albariño,,,
+707,Les Sorts Vinyes Velles, 2019,17.8,4.6,Vino tinto,Montsant,14.5,Garnacha,,,
+708,Txomin Etxaniz Rosé, 2022,11.95,4.0,Vino rosado,Getariako Txakolina,10.5,Hondarribi zuri,,,
+709,Clos Montblanc Chardonnay Únic, 2022,13.6,4.1,Vino blanco,Catalunya,14.0,Chardonnay,,,
+710,Gargalo Godello, 2022,12.95,4.0,Vino blanco,Monterrei,14.0,Godello,,90.0,92.0
+711,Ses Nines Negre Selecció 07/9, 2021,15.9,5.0,Vino tinto,Mallorca,14.0,Mantonegro,,,
+712,20 Aldeas, 2018,14.9,4.7,Vino tinto,Castilla y León,14.5,Tempranillo,,90.0,95.0
+713,Corazón Loco Blanco, 2022,6.5,3.0,Vino blanco,Manchuela,12.5,Verdejo,,,
+714,Principia Mathematica, 2022,19.9,3.9,Vino blanco,Penedès,12.5,Xarel·lo,94.0,91.0,
+715,Can Axartell Blanco, 2022,14.75,3.0,Vino blanco,Mallorca,13.0,Malvasía,,,
+716,Oriol Rossell Mític 1908 BN Gran Reserva, 2018,16.7,4.0,Cava,DO Cava,12.0,Xarel·lo,,,
+717,Abadal 3.9, 2019,27.5,5.0,Vino tinto,Pla de Bages,14.5,Cabernet sauvignon,,91.0,
+718,Biga Crianza, 2020,8.95,4.3,Vino tinto,Rioja,13.5,Tempranillo,,91.0,
+719,Llopart Néctar Terrenal,,13.5,5.0,Cava,Corpinnat,11.5,Xarel·lo,,,
+720,Compta Gotes, 2021,11.95,5.0,Vino tinto,Priorat,14.5,Garnacha,,,
+721,Colegiata Blanco, 2022,5.95,4.1,Vino blanco,Toro,12.5,Malvasía,,,
+722,Arenisca Paraje Los Pilones, 2021,14.9,4.4,Vino tinto,España,14.5,Tinta de Toro,,92.0,
+723,Ariyanas David Tinto Dulce, 2022 ,18.9,0.0,Vino dulce,Sierras de Málaga,12.5,Merlot,,,
+724,Finca Olivardots Groc d'Àmfora, 2022,11.95,4.4,Vino blanco,Empordà,13.0,Garnacha blanca,91.0,,91.0
+725,Familia Valdelana Rosado, 2022,6.0,5.0,Vino rosado,Rioja,12.5,Garnacha,,,
+726,Savina, 2022,24.5,4.7,Vino blanco,Formentera,14.0,Viognier,,,
+727,Martínez Lacuesta Crianza, 2019,10.85,0.0,Vino tinto,Rioja,13.5,Tempranillo,,90.0,
+728,Viña Zorzal Graciano, 2020,7.8,4.2,Vino tinto,Navarra,13.5,Graciano,,91.0,
+729,3404 Blanco, 2022,5.25,4.0,Vino blanco,Somontano,13.5,Chardonnay,,,
+730,Pasión de Bobal, 2021,9.1,4.3,Vino tinto,Utiel-Requena,14.0,Bobal,,,
+731,AA Bruant Natural, 2021,17.5,4.0,Cava,DO Cava,12.0,Xarel·lo,90.0,,
+732,Terrible Roble, 2021,9.8,3.8,Vino tinto,Ribera del Duero,14.0,Tempranillo,,,
+733,Torremayor Crianza, 2021,9.95,4.0,Vino tinto,Extremadura,13.5,Tempranillo,,,
+734,Les Brugueres Negre, 2021,20.8,4.8,Vino tinto,Priorat,14.0,Garnacha,90.0,,94.0
+735,Gran Colegiata Crianza, 2016,11.75,4.3,Vino tinto,Toro,14.0,Tinta de Toro,,,
+736,Naluar, 2020,21.5,5.0,Vino tinto,Ribera del Duero,14.0,Tempranillo,,91.0,
+737,Payoya Negra, 2020,19.9,5.0,Vino tinto,Sierras de Málaga,15.0,Garnacha,,93.0,
+738,Nadal Salvatge Rosé,,19.4,5.0,Cava,Corpinnat,12.5,Pinot noir,,,
+739,Vega Sicilia Único Reserva Especial - Edición, 2023,465.0,5.0,Vino tinto,Ribera del Duero,14.0,Tempranillo,98.0,97.0,99.0
+740,Corral de Campanas, 2020,10.95,4.0,Vino tinto,Toro,14.5,Tinta de Toro,,90.0,
+741,Mastinell Nature Gran Reserva, 2014,18.5,5.0,Cava,DO Cava,12.0,Xarel·lo,,90.0,
+742,Pesquera MXI, 2020,24.95,5.0,Vino tinto,Ribera del Duero,14.0,Tempranillo,,,92.0
+743,Dehesa Gago, 2022,10.1,4.2,Vino tinto,Toro,14.5,Tinta de Toro,,90.0,
+744,Vespres, 2022,14.9,4.0,Vino tinto,Montsant,14.0,Garnacha,91.0,90.0,92.0
+745,Abadía Retuerta Pago Negralada, 2017,74.95,5.0,Vino tinto,Abadía Retuerta,15.0,Tempranillo,93.0,95.0,
+746,AT Roca Brut Nature Reserva, 2021,14.9,0.0,Cava,DO Cava,12.0,Macabeo,,,
+747,Marqués de Griñón Cabernet Sauvignon, 2019,24.95,3.7,Vino tinto,Dominio de Valdepusa,15.0,Cabernet sauvignon,91.0,93.0,
+748,Llopart Original Brut Nature 1887, 2010,56.7,4.3,Cava,Corpinnat,11.5,Parellada,93.0,95.0,
+749,Els Vinyerons Lluerna Blanc, 2022,9.4,5.0,Vino blanco,Penedès,12.0,Xarel·lo,,,
+750,Viña Salceda Rueda Verdejo, 2022,7.45,4.0,Vino blanco,Rueda,13.0,Verdejo,,,
+751,El Senat del Montsant, 2021,14.75,4.2,Vino tinto,Montsant,14.5,Garnacha,,,
+752,Tres Olmos Verdejo Lías, 2021,8.7,4.0,Vino blanco,Rueda,13.0,Verdejo,,90.0,
+753,Còsmic Destí Muscat, 2022,16.9,4.5,Vino naranja,España,11.5,Moscatel de Alejandría,,,
+754,DG Viticultors Brut Rosé, 2013,14.3,4.4,Cava,DO Cava,12.5,Pinot noir,,,
+755,Gregal d'Espiells, 2022,10.85,4.5,Vino blanco,Penedès,11.0,Gewürztraminer,,,
+756,Quinta Milú La Cometa, 2021,17.8,4.3,Vino tinto,Ribera del Duero,14.0,Tempranillo,,,
+757,Carmelo Rodero Valtarreña, 2020,53.95,3.7,Vino tinto,Ribera del Duero,14.0,Tempranillo,93.0,,
+758,Casas de Moya Sofia Dulce, 2017 ,22.55,5.0,Vino de botrytis,Valencia,13.5,Sauvignon blanc,,,
+759,Ramón Bilbao Rosado, 2022,7.9,4.2,Vino rosado,Rioja,12.5,Garnacha,,90.0,
+760,Cepa Gavilán, 2020,12.4,4.5,Vino tinto,Ribera del Duero,14.5,Tempranillo,,,
+761,Maria Casanovas Rosat,,22.95,0.0,Cava,DO Cava,11.5,Pinot noir,,,
+762,Les Aubaguetes, 2019,450.0,0.0,Vino tinto,Priorat,14.5,Garnacha,98.0,97.0,99.0
+763,El Gos, 2022,7.9,4.0,Vino tinto,España,14.0,Garnacha,,,
+764,Pazo de San Mauro, 2022,17.75,0.0,Vino Blanco,Rías Baixas,12.5,Albariño,,,
+765,Mas La Mola Vi d'Altura, 2021,22.95,5.0,Vino tinto,Priorat,14.5,Garnacha,,,
+788,Las Pizarras Volcán, 2022,6.95,4.0,Vino tinto,Calatayud,13.0,Garnacha,,,
+789,Marko Gure Arbasoak, 2022,22.55,0.0,Vino blanco,Bizkaiko Txakolina,12.5,Hondarribi zerratia,94.0,,
+790,Borsao Bole, 2020,6.9,4.1,Vino tinto,Campo de Borja,15.0,Garnacha,90.0,,
+791,Valdespino Viña Macharnudo Alto, 2022,11.85,0.0,Vino blanco,Jerez-Manzanilla,11.0,Palomino fino,,,
+792,Casa Vella d'Espiells, 2019,13.5,5.0,Vino tinto,Penedès,15.0,Cabernet sauvignon,,,
+793,Petit Hipperia, 2021,16.75,4.5,Vino tinto,Castilla,15.0,Merlot,90.0,,
+794,Remordimiento, 2022,8.55,5.0,Vino Tinto,Jumilla,14.5,Monastrell,,,
+795,La Casa de la Seda, 2021,18.8,0.0,Vino tinto,Utiel-Requena,14.5,Bobal,,91.0,92.0
+796,Legaris Crianza, 2020,16.95,4.6,Vino tinto,Ribera del Duero,15.0,Tempranillo,,90.0,91.0
+797,Sumarroca Brut Nature Gran Reserva,,16.3,4.0,Cava,DO Cava,12.0,Macabeo,,,
+798,Ikigall, 2022,9.95,4.5,Vino blanco,Penedès,12.0,Xarel·lo,,,
+799,Celler Vell Brut Nature Reserva Eco,,8.95,4.2,Cava,DO Cava,11.5,Macabeo,,,
+800,L'Avi Arrufi Blanc Fermentat en Barrica, 2022,18.9,4.7,Vino blanco,Terra Alta,14.5,Garnacha blanca,92.0,94.0,
+801,Pasión de Bobal Rosado, 2022,6.5,4.5,Vino rosado,Utiel-Requena,12.5,Bobal,,,
+802,Flor de Vetus Verdejo, 2022,7.8,4.1,Vino blanco,Rueda,12.5,Verdejo,,91.0,91.0
+803,Vallformosa Freyé Xarel·lo Chardonnay, 2022,9.6,0.0,Vino blanco,Penedès,12.0,Xarel·lo,,90.0,
+804,Les Cousins L'Antagonique, 2021,12.95,4.4,Vino blanco,Priorat,14.5,Garnacha,,,
+805,Termanthia, 2015,248.95,0.0,Vino tinto,Toro,15.0,Tinta de Toro,,97.0,97.0
+806,Frontonio Microcósmico Garnacha, 2021,,3.6,Vino tinto,Valdejalón,13.5,Garnacha,93.0,92.0,92.0
+807,Lirondo, 2022,12.5,4.8,Vino blanco,España,13.5,Verdejo,90.0,90.0,
+808,Borsao Berola, 2018,11.95,4.2,Vino tinto,Campo de Borja,15.0,Garnacha,90.0,91.0,90.0
+809,Suertes del Marqués 7 Fuentes, 2020,12.95,4.0,Vino tinto,Valle de La Orotava,13.5,Listán negro,,90.0,
+810,Las Pizarras Fabla # 506, 2022,7.95,3.0,Vino tinto,Calatayud,13.5,Garnacha,,90.0,
+811,Larchago Crianza, 2020,9.5,4.0,Vino tinto,Rioja,14.0,Tempranillo,,,92.0
+812,Txakoli Aizpurua, 2022,9.75,4.3,Vino blanco,Getariako Txakolina,11.0,Hondarribi zuri,,,
+813,El Perro Flaco Verdejo, 2022,4.8,4.4,Vino blanco,Rueda,12.5,Verdejo,,,
+814,Abadía Retuerta Pago La Garduña, 2019,91.5,5.0,Vino tinto,Abadía Retuerta,14.5,Syrah,92.0,,
+815,Olivares Alto de la Hoya, 2021,10.5,4.3,Vino tinto,Jumilla,14.5,Monastrell,,,
+816,Manzanilla Fina La Cigarrera,,11.4,4.0,Manzanilla,Jerez-Manzanilla,15.0,Palomino fino,,,
+817,Regina Viarum Mencía, 2022,9.95,5.0,Vino tinto,Ribeira Sacra,13.5,Mencía,,90.0,
+818,Clos Figueres, 2019,62.5,5.0,Vino tinto,Priorat,14.5,Cariñena,95.0,,
+819,Capricho Val de Paxariñas, 2022,11.95,4.8,Vino blanco,Bierzo,13.5,Godello,90.0,93.0,
+820,Campo Viejo Crianza, 2020,5.75,4.5,Vino tinto,Rioja,13.5,Tempranillo,,,
+821,Poesia Garnacha Tinta, 2021,3.9,4.1,Vino tinto,Catalunya,13.5,Garnacha,,,
+822,Monasterio de las Viñas Crianza, 2019,5.2,5.0,Vino tinto,Cariñena,13.5,Tempranillo,,,
+823,Faustino V Rosado, 2022,5.45,4.1,Vino rosado,Rioja,13.5,Tempranillo,,,
