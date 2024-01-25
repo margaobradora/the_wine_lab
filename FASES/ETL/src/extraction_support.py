@@ -290,6 +290,8 @@ def capturar_info(urls_list):
     return dict_results
 
 # %%
+
+
 def mostrar_y_guardar(dict_results, nombre_archivo):
     # Crear un DataFrame a partir del diccionario
     dataframe = pd.DataFrame.from_dict(dict_results, orient='index')
@@ -298,15 +300,21 @@ def mostrar_y_guardar(dict_results, nombre_archivo):
     print("Datos del DataFrame:")
     print(dataframe)
 
-    # Guardar el DataFrame en un archivo CSV
-    dataframe.to_csv(nombre_archivo, index_label='Encabezados')
+    # Obtener la ruta del directorio actual del script
+    directorio_actual = os.path.dirname(os.path.abspath(__file__))
+    ruta_guardado = os.path.join(directorio_actual, 'Files')  # Carpeta 'Files' dentro del directorio del script
 
-    print(f"\nLos datos se han guardado en el archivo '{nombre_archivo}'.")
+    # Verificar si la carpeta 'Files' no existe y crearla si es necesario
+    if not os.path.exists(ruta_guardado):
+        os.makedirs(ruta_guardado)
+
+    # Guardar el DataFrame en un archivo CSV dentro de la carpeta 'Files'
+    ruta_completa = os.path.join(ruta_guardado, nombre_archivo)
+    dataframe.to_csv(ruta_completa, index_label='Encabezados')
+
+    print(f"\nLos datos se han guardado en el archivo '{ruta_completa}'.")
     
     # Retornar el DataFrame
     return dataframe
-
-
-
 
 # %%

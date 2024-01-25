@@ -1,54 +1,9 @@
-#%% 
-import requests
-from bs4 import BeautifulSoup
+#%%
 import pandas as pd
-import requests as re
 import os
 import sys
 
-
-#%% 
-
-def obtener_ruta_files():
-    # Obtiene la ruta del directorio donde se ejecuta este script
-    ruta_actual = os.path.dirname(os.path.abspath(__file__))
-    ruta_files = os.path.join(ruta_actual, 'Files')
-    
-    # Verifica si la carpeta 'Files' no existe y la crea si es necesario
-    if not os.path.exists(ruta_files):
-        os.makedirs(ruta_files)
-    
-    return ruta_files
-
-#%% 
-def cargar_y_mostrar_datos(nombre_archivo):
-    try:
-        # Obtiene la ruta actual
-        ruta_files = obtener_ruta_files()
-        
-        # Construye la ruta completa del archivo a partir de la ruta actual y el nombre del archivo
-        ruta_archivo = os.path.join(ruta_files, nombre_archivo)
-        
-        # Leer archivo especificado por 'nombre_archivo'
-        datos = pd.read_csv(ruta_archivo)
-        
-        # Mostrar todas las columnas del DataFrame
-        pd.set_option('display.max_columns', None)
-        
-        # Leer archivo usando la variable 'nombre_archivo'
-        df = pd.read_csv(nombre_archivo, index_col=0)
-        
-        # Mostrar datos del archivo 'nombre_archivo'
-        print(f"Datos del archivo {nombre_archivo}:")
-        print(df.head())  # Puedes cambiar esto a lo que necesites hacer con estos datos
-        
-        # Retornar los datos leídos por si se necesitan más adelante
-        return datos
-        
-    except FileNotFoundError as e:
-        print(f"No se pudo encontrar el archivo: {e}")
-        return None
-
+pd.set_option('display.max_columns', None) # para poder visualizar todas las columnas de los DataFrames
 
 # %%
 def exploracion_csv(dataframe):
